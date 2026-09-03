@@ -1,0 +1,15472 @@
+{
+ "version": "2026-08-28-v2",
+ "source": "shared/reference/订舱口.xlsx",
+ "total_raw": 1304,
+ "disabled_excluded": 11,
+ "active": 1293,
+ "merged_codes": 1280,
+ "records": [
+  {
+   "code": "ADLYHKGS",
+   "shorts": [
+    "QF"
+   ],
+   "cns": [
+    "澳大利亚航空公司"
+   ],
+   "ens": [
+    "QANTAS AIRWAYS LIMITED"
+   ]
+  },
+  {
+   "code": "XXLHKGS",
+   "shorts": [
+    "NZ"
+   ],
+   "cns": [
+    "新西兰航空公司"
+   ],
+   "ens": [
+    "AIR NEW ZEALAND"
+   ]
+  },
+  {
+   "code": "JDHKGS",
+   "shorts": [
+    "PO"
+   ],
+   "cns": [
+    "极地航空公司"
+   ],
+   "ens": [
+    "POLAR AIR CARGO WORLDWIDE, INC"
+   ]
+  },
+  {
+   "code": "ALQHKGS",
+   "shorts": [
+    "EK"
+   ],
+   "cns": [
+    "阿联酋航空公司"
+   ],
+   "ens": [
+    "EMIRATES SKYCARGO"
+   ]
+  },
+  {
+   "code": "ALQSJHKG",
+   "shorts": [
+    "EY"
+   ],
+   "cns": [
+    "阿联酋水晶航空公司"
+   ],
+   "ens": [
+    "ETIHAD CRYSTAL CARGO"
+   ]
+  },
+  {
+   "code": "XJPHKGS",
+   "shorts": [
+    "SQ"
+   ],
+   "cns": [
+    "新加坡航空公司"
+   ],
+   "ens": [
+    "SINGAPORE AIRLINES"
+   ]
+  },
+  {
+   "code": "DHHKGS",
+   "shorts": [
+    "KE"
+   ],
+   "cns": [
+    "大韩航空公司"
+   ],
+   "ens": [
+    "KOREAN AIRLINES"
+   ]
+  },
+  {
+   "code": "TGHKGS",
+   "shorts": [
+    "TG"
+   ],
+   "cns": [
+    "泰国航空公司"
+   ],
+   "ens": [
+    "THAI AIRWAYS"
+   ]
+  },
+  {
+   "code": "RBHKGS",
+   "shorts": [
+    "JL"
+   ],
+   "cns": [
+    "日本航空公司"
+   ],
+   "ens": [
+    "JAPAN AIRLINES"
+   ]
+  },
+  {
+   "code": "JLDHKGSY",
+   "shorts": [
+    "GA"
+   ],
+   "cns": [
+    "嘉鲁达航空公司(印度尼西亚鹰航)"
+   ],
+   "ens": [
+    "GARUDA INDONESIA"
+   ]
+  },
+  {
+   "code": "HYHKGS",
+   "shorts": [
+    "OZ"
+   ],
+   "cns": [
+    "韩亚航空公司"
+   ],
+   "ens": [
+    "ASIANA AIRLINES"
+   ]
+  },
+  {
+   "code": "GLHKGS",
+   "shorts": [
+    "KA"
+   ],
+   "cns": [
+    "港龙航空公司"
+   ],
+   "ens": [
+    "HONG KONG DRAGON AIRLINES (DRAGONAIR)"
+   ]
+  },
+  {
+   "code": "SZHKGS",
+   "shorts": [
+    "ZH"
+   ],
+   "cns": [
+    "深圳航空公司"
+   ],
+   "ens": [
+    "SHENZHEN AIRLINES"
+   ]
+  },
+  {
+   "code": "TEQHKGS",
+   "shorts": [
+    "TK"
+   ],
+   "cns": [
+    "土耳其航空公司"
+   ],
+   "ens": [
+    "TURKISH AIRLINES"
+   ]
+  },
+  {
+   "code": "MZDLHKGS",
+   "shorts": [
+    "CO"
+   ],
+   "cns": [
+    "美州大陆航空公司"
+   ],
+   "ens": [
+    "CONTINENTAL AIRLINES"
+   ]
+  },
+  {
+   "code": "MGDMHKGS",
+   "shorts": [
+    "DL"
+   ],
+   "cns": [
+    "美国达美航空公司"
+   ],
+   "ens": [
+    "DELTA AIRLINES"
+   ]
+  },
+  {
+   "code": "MGLGHKGS",
+   "shorts": [
+    "UA"
+   ],
+   "cns": [
+    "美国联合航空公司"
+   ],
+   "ens": [
+    "UNITED AIRLINES CARGO"
+   ]
+  },
+  {
+   "code": "ZGDFHKGS",
+   "shorts": [
+    "MU"
+   ],
+   "cns": [
+    "中国东方航空公司"
+   ],
+   "ens": [
+    "CHINA EASTERN AIRLINES"
+   ]
+  },
+  {
+   "code": "MGXBHKGS",
+   "shorts": [
+    "NW"
+   ],
+   "cns": [
+    "美国西北航空公司"
+   ],
+   "ens": [
+    "NORTHWEST AIRLINES"
+   ]
+  },
+  {
+   "code": "CCHKGS",
+   "shorts": [
+    "IJ"
+   ],
+   "cns": [
+    "长城航空公司"
+   ],
+   "ens": [
+    "GREAT WALL AIRLINES"
+   ]
+  },
+  {
+   "code": "FGHKGS",
+   "shorts": [
+    "AF"
+   ],
+   "cns": [
+    "法国航空公司"
+   ],
+   "ens": [
+    "AIR FRANCE"
+   ]
+  },
+  {
+   "code": "HLHJHKGS",
+   "shorts": [
+    "KL"
+   ],
+   "cns": [
+    "荷兰皇家航空公司"
+   ],
+   "ens": [
+    "KLM ROYAL DUTCH AIRLINES"
+   ]
+  },
+  {
+   "code": "NMLCZGYX",
+   "shorts": [
+    "CSAV"
+   ],
+   "cns": [
+    "南美轮船（中国）有限公司"
+   ],
+   "ens": [
+    "CSAV NORASIA"
+   ]
+  },
+  {
+   "code": "MGZTBLGS",
+   "shorts": [
+    "APL"
+   ],
+   "cns": [
+    "美国总统班轮公司"
+   ],
+   "ens": [
+    "AMERICAN PRESIDNET LINES"
+   ]
+  },
+  {
+   "code": "SJHY",
+   "shorts": [
+    "MAERSK"
+   ],
+   "cns": [
+    "马士基航运"
+   ],
+   "ens": [
+    "MAERSK LINE"
+   ]
+  },
+  {
+   "code": "DZHHYGS",
+   "shorts": [
+    "MSC"
+   ],
+   "cns": [
+    "地中海航运公司"
+   ],
+   "ens": [
+    "MEDITERRANEAN SHIPPING COMPANY S.A."
+   ]
+  },
+  {
+   "code": "TPCWYXGS",
+   "shorts": [
+    "PIL1"
+   ],
+   "cns": [
+    "太平船务有限公司"
+   ],
+   "ens": [
+    "PACIFIC INTERNATIONAL LINES"
+   ]
+  },
+  {
+   "code": "AZGJHYYX",
+   "shorts": [
+    "ANL"
+   ],
+   "cns": [
+    "澳洲国际航运有限公司"
+   ],
+   "ens": [
+    "AUSTRALIAN NATIONAL LINES"
+   ]
+  },
+  {
+   "code": "RBCQZSHS",
+   "shorts": [
+    "K-LINE"
+   ],
+   "cns": [
+    "日本川崎株式会社"
+   ],
+   "ens": [
+    "KAWASAKI KISEN KAISHA LTD"
+   ]
+  },
+  {
+   "code": "HHXYCWYX",
+   "shorts": [
+    "RCL"
+   ],
+   "cns": [
+    "宏海箱运船务有限公司"
+   ],
+   "ens": [
+    "REGIONAL CONTAINER LINES"
+   ]
+  },
+  {
+   "code": "RBYC",
+   "shorts": [
+    "NYK"
+   ],
+   "cns": [
+    "日本邮船"
+   ],
+   "ens": [
+    "NIPPON YUSEN KAISHA LINE"
+   ]
+  },
+  {
+   "code": "HLCWXGYX",
+   "shorts": [
+    "WALLEM"
+   ],
+   "cns": [
+    "华林船务(香港)有限公司"
+   ],
+   "ens": [
+    "WALLEM SHIPPING(HONGKONG) LTD."
+   ]
+  },
+  {
+   "code": "ALBLGGJL",
+   "shorts": [
+    "UASC"
+   ],
+   "cns": [
+    "阿拉伯联合国家轮船公司"
+   ],
+   "ens": [
+    "UNITED ARAB SHIPPING COMPANY"
+   ]
+  },
+  {
+   "code": "ZHHKGS",
+   "shorts": [
+    "CI"
+   ],
+   "cns": [
+    "中华航空公司"
+   ],
+   "ens": [
+    "China Airlines"
+   ]
+  },
+  {
+   "code": "CRHKGS",
+   "shorts": [
+    "BR"
+   ],
+   "cns": [
+    "长荣航空公司"
+   ],
+   "ens": [
+    "EVA AIR"
+   ]
+  },
+  {
+   "code": "WLHJHKGS",
+   "shorts": [
+    "BI"
+   ],
+   "cns": [
+    "汶莱皇家航空公司"
+   ],
+   "ens": [
+    "Royal Brunei Airlines"
+   ]
+  },
+  {
+   "code": "ELSKQYHK",
+   "shorts": [
+    "RU"
+   ],
+   "cns": [
+    "俄罗斯空桥货运航空公司"
+   ],
+   "ens": [
+    "AIRBRIDGECARGO AIRLINES LLC"
+   ]
+  },
+  {
+   "code": "RBYHKGS",
+   "shorts": [
+    "KZ"
+   ],
+   "cns": [
+    "日本货运航空公司"
+   ],
+   "ens": [
+    "NIPPON CARGO AIRLINES"
+   ]
+  },
+  {
+   "code": "KTEHKGS",
+   "shorts": [
+    "QR"
+   ],
+   "cns": [
+    "卡塔尔航空公司"
+   ],
+   "ens": [
+    "QATAR AIRWAYS"
+   ]
+  },
+  {
+   "code": "YHHKGS",
+   "shorts": [
+    "GD"
+   ],
+   "cns": [
+    "银河航空公司"
+   ],
+   "ens": [
+    "GRANDSTAR CARGO AIRLINES"
+   ]
+  },
+  {
+   "code": "LXYHKGS",
+   "shorts": [
+    "MH"
+   ],
+   "cns": [
+    "马来西亚航空公司"
+   ],
+   "ens": [
+    "MALAYSIAN AIRLINES"
+   ]
+  },
+  {
+   "code": "QRKHKGS",
+   "shorts": [
+    "NH"
+   ],
+   "cns": [
+    "全日空航空公司"
+   ],
+   "ens": [
+    "ALL NIPPON AIRWAYS"
+   ]
+  },
+  {
+   "code": "GTHKGS",
+   "shorts": [
+    "CX"
+   ],
+   "cns": [
+    "国泰航空公司"
+   ],
+   "ens": [
+    "CATHAY PACIFIC AIRWAYS"
+   ]
+  },
+  {
+   "code": "ZGGJHKGS",
+   "shorts": [
+    "CA"
+   ],
+   "cns": [
+    "中国国际航空公司"
+   ],
+   "ens": [
+    "AIR CHINA INTERNATIONAL"
+   ]
+  },
+  {
+   "code": "YZHKGS",
+   "shorts": [
+    "AK"
+   ],
+   "cns": [
+    "亚洲航空公司"
+   ],
+   "ens": [
+    "AIR ASIA BERHAD"
+   ]
+  },
+  {
+   "code": "TPYHKGS",
+   "shorts": [
+    "FJ"
+   ],
+   "cns": [
+    "太平洋航空公司"
+   ],
+   "ens": [
+    "AIR PACIFIC LTD"
+   ]
+  },
+  {
+   "code": "YZJKYHKY",
+   "shorts": [
+    "Y8"
+   ],
+   "cns": [
+    "扬子江快运航空有限公司"
+   ],
+   "ens": [
+    "YANGTZE RIVER EXPRESS AIRLINES"
+   ]
+  },
+  {
+   "code": "YDHJHKGS",
+   "shorts": [
+    "RJ"
+   ],
+   "cns": [
+    "约旦皇家航空公司"
+   ],
+   "ens": [
+    "ROYAL JORDANIAN AIRLINES"
+   ]
+  },
+  {
+   "code": "LGBGFWGS",
+   "shorts": [
+    "5X"
+   ],
+   "cns": [
+    "联合包裹服务公司"
+   ],
+   "ens": [
+    "UNITED PARCEL SERVICES"
+   ]
+  },
+  {
+   "code": "MGHKGS",
+   "shorts": [
+    "AA"
+   ],
+   "cns": [
+    "美国航空公司"
+   ],
+   "ens": [
+    "AMERICAN AIRLINES"
+   ]
+  },
+  {
+   "code": "SHHKGS",
+   "shorts": [
+    "FM"
+   ],
+   "cns": [
+    "上海航空公司"
+   ],
+   "ens": [
+    "SHANGHAI AIRLINES"
+   ]
+  },
+  {
+   "code": "YGHKGS",
+   "shorts": [
+    "BA"
+   ],
+   "cns": [
+    "英国航空公司"
+   ],
+   "ens": [
+    "BRITISH AIRWAYS"
+   ]
+  },
+  {
+   "code": "DGHSHKGS",
+   "shorts": [
+    "LH"
+   ],
+   "cns": [
+    "德国汉莎航空公司"
+   ],
+   "ens": [
+    "LUFTHANSA"
+   ]
+  },
+  {
+   "code": "FLBHKGS",
+   "shorts": [
+    "PR"
+   ],
+   "cns": [
+    "菲律宾航空公司"
+   ],
+   "ens": [
+    "PHILIPPINE AIRLINES"
+   ]
+  },
+  {
+   "code": "FGDFLCYX",
+   "shorts": [
+    "CMA-CGM"
+   ],
+   "cns": [
+    "法国达飞轮船有限公司"
+   ],
+   "ens": [
+    "COMPAGNIE MARITIME D'AFFRETEMENT"
+   ]
+  },
+  {
+   "code": "ZHJZXYSG",
+   "shorts": [
+    "CSCL"
+   ],
+   "cns": [
+    "中海集装箱运输股份有限公司"
+   ],
+   "ens": [
+    "CHINA SHIPPING CONTAINER LINES"
+   ]
+  },
+  {
+   "code": "RBSCSJZS",
+   "shorts": [
+    "MOL"
+   ],
+   "cns": [
+    "日本商船三井株式会社"
+   ],
+   "ens": [
+    "MITSUI O.S.K. LINES"
+   ]
+  },
+  {
+   "code": "DFHW",
+   "shorts": [
+    "OOCL",
+    "DFHW"
+   ],
+   "cns": [
+    "东方海外",
+    "东方海外货柜航运（中国）有限公司"
+   ],
+   "ens": [
+    "ORIENT OVERSEAS CONTAINER LINE",
+    "东方海外货柜航运（中国）有限公司"
+   ]
+  },
+  {
+   "code": "LXYHY",
+   "shorts": [
+    "MISC"
+   ],
+   "cns": [
+    "马来西亚航运"
+   ],
+   "ens": [
+    "MALAYSIA INTERNATIONAL SHIPPING CORP. BERHAD"
+   ]
+  },
+  {
+   "code": "HBHY",
+   "shorts": [
+    "HAMBURG SUD",
+    "HBHY"
+   ],
+   "cns": [
+    "汉堡航运",
+    "河北胡杨进出口有限公司"
+   ],
+   "ens": [
+    "HAMBURG SUD",
+    "河北胡杨进出口有限公司"
+   ]
+  },
+  {
+   "code": "FCHKGS",
+   "shorts": [
+    "JI"
+   ],
+   "cns": [
+    "翡翠航空公司"
+   ],
+   "ens": [
+    "JADE CARGO"
+   ]
+  },
+  {
+   "code": "XJPSAHKG",
+   "shorts": [
+    "MI"
+   ],
+   "cns": [
+    "新加坡胜安航空公司"
+   ],
+   "ens": [
+    "SINGAPORE SILK AIR"
+   ]
+  },
+  {
+   "code": "SMHKYXGS",
+   "shorts": [
+    "MF"
+   ],
+   "cns": [
+    "厦门航空有限公司"
+   ],
+   "ens": [
+    "MFF"
+   ]
+  },
+  {
+   "code": "HXHK",
+   "shorts": [
+    "AE"
+   ],
+   "cns": [
+    "华信航空"
+   ],
+   "ens": [
+    "Mandarin Airlines"
+   ]
+  },
+  {
+   "code": "XDSCZGYX",
+   "shorts": [
+    "HMM1"
+   ],
+   "cns": [
+    "现代商船（中国）有限公司"
+   ],
+   "ens": [
+    "HYUNDAI MERCHANT MARINE CO LTD"
+   ]
+  },
+  {
+   "code": "ZYJZXYSY",
+   "shorts": [
+    "COSCON‌"
+   ],
+   "cns": [
+    "中远集装箱运输有限公司"
+   ],
+   "ens": [
+    "COSCO"
+   ]
+  },
+  {
+   "code": "ZWYJZXYS",
+   "shorts": [
+    "SNL"
+   ],
+   "cns": [
+    "中外运集装箱运输有限公司"
+   ],
+   "ens": [
+    "SINOTRANS CONTAINER LINES CO.,LTD"
+   ]
+  },
+  {
+   "code": "JHHYYXGS",
+   "shorts": [
+    "JHHY"
+   ],
+   "cns": [
+    "京汉航运有限公司"
+   ],
+   "ens": [
+    "COHEUNG MARINE SHIPPING CO LTD"
+   ]
+  },
+  {
+   "code": "HJHYZGYX",
+   "shorts": [
+    "HANJIN"
+   ],
+   "cns": [
+    "韩进海运(中国)有限公司"
+   ],
+   "ens": [
+    "HANJIN SHIPPING"
+   ]
+  },
+  {
+   "code": "DXHYSHDS",
+   "shorts": [
+    "TS LINES"
+   ],
+   "cns": [
+    "德翔航运（上海德圣船务有限公司）"
+   ],
+   "ens": [
+    "TS LINES"
+   ]
+  },
+  {
+   "code": "MHHYXGGF",
+   "shorts": [
+    "WAN HAI LINES"
+   ],
+   "cns": [
+    "万海航运（香港）股份有限公司"
+   ],
+   "ens": [
+    "WAN HAI LINES"
+   ]
+  },
+  {
+   "code": "ZLHYGFYX",
+   "shorts": [
+    "ZLHY"
+   ],
+   "cns": [
+    "正利航业股份有限公司"
+   ],
+   "ens": [
+    "CHENG LIE NAVIGATION CO LTD"
+   ]
+  },
+  {
+   "code": "XHFJZXYS",
+   "shorts": [
+    "XHF"
+   ],
+   "cns": [
+    "新海丰集装箱运输有限公司"
+   ],
+   "ens": [
+    "SITC"
+   ]
+  },
+  {
+   "code": "SHSJJHYY",
+   "shorts": [
+    "JJ SHIPPING"
+   ],
+   "cns": [
+    "上海市锦江航运有限公司"
+   ],
+   "ens": [
+    "SHANGHAI JINJIANG SHIPPING"
+   ]
+  },
+  {
+   "code": "SCSJZGYX",
+   "shorts": [
+    "MOLC"
+   ],
+   "cns": [
+    "商船三井（中国）有限公司"
+   ],
+   "ens": [
+    "MOL (CHINA) CO.,LTD."
+   ]
+  },
+  {
+   "code": "ZGWYHDYX",
+   "shorts": [
+    "ZGWYHDYX"
+   ],
+   "cns": [
+    "中国外运华东有限公司"
+   ],
+   "ens": [
+    "SINOTRANS SHANGHAI （GROUP） CO.,LTD."
+   ]
+  },
+  {
+   "code": "YXZGHYZG",
+   "shorts": [
+    "ZIM"
+   ],
+   "cns": [
+    "以星综合航运(中国)有限公司"
+   ],
+   "ens": [
+    "ZIM INTEGATED SHIPPING SERVICE (CHINA) CO."
+   ]
+  },
+  {
+   "code": "TRSCZSHS",
+   "shorts": [
+    "TAIYOUNG"
+   ],
+   "cns": [
+    "太荣商船株式会社"
+   ],
+   "ens": [
+    "TAIYOUNG SHIPPING CO.,LTD"
+   ]
+  },
+  {
+   "code": "ZGWYCJYX",
+   "shorts": [
+    "ZGWYCJ"
+   ],
+   "cns": [
+    "中国外运长江有限公司南通分公司"
+   ],
+   "ens": [
+    "SINOTRANS CHANGJIANG Co., Ltd.NANTONG BRANCH"
+   ]
+  },
+  {
+   "code": "ZGNFHKGS",
+   "shorts": [
+    "CZ"
+   ],
+   "cns": [
+    "中国南方航空公司"
+   ],
+   "ens": [
+    "China Southern Airlines"
+   ]
+  },
+  {
+   "code": "WZHK",
+   "shorts": [
+    "VS"
+   ],
+   "cns": [
+    "维珍航空"
+   ],
+   "ens": [
+    "Virgin Atlantic Airways Ltd."
+   ]
+  },
+  {
+   "code": "JXYZHKGS",
+   "shorts": [
+    "3K"
+   ],
+   "cns": [
+    "捷星亚洲航空公司"
+   ],
+   "ens": [
+    "Jetstar Asia Airways"
+   ]
+  },
+  {
+   "code": "XGHKYXGS",
+   "shorts": [
+    "HX"
+   ],
+   "cns": [
+    "香港航空有限公司"
+   ],
+   "ens": [
+    "Hong Kong Airlines"
+   ]
+  },
+  {
+   "code": "SYQCZGCW",
+   "shorts": [
+    "SYQC"
+   ],
+   "cns": [
+    "神原汽船(中国)船务有限公司"
+   ],
+   "ens": [
+    "KAMBARA KISEN CO LTD"
+   ]
+  },
+  {
+   "code": "SLLKHKGS",
+   "shorts": [
+    "UL"
+   ],
+   "cns": [
+    "斯里兰卡航空公司"
+   ],
+   "ens": [
+    "Srilankan Cargo"
+   ]
+  },
+  {
+   "code": "YYHHK",
+   "shorts": [
+    "GIA"
+   ],
+   "cns": [
+    "印尼鹰航航空"
+   ],
+   "ens": [
+    "GARADA INDONESTA"
+   ]
+  },
+  {
+   "code": "MXGHKGS",
+   "shorts": [
+    "AM"
+   ],
+   "cns": [
+    "墨西哥航空公司"
+   ],
+   "ens": [
+    "AEROMEXICO CARGO"
+   ]
+  },
+  {
+   "code": "ALQCWDLX",
+   "shorts": [
+    "UASCINVALAID"
+   ],
+   "cns": [
+    "阿联酋船务代理（香港）有限公司"
+   ],
+   "ens": [
+    "United Arab Shipping Agency Company"
+   ]
+  },
+  {
+   "code": "STXGYXGS",
+   "shorts": [
+    "STX"
+   ],
+   "cns": [
+    "世腾（香港）有限公司"
+   ],
+   "ens": [
+    "STX Pan Ocean (Hong Kong) Co., Ltd"
+   ]
+  },
+  {
+   "code": "CJSCCWYX",
+   "shorts": [
+    "SKR"
+   ],
+   "cns": [
+    "长锦商船船务有限公司"
+   ],
+   "ens": [
+    "Sinokor Merchant Marine Co., Ltd"
+   ]
+  },
+  {
+   "code": "XGJXLCYX",
+   "shorts": [
+    "GOLDSTAR"
+   ],
+   "cns": [
+    "香港金星轮船有限公司"
+   ],
+   "ens": [
+    "GOLD STAR LINE LTD"
+   ]
+  },
+  {
+   "code": "YZHK",
+   "shorts": [
+    "D7"
+   ],
+   "cns": [
+    "亚洲航空"
+   ],
+   "ens": [
+    "Airasia Airline"
+   ]
+  },
+  {
+   "code": "SMDL",
+   "shorts": [
+    "SMDL"
+   ],
+   "cns": [
+    "萨姆达拉"
+   ],
+   "ens": [
+    "SAMUDERA SHIPPING LINE LTD"
+   ]
+  },
+  {
+   "code": "TGYZHK",
+   "shorts": [
+    "FD"
+   ],
+   "cns": [
+    "泰国亚洲航空"
+   ],
+   "ens": [
+    "THAI AIRASIA"
+   ]
+  },
+  {
+   "code": "YDGJHYGS",
+   "shorts": [
+    "SCI"
+   ],
+   "cns": [
+    "印度国家航运公司"
+   ],
+   "ens": [
+    "SHIPPING CORPORATION OF INDIA"
+   ]
+  },
+  {
+   "code": "ZHJZXYSX",
+   "shorts": [
+    "CSCLHK"
+   ],
+   "cns": [
+    "中海集装箱运输（香港）有限公司"
+   ],
+   "ens": [
+    "CHINA SHIPPING CONTAINER LINES (HONG KONG) CO LTD"
+   ]
+  },
+  {
+   "code": "SMZYGJYY",
+   "shorts": [
+    "COSCOXM"
+   ],
+   "cns": [
+    "厦门中远国际货运有限公司"
+   ],
+   "ens": [
+    "COSCO XIAMEN INTERNATIONAL FREIGHT Co., LTD"
+   ]
+  },
+  {
+   "code": "DXHYSM",
+   "shorts": [
+    "TSLXM"
+   ],
+   "cns": [
+    "德翔航运(厦门）"
+   ],
+   "ens": [
+    "T.S.LINES LTD"
+   ]
+  },
+  {
+   "code": "YLHYCWYX",
+   "shorts": [
+    "IRISLTJ"
+   ],
+   "cns": [
+    "伊朗航运船务有限公司"
+   ],
+   "ens": [
+    "IRISL(CHINA)SHIPPING CO.,LTD"
+   ]
+  },
+  {
+   "code": "JNDHKGS",
+   "shorts": [
+    "AC"
+   ],
+   "cns": [
+    "加拿大航空公司"
+   ],
+   "ens": [
+    "Air Canada"
+   ]
+  },
+  {
+   "code": "NFHY",
+   "shorts": [
+    "SAFTJ"
+   ],
+   "cns": [
+    "南非航运"
+   ],
+   "ens": [
+    "SAFMARINE"
+   ]
+  },
+  {
+   "code": "ALQHYCGS",
+   "shorts": [
+    "ESLTJ"
+   ],
+   "cns": [
+    "阿联酋航运船公司"
+   ],
+   "ens": [
+    "EMIRATES SHIPPING LINE DMCEST"
+   ]
+  },
+  {
+   "code": "LFHYYXGS",
+   "shorts": [
+    "LTQD"
+   ],
+   "cns": [
+    "鲁丰航运有限公司"
+   ],
+   "ens": [
+    "LUFENG SHIPPING CO.,LTD."
+   ]
+  },
+  {
+   "code": "NXHYZSHS",
+   "shorts": [
+    "NAM"
+   ],
+   "cns": [
+    "南星海运株式会社"
+   ],
+   "ens": [
+    "NAMSUNG SHIPPING CO.,LTD."
+   ]
+  },
+  {
+   "code": "XYCWYXGS",
+   "shorts": [
+    "XYQD"
+   ],
+   "cns": [
+    "兴亚船务有限公司"
+   ],
+   "ens": [
+    "HEUNG-A SHIPPING CO.,LTD"
+   ]
+  },
+  {
+   "code": "MGLBHKGS",
+   "shorts": [
+    "FX"
+   ],
+   "cns": [
+    "美国联邦航空公司"
+   ],
+   "ens": [
+    "Fedex"
+   ]
+  },
+  {
+   "code": "EYDHYLCY",
+   "shorts": [
+    "FESCOSH"
+   ],
+   "cns": [
+    "俄远东海洋轮船运输有限公司"
+   ],
+   "ens": [
+    "FESCO TRANSPORATION GROUP"
+   ]
+  },
+  {
+   "code": "ZLHK",
+   "shorts": [
+    "UC"
+   ],
+   "cns": [
+    "智利航空"
+   ],
+   "ens": [
+    "UC LAN CARGO"
+   ]
+  },
+  {
+   "code": "FZHYZSHS",
+   "shorts": [
+    "PANCONTJ"
+   ],
+   "cns": [
+    "泛洲海运株式会社天津代表处"
+   ],
+   "ens": [
+    "PAN CONTINENTAL SHIPPING CO.,LTD."
+   ]
+  },
+  {
+   "code": "XJPXFHHS",
+   "shorts": [
+    "TR"
+   ],
+   "cns": [
+    "新加坡欣丰虎航私人有限公司"
+   ],
+   "ens": [
+    "Tiger Airways Private Limited"
+   ]
+  },
+  {
+   "code": "DJSJHKGS",
+   "shorts": [
+    "MD"
+   ],
+   "cns": [
+    "马达加斯加航空公司"
+   ],
+   "ens": [
+    "Air Madagascar"
+   ]
+  },
+  {
+   "code": "ELSHK",
+   "shorts": [
+    "SU"
+   ],
+   "cns": [
+    "俄罗斯航空"
+   ],
+   "ens": [
+    "Russian Airlines"
+   ]
+  },
+  {
+   "code": "NFHK",
+   "shorts": [
+    "SA"
+   ],
+   "cns": [
+    "南非航空"
+   ],
+   "ens": [
+    "South African Airways Cargo"
+   ]
+  },
+  {
+   "code": "BLHK",
+   "shorts": [
+    "LO"
+   ],
+   "cns": [
+    "波兰航空"
+   ],
+   "ens": [
+    "LOT Polish Airlines"
+   ]
+  },
+  {
+   "code": "ASTNHK",
+   "shorts": [
+    "KC"
+   ],
+   "cns": [
+    "阿斯塔那航空"
+   ],
+   "ens": [
+    "Air Astana"
+   ]
+  },
+  {
+   "code": "AJHK",
+   "shorts": [
+    "MS"
+   ],
+   "cns": [
+    "埃及航空"
+   ],
+   "ens": [
+    "Egypt Air"
+   ]
+  },
+  {
+   "code": "FXHK",
+   "shorts": [
+    "GE"
+   ],
+   "cns": [
+    "复兴航空"
+   ],
+   "ens": [
+    "TRANSASIA AIRWAYS"
+   ]
+  },
+  {
+   "code": "ZGYHKYXG",
+   "shorts": [
+    "CKK"
+   ],
+   "cns": [
+    "中国货运航空有限公司"
+   ],
+   "ens": [
+    "China Cargo Airlines LTD."
+   ]
+  },
+  {
+   "code": "ZTGJHYYX",
+   "shorts": [
+    "CCLQD"
+   ],
+   "cns": [
+    "中通国际海运有限公司"
+   ],
+   "ens": [
+    "Centrans  International  Marine Shipping CO.,Ltd"
+   ]
+  },
+  {
+   "code": "YNHK",
+   "shorts": [
+    "VN"
+   ],
+   "cns": [
+    "越南航空"
+   ],
+   "ens": [
+    "Vietnam Airlines"
+   ]
+  },
+  {
+   "code": "MGPSGJHK",
+   "shorts": [
+    "M6"
+   ],
+   "cns": [
+    "美国喷射国际航空"
+   ],
+   "ens": [
+    "Amerijet International Airline"
+   ]
+  },
+  {
+   "code": "HNHKGFYX",
+   "shorts": [
+    "HU"
+   ],
+   "cns": [
+    "海南航空股份有限公司"
+   ],
+   "ens": [
+    "Hainan Airlines Company Limite"
+   ]
+  },
+  {
+   "code": "DGHKYYXG",
+   "shorts": [
+    "6U"
+   ],
+   "cns": [
+    "德国航空货运有限公司"
+   ],
+   "ens": [
+    "Air Cargo Germany GmbH"
+   ]
+  },
+  {
+   "code": "SFCWGS",
+   "shorts": [
+    "SOFHK"
+   ],
+   "cns": [
+    "顺发船务公司"
+   ],
+   "ens": [
+    "SOFAST SHIPPING LIMITED"
+   ]
+  },
+  {
+   "code": "LSBGJYHK",
+   "shorts": [
+    "CV"
+   ],
+   "cns": [
+    "卢森堡国际货运航空"
+   ],
+   "ens": [
+    "Cargolux Airlines"
+   ]
+  },
+  {
+   "code": "YHDTHKYX",
+   "shorts": [
+    "UW"
+   ],
+   "cns": [
+    "友和道通航空有限公司"
+   ],
+   "ens": [
+    "友和道通航空有限公司"
+   ]
+  },
+  {
+   "code": "MXGLGHK",
+   "shorts": [
+    "6R"
+   ],
+   "cns": [
+    "墨西哥联合航空"
+   ],
+   "ens": [
+    "Aerounion"
+   ]
+  },
+  {
+   "code": "LYNCWXGY",
+   "shorts": [
+    "MELHK"
+   ],
+   "cns": [
+    "玛丽亚那船务（香港）有限公司"
+   ],
+   "ens": [
+    "MARIANA EXPRESS LINES PTE.LTD."
+   ]
+  },
+  {
+   "code": "HGSTCWYX",
+   "shorts": [
+    "STXTAO"
+   ],
+   "cns": [
+    "韩国世腾船务有限公司"
+   ],
+   "ens": [
+    "STX PANOCEAN CO.LTD"
+   ]
+  },
+  {
+   "code": "ATGJHYYX",
+   "shorts": [
+    "ONTOTAO"
+   ],
+   "cns": [
+    "安通国际海运有限公司"
+   ],
+   "ens": [
+    "ONTO SHIPPING CO.,LTD"
+   ]
+  },
+  {
+   "code": "RKSLCGS",
+   "shorts": [
+    "RICKMERS"
+   ],
+   "cns": [
+    "瑞克麦斯轮船公司"
+   ],
+   "ens": [
+    "Rickmers Linie Tianjin Rep. office"
+   ]
+  },
+  {
+   "code": "FLHKGS",
+   "shorts": [
+    "AY"
+   ],
+   "cns": [
+    "芬兰航空公司"
+   ],
+   "ens": [
+    "Finnair Airlines"
+   ]
+  },
+  {
+   "code": "ZWYDHGJH",
+   "shorts": [
+    "DO"
+   ],
+   "cns": [
+    "中外运敦豪国际航空快递有限公司"
+   ],
+   "ens": [
+    "DHL Airways"
+   ]
+  },
+  {
+   "code": "AYHK",
+   "shorts": [
+    "LC"
+   ],
+   "cns": [
+    "安逸航空"
+   ],
+   "ens": [
+    "安逸航空"
+   ]
+  },
+  {
+   "code": "ASEBYHKG",
+   "shorts": [
+    "ET"
+   ],
+   "cns": [
+    "埃塞俄比亚航空公司"
+   ],
+   "ens": [
+    "Ethiopian Airlines Enterprise"
+   ]
+  },
+  {
+   "code": "QMHK",
+   "shorts": [
+    "US"
+   ],
+   "cns": [
+    "全美航空"
+   ],
+   "ens": [
+    "US Airways, Inc."
+   ]
+  },
+  {
+   "code": "YLHHK",
+   "shorts": [
+    "W5"
+   ],
+   "cns": [
+    "伊朗马汉航空"
+   ],
+   "ens": [
+    "Mahan Air"
+   ]
+  },
+  {
+   "code": "ZJGKYHKG",
+   "shorts": [
+    "C8"
+   ],
+   "cns": [
+    "芝加哥快运航空公司"
+   ],
+   "ens": [
+    "Chicago Express Airlines. Inc."
+   ]
+  },
+  {
+   "code": "ASBJHK",
+   "shorts": [
+    "ZP"
+   ],
+   "cns": [
+    "阿塞拜疆航空"
+   ],
+   "ens": [
+    "Azerbaijan Airlines"
+   ]
+  },
+  {
+   "code": "STHK",
+   "shorts": [
+    "SV"
+   ],
+   "cns": [
+    "沙特航空"
+   ],
+   "ens": [
+    "SAUDI ARABIAN AIRLINES"
+   ]
+  },
+  {
+   "code": "AMHKGS",
+   "shorts": [
+    "WY",
+    "NX"
+   ],
+   "cns": [
+    "阿曼航空公司",
+    "澳门航空公司"
+   ],
+   "ens": [
+    "Oman Air",
+    "Air Macau Co, LTD"
+   ]
+  },
+  {
+   "code": "WCBKSTHK",
+   "shorts": [
+    "HY"
+   ],
+   "cns": [
+    "乌兹别克斯坦航空公司"
+   ],
+   "ens": [
+    "Uzbekistan Airways"
+   ]
+  },
+  {
+   "code": "BNHKGS",
+   "shorts": [
+    "CM"
+   ],
+   "cns": [
+    "巴拿马航空公司"
+   ],
+   "ens": [
+    "巴拿马航空公司"
+   ]
+  },
+  {
+   "code": "FZSWLCYX",
+   "shorts": [
+    "FMWXMN"
+   ],
+   "cns": [
+    "福州市马尾轮船有限公司"
+   ],
+   "ens": [
+    "FUJIAN MAWEI SHIPPING LTD."
+   ]
+  },
+  {
+   "code": "FJHRHYJT",
+   "shorts": [
+    "FHRXMN"
+   ],
+   "cns": [
+    "福建华荣海运集团股份有限公司"
+   ],
+   "ens": [
+    "FUJIAN HUARONG SHIPPING LTD."
+   ]
+  },
+  {
+   "code": "MLQSHKGS",
+   "shorts": [
+    "MK"
+   ],
+   "cns": [
+    "毛里求斯航空公司"
+   ],
+   "ens": [
+    "Air Mauritius"
+   ]
+  },
+  {
+   "code": "WLDJZXYX",
+   "shorts": [
+    "WLDTSN"
+   ],
+   "cns": [
+    "威兰德集装箱有限公司"
+   ],
+   "ens": [
+    "WINLAND SHIPPING CO.,LTD"
+   ]
+  },
+  {
+   "code": "SWTPYHK",
+   "shorts": [
+    "5J"
+   ],
+   "cns": [
+    "宿务太平洋航空"
+   ],
+   "ens": [
+    "Cebu Pacific Air"
+   ]
+  },
+  {
+   "code": "ZLHYGJYX",
+   "shorts": [
+    "CCNI"
+   ],
+   "cns": [
+    "智利航运国际有限公司"
+   ],
+   "ens": [
+    "CCNI TIANJIN REPRESENTATIVE OFFICE"
+   ]
+  },
+  {
+   "code": "YDLHK",
+   "shorts": [
+    "AZ"
+   ],
+   "cns": [
+    "意大利航空"
+   ],
+   "ens": [
+    "Alitalia-Linee Aeree Italiane"
+   ]
+  },
+  {
+   "code": "YDJTHKGS",
+   "shorts": [
+    "9W"
+   ],
+   "cns": [
+    "印度捷特航空公司"
+   ],
+   "ens": [
+    "Jet Airways (India) Private Ltd."
+   ]
+  },
+  {
+   "code": "XGHMHK",
+   "shorts": [
+    "LD"
+   ],
+   "cns": [
+    "香港华民航空"
+   ],
+   "ens": [
+    "Cargo Tariff for Air Hongkong"
+   ]
+  },
+  {
+   "code": "MSLCGFYX",
+   "shorts": [
+    "MIN SHENG"
+   ],
+   "cns": [
+    "民生轮船股份有限公司"
+   ],
+   "ens": [
+    "MIN SHENG SHIPPING CO LTD"
+   ]
+  },
+  {
+   "code": "ZLGJHKGS",
+   "shorts": [
+    "LA"
+   ],
+   "cns": [
+    "智利国家航空公司"
+   ],
+   "ens": [
+    "Linea Aerea Nacional de Chile"
+   ]
+  },
+  {
+   "code": "KXJGJHK",
+   "shorts": [
+    "SS"
+   ],
+   "cns": [
+    "科西嘉国际航空"
+   ],
+   "ens": [
+    "Corse Air International"
+   ]
+  },
+  {
+   "code": "MXGSHK",
+   "shorts": [
+    "M7"
+   ],
+   "cns": [
+    "墨西哥麥斯航空"
+   ],
+   "ens": [
+    "Mas Air"
+   ]
+  },
+  {
+   "code": "DYHYZSHS",
+   "shorts": [
+    "DYSL"
+   ],
+   "cns": [
+    "东映海运株式会社"
+   ],
+   "ens": [
+    "Dong Young Shipping Co.,Ltd."
+   ]
+  },
+  {
+   "code": "YDHK",
+   "shorts": [
+    "AI"
+   ],
+   "cns": [
+    "印度航空"
+   ],
+   "ens": [
+    "Air India"
+   ]
+  },
+  {
+   "code": "RSGJHK",
+   "shorts": [
+    "LX"
+   ],
+   "cns": [
+    "瑞士国际航空"
+   ],
+   "ens": [
+    "Swiss WorldCargo"
+   ]
+  },
+  {
+   "code": "BOHK",
+   "shorts": [
+    "SK"
+   ],
+   "cns": [
+    "北欧航空"
+   ],
+   "ens": [
+    "SAS-Scandinavian Airlines"
+   ]
+  },
+  {
+   "code": "DJSCZSHS",
+   "shorts": [
+    "DJS"
+   ],
+   "cns": [
+    "东进商船株式会社"
+   ],
+   "ens": [
+    "DONGJIN SHIPPING CO.,LTD."
+   ]
+  },
+  {
+   "code": "TGCW",
+   "shorts": [
+    "SWIRE"
+   ],
+   "cns": [
+    "太古船务"
+   ],
+   "ens": [
+    "SWIRE SHIPPING CO.,LTD"
+   ]
+  },
+  {
+   "code": "TKMSTHKG",
+   "shorts": [
+    "T5"
+   ],
+   "cns": [
+    "土库曼斯坦航空公司"
+   ],
+   "ens": [
+    "Turkmenistan Airlines"
+   ]
+  },
+  {
+   "code": "AZHKGSJX",
+   "shorts": [
+    "Valuair"
+   ],
+   "cns": [
+    "澳洲航空公司捷星亚洲航空惠旅航空"
+   ],
+   "ens": [
+    "Everts Air Cargo"
+   ]
+  },
+  {
+   "code": "KYHK",
+   "shorts": [
+    "KQ"
+   ],
+   "cns": [
+    "肯尼亚航空"
+   ],
+   "ens": [
+    "Kenya Airways"
+   ]
+  },
+  {
+   "code": "HWHKGS",
+   "shorts": [
+    "GF"
+   ],
+   "cns": [
+    "海湾航空公司"
+   ],
+   "ens": [
+    "Gulf Air Company G.S.C."
+   ]
+  },
+  {
+   "code": "MEDWGJHK",
+   "shorts": [
+    "9U"
+   ],
+   "cns": [
+    "摩尔多瓦国家航空"
+   ],
+   "ens": [
+    "Air Moldova"
+   ]
+  },
+  {
+   "code": "HLWESZGW",
+   "shorts": [
+    "WWL"
+   ],
+   "cns": [
+    "华轮-威尔森（中国）物流有限公司"
+   ],
+   "ens": [
+    "Wilhelmsen Wallenius Logistic"
+   ]
+  },
+  {
+   "code": "GLBYTPHK",
+   "shorts": [
+    "QT"
+   ],
+   "cns": [
+    "哥伦比亚坦帕航空公司"
+   ],
+   "ens": [
+    "Tampa Airlines"
+   ]
+  },
+  {
+   "code": "XGKYHKGS",
+   "shorts": [
+    "UO"
+   ],
+   "cns": [
+    "香港快运航空公司"
+   ],
+   "ens": [
+    "HONGkONG EXPRESS"
+   ]
+  },
+  {
+   "code": "DDHYJT",
+   "shorts": [
+    "DDSG"
+   ],
+   "cns": [
+    "丹东航运集团"
+   ],
+   "ens": [
+    "DANDONG SHIPPING GROUP"
+   ]
+  },
+  {
+   "code": "HKGS",
+   "shorts": [
+    "3V"
+   ],
+   "cns": [
+    "TNT航空公司"
+   ],
+   "ens": [
+    "TNT AIRWAYS S.A."
+   ]
+  },
+  {
+   "code": "MJHKGS",
+   "shorts": [
+    "LV"
+   ],
+   "cns": [
+    "美佳航空公司"
+   ],
+   "ens": [
+    "Mega Maldives Airlines"
+   ]
+  },
+  {
+   "code": "MCC TRAN",
+   "shorts": [
+    "MCC1"
+   ],
+   "cns": [
+    "MCC TRANSPORT"
+   ],
+   "ens": [
+    "MCC TRANSPORT"
+   ]
+  },
+  {
+   "code": "ADAKEM",
+   "shorts": [
+    "ADAKEM"
+   ],
+   "cns": [
+    "ADAKEM S.A."
+   ],
+   "ens": [
+    "ADAKEM S.A."
+   ]
+  },
+  {
+   "code": "ADAMA",
+   "shorts": [
+    "ADAMA"
+   ],
+   "cns": [
+    "ADAMA CELSIUS B.V. CURACAO BRANCH"
+   ],
+   "ens": [
+    "ADAMA CELSIUS B.V. CURACAO BRANCH"
+   ]
+  },
+  {
+   "code": "ADA",
+   "shorts": [
+    "ADA"
+   ],
+   "cns": [
+    "ADAMA FAHRENHEIT B.V CURACAO BRANCH"
+   ],
+   "ens": [
+    "ADAMA FAHRENHEIT B.V CURACAO BRANCH"
+   ]
+  },
+  {
+   "code": "ADC",
+   "shorts": [
+    "ADC"
+   ],
+   "cns": [
+    "ADC CO.,LTD."
+   ],
+   "ens": [
+    "ADC CO.,LTD"
+   ]
+  },
+  {
+   "code": "AGROSOURCE",
+   "shorts": [
+    "AGROSOURCE"
+   ],
+   "cns": [
+    "AGROSOURCE COMPANY LTD"
+   ],
+   "ens": [
+    "AGROSOURCE COMPANY LTD"
+   ]
+  },
+  {
+   "code": "AGROTEC",
+   "shorts": [
+    "AGROTEC"
+   ],
+   "cns": [
+    "AGROTEC SA"
+   ],
+   "ens": [
+    "AGROTEC SA"
+   ]
+  },
+  {
+   "code": "ALTA",
+   "shorts": [
+    "ALTA"
+   ],
+   "cns": [
+    "ALTA – AMERICA LATINA TECNOLOGIA AGRICOLA LTDA."
+   ],
+   "ens": [
+    "ALTA – AMERICA LATINA TECNOLOGIA AGRICOLA LTDA."
+   ]
+  },
+  {
+   "code": "ANHUI ZUPONT",
+   "shorts": [
+    "ANHUI ZUPONT"
+   ],
+   "cns": [
+    "ANHUI ZUPONT IMPORT AND EXPORT CO.,LTD"
+   ],
+   "ens": [
+    "ANHUI ZUPONT IMPORT AND EXPORT CO.,LTD"
+   ]
+  },
+  {
+   "code": "BANQ",
+   "shorts": [
+    "BANQ"
+   ],
+   "cns": [
+    "BANQ TECHNOLOGY TRADING LIMITED"
+   ],
+   "ens": [
+    "BANQ TECHNOLOGY TRADING LIMITED"
+   ]
+  },
+  {
+   "code": "BCH",
+   "shorts": [
+    "BCH"
+   ],
+   "cns": [
+    "BEICUIHONG"
+   ],
+   "ens": [
+    "BEICUIHONG"
+   ]
+  },
+  {
+   "code": "BIO",
+   "shorts": [
+    "BIO"
+   ],
+   "cns": [
+    "BIO SANITAS S.A."
+   ],
+   "ens": [
+    "BIO SANITAS S.A."
+   ]
+  },
+  {
+   "code": "BOB",
+   "shorts": [
+    "BOB"
+   ],
+   "cns": [
+    "BOB"
+   ],
+   "ens": [
+    "BOB"
+   ]
+  },
+  {
+   "code": "BRILLI",
+   "shorts": [
+    "BRILLI"
+   ],
+   "cns": [
+    "BRILLIANT VALUE INTERNATIONAL LIMITED AD"
+   ],
+   "ens": [
+    "BRILLIANT VALUE INTERNATIONAL LIMITED AD"
+   ]
+  },
+  {
+   "code": "CHASSYUIL",
+   "shorts": [
+    "CHASSYUIL"
+   ],
+   "cns": [
+    "CHASSYUIL CHEMITECH CO"
+   ],
+   "ens": [
+    "CHASSYUIL CHEMITECH CO"
+   ]
+  },
+  {
+   "code": "CH",
+   "shorts": [
+    "CH"
+   ],
+   "cns": [
+    "CHENHAO"
+   ],
+   "ens": [
+    "CHENHAO"
+   ]
+  },
+  {
+   "code": "CJIET",
+   "shorts": [
+    "CJIET"
+   ],
+   "cns": [
+    "CHINA JIANGSU INTERNATIONAL ECONOMIC AND TECHNICAL COOPERATION GROUP,LTD"
+   ],
+   "ens": [
+    "CHINA JIANGSU INTERNATIONAL ECONOMIC AND TECHNICAL COOPERATION GROUP,LTD"
+   ]
+  },
+  {
+   "code": "CONSOL",
+   "shorts": [
+    "CONSOL"
+   ],
+   "cns": [
+    "CONSOL LINK CO., LTD."
+   ],
+   "ens": [
+    "CONSOL LINK CO., LTD."
+   ]
+  },
+  {
+   "code": "CYD",
+   "shorts": [
+    "CYD"
+   ],
+   "cns": [
+    "CYD"
+   ],
+   "ens": [
+    "CYD"
+   ]
+  },
+  {
+   "code": "DJP",
+   "shorts": [
+    "DJP"
+   ],
+   "cns": [
+    "DUJINPENG"
+   ],
+   "ens": [
+    "DUJINPENG"
+   ]
+  },
+  {
+   "code": "EM",
+   "shorts": [
+    "EM"
+   ],
+   "cns": [
+    "EM"
+   ],
+   "ens": [
+    "EM"
+   ]
+  },
+  {
+   "code": "EVERAGROHK",
+   "shorts": [
+    "EVERAGROHK"
+   ],
+   "cns": [
+    "EVERAGRO HK LIMITED"
+   ],
+   "ens": [
+    "EVERAGRO HK LIMITED"
+   ]
+  },
+  {
+   "code": "FCA",
+   "shorts": [
+    "FCA"
+   ],
+   "cns": [
+    "FCA COMERCIO EXTERIOR E LOGISTICA LTDA"
+   ],
+   "ens": [
+    "FCA COMERCIO EXTERIOR E LOGISTICA LTDA"
+   ]
+  },
+  {
+   "code": "FLOWCHEM",
+   "shorts": [
+    "FLOWCHEM"
+   ],
+   "cns": [
+    "FLOWCHEM LIMITEDBENEFICIARY’S"
+   ],
+   "ens": [
+    "FLOWCHEM LIMITEDBENEFICIARY’S"
+   ]
+  },
+  {
+   "code": "FREIGHT",
+   "shorts": [
+    "FREIGHT"
+   ],
+   "cns": [
+    "FREIGHT LOGISTICS SVCS USA FORWARDI"
+   ],
+   "ens": [
+    "FREIGHT LOGISTICS SVCS USA FORWARDI"
+   ]
+  },
+  {
+   "code": "HBA",
+   "shorts": [
+    "HBA"
+   ],
+   "cns": [
+    "HAUNGBUAN"
+   ],
+   "ens": [
+    "HAUNGBUAN"
+   ]
+  },
+  {
+   "code": "IMIRACLE",
+   "shorts": [
+    "IMIRACLE"
+   ],
+   "cns": [
+    "IMIRACLE (HK) LIMITED"
+   ],
+   "ens": [
+    "IMIRACLE (HK) LIMITED"
+   ]
+  },
+  {
+   "code": "JSI",
+   "shorts": [
+    "JSI"
+   ],
+   "cns": [
+    "JSI GROUP LIMITED"
+   ],
+   "ens": [
+    "JSI GROUP LIMITED"
+   ]
+  },
+  {
+   "code": "JH",
+   "shorts": [
+    "JH"
+   ],
+   "cns": [
+    "JUHUA"
+   ],
+   "ens": [
+    "JUHUA"
+   ]
+  },
+  {
+   "code": "KAICHEM",
+   "shorts": [
+    "KAICHEM"
+   ],
+   "cns": [
+    "KAICHEM FREIGHT SERVICES CO., LTD"
+   ],
+   "ens": [
+    "KAICHEM FREIGHT SERVICES CO., LTD"
+   ]
+  },
+  {
+   "code": "KOKEN",
+   "shorts": [
+    "KOKEN"
+   ],
+   "cns": [
+    "KOKEN INTERNATIONAL FZ LLC"
+   ],
+   "ens": [
+    "KOKEN INTERNATIONAL FZ LLC"
+   ]
+  },
+  {
+   "code": "LIUZHU",
+   "shorts": [
+    "LIUZHU"
+   ],
+   "cns": [
+    "LIUZHU"
+   ],
+   "ens": [
+    "LIUZHU"
+   ]
+  },
+  {
+   "code": "LWH",
+   "shorts": [
+    "LWH"
+   ],
+   "cns": [
+    "LIWENHAO"
+   ],
+   "ens": [
+    "LIWENHAO"
+   ]
+  },
+  {
+   "code": "LWT",
+   "shorts": [
+    "LWT"
+   ],
+   "cns": [
+    "LUWENTAO"
+   ],
+   "ens": [
+    "LUWENTAO"
+   ]
+  },
+  {
+   "code": "MAC KANG",
+   "shorts": [
+    "MAC KANG"
+   ],
+   "cns": [
+    "MAC KANG"
+   ],
+   "ens": [
+    "MAC KANG"
+   ]
+  },
+  {
+   "code": "MJ",
+   "shorts": [
+    "MJ"
+   ],
+   "cns": [
+    "MAJUN"
+   ],
+   "ens": [
+    "MAJUN"
+   ]
+  },
+  {
+   "code": "MJH",
+   "shorts": [
+    "MJH"
+   ],
+   "cns": [
+    "MENGJINHUO"
+   ],
+   "ens": [
+    "MENGJINHUO"
+   ]
+  },
+  {
+   "code": "MZ",
+   "shorts": [
+    "MZ"
+   ],
+   "cns": [
+    "MENGZONG"
+   ],
+   "ens": [
+    "MENGZONG"
+   ]
+  },
+  {
+   "code": "MILLY",
+   "shorts": [
+    "MILLY"
+   ],
+   "cns": [
+    "MILLY"
+   ],
+   "ens": [
+    "MILLY"
+   ]
+  },
+  {
+   "code": "SUNJOY",
+   "shorts": [
+    "SUNJOY"
+   ],
+   "cns": [
+    "NINGBO SUNJOY (HK) CO., LIMITED"
+   ],
+   "ens": [
+    "NINGBO SUNJOY (HK) CO., LIMITED"
+   ]
+  },
+  {
+   "code": "PJT",
+   "shorts": [
+    "PEIJIANGTAO"
+   ],
+   "cns": [
+    "PEIJIANGTAO"
+   ],
+   "ens": [
+    "PEIJIANGTAO"
+   ]
+  },
+  {
+   "code": "QP",
+   "shorts": [
+    "QP"
+   ],
+   "cns": [
+    "QIANPENG"
+   ],
+   "ens": [
+    "QIANPENG"
+   ]
+  },
+  {
+   "code": "RANKO",
+   "shorts": [
+    "RANKO"
+   ],
+   "cns": [
+    "RANKO INTERNATIONAL CO., LIMITED"
+   ],
+   "ens": [
+    "RANKO INTERNATIONAL CO., LIMITED"
+   ]
+  },
+  {
+   "code": "ROY ZHANG",
+   "shorts": [
+    "ROY ZHANG"
+   ],
+   "cns": [
+    "ROY ZHANG"
+   ],
+   "ens": [
+    "ROY ZHANG"
+   ]
+  },
+  {
+   "code": "SCC",
+   "shorts": [
+    "SCC"
+   ],
+   "cns": [
+    "SCC CHEMICAL CO.,LIMITED"
+   ],
+   "ens": [
+    "SCC CHEMICAL CO.,LIMITED"
+   ]
+  },
+  {
+   "code": "SEA SKY",
+   "shorts": [
+    "SEA SKY"
+   ],
+   "cns": [
+    "SEA SKY"
+   ],
+   "ens": [
+    "SEASKY Logistica de Transportes Internacionais Ltda."
+   ]
+  },
+  {
+   "code": "RAINBOW",
+   "shorts": [
+    "RAINBOW"
+   ],
+   "cns": [
+    "SHANDONG RAINBOW AGROSCIENCES CO., LTD"
+   ],
+   "ens": [
+    "SHANDONG RAINBOW AGROSCIENCES CO., LTD"
+   ]
+  },
+  {
+   "code": "SSQ",
+   "shorts": [
+    "SSQ"
+   ],
+   "cns": [
+    "SHENSHIQ"
+   ],
+   "ens": [
+    "SHENSHIQ"
+   ]
+  },
+  {
+   "code": "SINO AGRI",
+   "shorts": [
+    "SINO AGRI"
+   ],
+   "cns": [
+    "SINO AGRI BIOSCIENCES SINGAPORE PTE. LTD."
+   ],
+   "ens": [
+    "SINO AGRI BIOSCIENCES SINGAPORE PTE. LTD."
+   ]
+  },
+  {
+   "code": "SINO",
+   "shorts": [
+    "SINO"
+   ],
+   "cns": [
+    "SINO-DG INTERNATIONAL LOGISTIC"
+   ],
+   "ens": [
+    "SINO-DG INTERNATIONAL LOGISTIC"
+   ]
+  },
+  {
+   "code": "TFM",
+   "shorts": [
+    "TFM"
+   ],
+   "cns": [
+    "TANGFENGMI"
+   ],
+   "ens": [
+    "TANGFENGMI"
+   ]
+  },
+  {
+   "code": "TH",
+   "shorts": [
+    "TH"
+   ],
+   "cns": [
+    "TANGHAO"
+   ],
+   "ens": [
+    "TANGHAO"
+   ]
+  },
+  {
+   "code": "ULOG",
+   "shorts": [
+    "ULOG"
+   ],
+   "cns": [
+    "ULOG SOLUCIONES LOGISTICAS INTEGRALES"
+   ],
+   "ens": [
+    "ULOG SOLUCIONES LOGISTICAS INTEGRALES"
+   ]
+  },
+  {
+   "code": "UNION",
+   "shorts": [
+    "UNION"
+   ],
+   "cns": [
+    "UNION OCEAN SHIPPING INTERNATIONAL LOGISTICS LIMITED"
+   ],
+   "ens": [
+    "UNION OCEAN SHIPPING INTERNATIONAL LOGISTICS LIMITED"
+   ]
+  },
+  {
+   "code": "WANGKAI",
+   "shorts": [
+    "WANGKAI"
+   ],
+   "cns": [
+    "WANGKAI"
+   ],
+   "ens": [
+    "WANGKAI"
+   ]
+  },
+  {
+   "code": "WR",
+   "shorts": [
+    "WR"
+   ],
+   "cns": [
+    "WANGRUI"
+   ],
+   "ens": [
+    "WANGRUI"
+   ]
+  },
+  {
+   "code": "WANGZHONGJIE",
+   "shorts": [
+    "WANGZHONGJIE"
+   ],
+   "cns": [
+    "WANGZHONGJIE"
+   ],
+   "ens": [
+    "WANGZHONGJIE"
+   ]
+  },
+  {
+   "code": "WZX",
+   "shorts": [
+    "WZX"
+   ],
+   "cns": [
+    "WENGZHENXIANG"
+   ],
+   "ens": [
+    "WENGZHENXIANG"
+   ]
+  },
+  {
+   "code": "WUXICHEM",
+   "shorts": [
+    "WUXICHEM"
+   ],
+   "cns": [
+    "WUXICHEM LIMITED"
+   ],
+   "ens": [
+    "WUXICHEM LIMITED"
+   ]
+  },
+  {
+   "code": "XBJ",
+   "shorts": [
+    "XBJ"
+   ],
+   "cns": [
+    "XBJ"
+   ],
+   "ens": [
+    "XBJ"
+   ]
+  },
+  {
+   "code": "XD",
+   "shorts": [
+    "XD"
+   ],
+   "cns": [
+    "XIANGDONG"
+   ],
+   "ens": [
+    "XIANGDONG"
+   ]
+  },
+  {
+   "code": "XGQ",
+   "shorts": [
+    "XUGUQIANG"
+   ],
+   "cns": [
+    "XUGUOQIANG"
+   ],
+   "ens": [
+    "XUGUOQIANG"
+   ]
+  },
+  {
+   "code": "YC",
+   "shorts": [
+    "YC"
+   ],
+   "cns": [
+    "YAOCHAO"
+   ],
+   "ens": [
+    "YAOCHAO"
+   ]
+  },
+  {
+   "code": "YSW",
+   "shorts": [
+    "YSW"
+   ],
+   "cns": [
+    "YUSHAOWEI"
+   ],
+   "ens": [
+    "YUSHAOWEI"
+   ]
+  },
+  {
+   "code": "YSN",
+   "shorts": [
+    "YSN"
+   ],
+   "cns": [
+    "YUSHUNING"
+   ],
+   "ens": [
+    "YUSHUNING"
+   ]
+  },
+  {
+   "code": "ZHANG FEN",
+   "shorts": [
+    "ZHANG FEN"
+   ],
+   "cns": [
+    "ZHANG FEN"
+   ],
+   "ens": [
+    "ZHANG FEN"
+   ]
+  },
+  {
+   "code": "ZBF",
+   "shorts": [
+    "ZBF"
+   ],
+   "cns": [
+    "ZHANGBOFEI"
+   ],
+   "ens": [
+    "ZHANGBOFEI"
+   ]
+  },
+  {
+   "code": "ZXD",
+   "shorts": [
+    "ZXD"
+   ],
+   "cns": [
+    "ZHANGXUDONG"
+   ],
+   "ens": [
+    "ZHANGXUDONG"
+   ]
+  },
+  {
+   "code": "ZHEJIANG",
+   "shorts": [
+    "ZHEJIANG"
+   ],
+   "cns": [
+    "ZHEJIANG TRANSFAR WHYYON CHEMIC AL CO.,L"
+   ],
+   "ens": [
+    "ZHEJIANG TRANSFAR WHYYON CHEMIC AL CO.,L"
+   ]
+  },
+  {
+   "code": "ZJJ",
+   "shorts": [
+    "ZJJ"
+   ],
+   "cns": [
+    "ZHENG JIAN JIE"
+   ],
+   "ens": [
+    "ZHENG JIAN JIE"
+   ]
+  },
+  {
+   "code": "ZWY",
+   "shorts": [
+    "ZWY"
+   ],
+   "cns": [
+    "ZHOUWEIYI"
+   ],
+   "ens": [
+    "ZHOUWEIYI"
+   ]
+  },
+  {
+   "code": "ZHZ",
+   "shorts": [
+    "ZHZ"
+   ],
+   "cns": [
+    "ZHZ"
+   ],
+   "ens": [
+    "ZHZ"
+   ]
+  },
+  {
+   "code": "AKNK",
+   "shorts": [
+    "AKNK"
+   ],
+   "cns": [
+    "艾科尼克（无锡）科技有限公司"
+   ],
+   "ens": [
+    "艾科尼克（无锡）科技有限公司"
+   ]
+  },
+  {
+   "code": "ADMGF",
+   "shorts": [
+    "ADMGF"
+   ],
+   "cns": [
+    "安道麦股份有限公司"
+   ],
+   "ens": [
+    "安道麦股份有限公司"
+   ]
+  },
+  {
+   "code": "ADMHF",
+   "shorts": [
+    "ADMHF"
+   ],
+   "cns": [
+    "安道麦辉丰（江苏）有限公司"
+   ],
+   "ens": [
+    "安道麦辉丰（江苏）有限公司"
+   ]
+  },
+  {
+   "code": "AHFY",
+   "shorts": [
+    "AHFY"
+   ],
+   "cns": [
+    "安徽丰原利康制药有限公司"
+   ],
+   "ens": [
+    "安徽丰原利康制药有限公司"
+   ]
+  },
+  {
+   "code": "AHGX",
+   "shorts": [
+    "AHGX"
+   ],
+   "cns": [
+    "安徽广信农化股份有限公司"
+   ],
+   "ens": [
+    "安徽广信农化股份有限公司"
+   ]
+  },
+  {
+   "code": "AHHX",
+   "shorts": [
+    "AHHX"
+   ],
+   "cns": [
+    "安徽华星化工有限公司"
+   ],
+   "ens": [
+    "安徽华星化工有限公司"
+   ]
+  },
+  {
+   "code": "AHJSSWKJ",
+   "shorts": [
+    "AHJSSWKJ"
+   ],
+   "cns": [
+    "安徽捷胜生物科技股份有限公司"
+   ],
+   "ens": [
+    "安徽捷胜生物科技股份有限公司"
+   ]
+  },
+  {
+   "code": "AHJSZBKJYXGS",
+   "shorts": [
+    "AHJSZBKJYXGS"
+   ],
+   "cns": [
+    "安徽捷胜植保科技有限公司"
+   ],
+   "ens": [
+    "安徽捷胜植保科技有限公司"
+   ]
+  },
+  {
+   "code": "AHLX",
+   "shorts": [
+    "AHLX"
+   ],
+   "cns": [
+    "安徽立兴化工有限公司"
+   ],
+   "ens": [
+    "安徽立兴化工有限公司"
+   ]
+  },
+  {
+   "code": "AHPL",
+   "shorts": [
+    "AHPL"
+   ],
+   "cns": [
+    "安徽普洛生物科技有限公司"
+   ],
+   "ens": [
+    "安徽普洛生物科技有限公司"
+   ]
+  },
+  {
+   "code": "AHZB",
+   "shorts": [
+    "AHZB"
+   ],
+   "cns": [
+    "安徽众邦进出口有限公司"
+   ],
+   "ens": [
+    "安徽众邦进出口有限公司"
+   ]
+  },
+  {
+   "code": "BBFY",
+   "shorts": [
+    "BBFY"
+   ],
+   "cns": [
+    "蚌埠丰原涂山制药有限公司"
+   ],
+   "ens": [
+    "蚌埠丰原涂山制药有限公司"
+   ]
+  },
+  {
+   "code": "BQDF",
+   "shorts": [
+    "BQDF"
+   ],
+   "cns": [
+    "蚌埠市东方物流有限公司"
+   ],
+   "ens": [
+    "蚌埠市东方物流有限公司"
+   ]
+  },
+  {
+   "code": "BZ",
+   "shorts": [
+    "BZ"
+   ],
+   "cns": [
+    "保正（上海）供应链管理股份有限公司"
+   ],
+   "ens": [
+    "保正（上海）供应链管理股份有限公司"
+   ]
+  },
+  {
+   "code": "BJBD",
+   "shorts": [
+    "BJBD"
+   ],
+   "cns": [
+    "北京贝达化工股份有限公司"
+   ],
+   "ens": [
+    "北京贝达化工股份有限公司"
+   ]
+  },
+  {
+   "code": "BJJJ",
+   "shorts": [
+    "BJJJ"
+   ],
+   "cns": [
+    "北京京检危运安全咨询有限公司"
+   ],
+   "ens": [
+    "北京京检危运安全咨询有限公司"
+   ]
+  },
+  {
+   "code": "BJYH",
+   "shorts": [
+    "BJYH"
+   ],
+   "cns": [
+    "北京燕化佰佳作物科技有限公司"
+   ],
+   "ens": [
+    "北京燕化佰佳作物科技有限公司"
+   ]
+  },
+  {
+   "code": "BWGJHYSH",
+   "shorts": [
+    "BWGJHYSH"
+   ],
+   "cns": [
+    "铂伟国际货运代理（上海）有限公司"
+   ],
+   "ens": [
+    "铂伟国际货运代理（上海）有限公司"
+   ]
+  },
+  {
+   "code": "BAXKYZYYXGS",
+   "shorts": [
+    "BAXKYZYYXGS"
+   ],
+   "cns": [
+    "博爱新开源制药有限公司"
+   ],
+   "ens": [
+    "博爱新开源制药有限公司"
+   ]
+  },
+  {
+   "code": "CDX",
+   "shorts": [
+    "CDX"
+   ],
+   "cns": [
+    "曹冬霞"
+   ],
+   "ens": [
+    "CDX"
+   ]
+  },
+  {
+   "code": "CSXT",
+   "shorts": [
+    "CSXT"
+   ],
+   "cns": [
+    "常熟新特化工有限公司"
+   ],
+   "ens": [
+    "常熟新特化工有限公司"
+   ]
+  },
+  {
+   "code": "CZEDLSWGCYXGS",
+   "shorts": [
+    "CZEDLSWGCYXGS"
+   ],
+   "cns": [
+    "常州恩德莱生物工程有限公司"
+   ],
+   "ens": [
+    "常州恩德莱生物工程有限公司"
+   ]
+  },
+  {
+   "code": "CZHWJX",
+   "shorts": [
+    "CZHWJX"
+   ],
+   "cns": [
+    "常州海维机械有限公司"
+   ],
+   "ens": [
+    "常州海维机械有限公司"
+   ]
+  },
+  {
+   "code": "CZHT",
+   "shorts": [
+    "CZHT"
+   ],
+   "cns": [
+    "常州汉腾化工股份有限公司"
+   ],
+   "ens": [
+    "常州汉腾化工股份有限公司"
+   ]
+  },
+  {
+   "code": "CZJL",
+   "shorts": [
+    "CZJL"
+   ],
+   "cns": [
+    "常州金陵国际货运代理有限公司"
+   ],
+   "ens": [
+    "常州金陵国际货运代理有限公司"
+   ]
+  },
+  {
+   "code": "CZKK",
+   "shorts": [
+    "CZKK"
+   ],
+   "cns": [
+    "常州琨凯生物科技有限公司"
+   ],
+   "ens": [
+    "常州琨凯生物科技有限公司"
+   ]
+  },
+  {
+   "code": "CZNF",
+   "shorts": [
+    "CZNF"
+   ],
+   "cns": [
+    "常州农丰化工有限公司"
+   ],
+   "ens": [
+    "常州农丰化工有限公司"
+   ]
+  },
+  {
+   "code": "NR",
+   "shorts": [
+    "NR"
+   ],
+   "cns": [
+    "常州农瑞国际贸易有限公司"
+   ],
+   "ens": [
+    "常州农瑞国际贸易有限公司"
+   ]
+  },
+  {
+   "code": "CZDY",
+   "shorts": [
+    "CZDY"
+   ],
+   "cns": [
+    "常州市东誉国际贸易有限公司"
+   ],
+   "ens": [
+    "常州市东誉国际贸易有限公司"
+   ]
+  },
+  {
+   "code": "CZSJQHGYXGS",
+   "shorts": [
+    "CZSJQHGYXGS"
+   ],
+   "cns": [
+    "常州四季青化工有限公司"
+   ],
+   "ens": [
+    "常州四季青化工有限公司"
+   ]
+  },
+  {
+   "code": "CLYHSDGYLGLYXGS",
+   "shorts": [
+    "CLYHSDFGYLGLYXGS"
+   ],
+   "cns": [
+    "畅联优合（山东）供应链管理有限公司"
+   ],
+   "ens": [
+    "畅联优合（山东）供应链管理有限公司"
+   ]
+  },
+  {
+   "code": "CDYY",
+   "shorts": [
+    "CDYY"
+   ],
+   "cns": [
+    "诚达药业股份有限公司"
+   ],
+   "ens": [
+    "诚达药业股份有限公司"
+   ]
+  },
+  {
+   "code": "CFHS",
+   "shorts": [
+    "CFHS"
+   ],
+   "cns": [
+    "赤峰市红山区东方化工染料助剂厂"
+   ],
+   "ens": [
+    "赤峰市红山区东方化工染料助剂厂"
+   ]
+  },
+  {
+   "code": "CMA",
+   "shorts": [
+    "CMA"
+   ],
+   "cns": [
+    "达飞轮船（中国）有限公司"
+   ],
+   "ens": [
+    "达飞轮船（中国）有限公司"
+   ]
+  },
+  {
+   "code": "DFLCZGNB",
+   "shorts": [
+    "DFLCZGNB"
+   ],
+   "cns": [
+    "达飞轮船（中国）有限公司宁波分公司"
+   ],
+   "ens": [
+    "达飞轮船（中国）有限公司宁波分公司"
+   ]
+  },
+  {
+   "code": "DFWLZG",
+   "shorts": [
+    "DFWLZG"
+   ],
+   "cns": [
+    "达飞物流（中国）有限公司"
+   ],
+   "ens": [
+    "达飞物流（中国）有限公司"
+   ]
+  },
+  {
+   "code": "DFWLNB",
+   "shorts": [
+    "DFWLNB"
+   ],
+   "cns": [
+    "达飞物流（中国）有限公司宁波分公司"
+   ],
+   "ens": [
+    "达飞物流（中国）有限公司宁波分公司"
+   ]
+  },
+  {
+   "code": "DLJM",
+   "shorts": [
+    "DLJM"
+   ],
+   "cns": [
+    "大连吉马国际物流有限公司"
+   ],
+   "ens": [
+    "大连吉马国际物流有限公司"
+   ]
+  },
+  {
+   "code": "DNGYL",
+   "shorts": [
+    "DNGYL"
+   ],
+   "cns": [
+    "德纽供应链科技（上海）有限公司"
+   ],
+   "ens": [
+    "德纽供应链科技（上海）有限公司"
+   ]
+  },
+  {
+   "code": "TSL",
+   "shorts": [
+    "TSL"
+   ],
+   "cns": [
+    "德翔海运公司"
+   ],
+   "ens": [
+    "德翔海运公司"
+   ]
+  },
+  {
+   "code": "DZLB",
+   "shorts": [
+    "DZLB"
+   ],
+   "cns": [
+    "德州绿霸精细化工有限公司"
+   ],
+   "ens": [
+    "德州绿霸精细化工有限公司"
+   ]
+  },
+  {
+   "code": "DYZBSWGCYXGS",
+   "shorts": [
+    "DYZBSWGCYXGS"
+   ],
+   "cns": [
+    "定远众邦生物工程有限公司"
+   ],
+   "ens": [
+    "定远众邦生物工程有限公司"
+   ]
+  },
+  {
+   "code": "DFGJ",
+   "shorts": [
+    "DFGJ"
+   ],
+   "cns": [
+    "东方国际物流（集团）有限公司"
+   ],
+   "ens": [
+    "东方国际物流（集团）有限公司"
+   ]
+  },
+  {
+   "code": "DFHWWL",
+   "shorts": [
+    "DFHWWL"
+   ],
+   "cns": [
+    "东方海外物流（中国）有限公司"
+   ],
+   "ens": [
+    "东方海外物流（中国）有限公司"
+   ]
+  },
+  {
+   "code": "DGHLR",
+   "shorts": [
+    "DGHLR"
+   ],
+   "cns": [
+    "东莞市海乐瑞新材料有限公司"
+   ],
+   "ens": [
+    "东莞市海乐瑞新材料有限公司"
+   ]
+  },
+  {
+   "code": "DGSHLRXCLYXGS",
+   "shorts": [
+    "DGSHLRXCLYXGS"
+   ],
+   "cns": [
+    "东菀市海乐瑞新材料有限公司"
+   ],
+   "ens": [
+    "东菀市海乐瑞新材料有限公司"
+   ]
+  },
+  {
+   "code": "ZHQQ",
+   "shorts": [
+    "ZHQQ"
+   ],
+   "cns": [
+    "敦豪全球货运（中国）有限公司杭州分公司"
+   ],
+   "ens": [
+    "敦豪全球货运（中国）有限公司杭州分公司"
+   ]
+  },
+  {
+   "code": "EYGJ",
+   "shorts": [
+    "EYGJ"
+   ],
+   "cns": [
+    "俄溢国际物流（上海）有限公司"
+   ],
+   "ens": [
+    "俄溢国际物流（上海）有限公司"
+   ]
+  },
+  {
+   "code": "FCGJ",
+   "shorts": [
+    "FCGJ"
+   ],
+   "cns": [
+    "泛成国际货运有限公司"
+   ],
+   "ens": [
+    "泛成国际货运有限公司"
+   ]
+  },
+  {
+   "code": "FZS",
+   "shorts": [
+    "FZS"
+   ],
+   "cns": [
+    "范宗善"
+   ],
+   "ens": [
+    "范宗善"
+   ]
+  },
+  {
+   "code": "FP",
+   "shorts": [
+    "FP"
+   ],
+   "cns": [
+    "方平"
+   ],
+   "ens": [
+    "方平"
+   ]
+  },
+  {
+   "code": "FQSH",
+   "shorts": [
+    "FQSH"
+   ],
+   "cns": [
+    "风清（上海）生物科技有限公司"
+   ],
+   "ens": [
+    "风清（上海）生物科技有限公司"
+   ]
+  },
+  {
+   "code": "FSNH",
+   "shorts": [
+    "FSNH"
+   ],
+   "cns": [
+    "佛山市南海区尚航科技有限公司"
+   ],
+   "ens": [
+    "佛山市南海区尚航科技有限公司"
+   ]
+  },
+  {
+   "code": "FHTD",
+   "shorts": [
+    "FHTD"
+   ],
+   "cns": [
+    "福华通达化学股份公司"
+   ],
+   "ens": [
+    "福华通达化学股份公司"
+   ]
+  },
+  {
+   "code": "FJKF",
+   "shorts": [
+    "FJKF"
+   ],
+   "cns": [
+    "福建康富莱贸易有限公司"
+   ],
+   "ens": [
+    "福建康富莱贸易有限公司"
+   ]
+  },
+  {
+   "code": "FWD",
+   "shorts": [
+    "FWD"
+   ],
+   "cns": [
+    "福沃得（武汉）国际货运代理有限公司"
+   ],
+   "ens": [
+    "福沃得（武汉）国际货运代理有限公司"
+   ]
+  },
+  {
+   "code": "FMJZSCLZGYOXGS",
+   "shorts": [
+    "FMJZSCLZGYOXGS"
+   ],
+   "cns": [
+    "富美家装饰材料（中国）有限公司"
+   ],
+   "ens": [
+    "富美家装饰材料（中国）有限公司"
+   ]
+  },
+  {
+   "code": "GSJBSYYXGS",
+   "shorts": [
+    "GSJBSYYXGS"
+   ],
+   "cns": [
+    "甘肃金宝实业有限公司"
+   ],
+   "ens": [
+    "甘肃金宝实业有限公司"
+   ]
+  },
+  {
+   "code": "GFGJMY",
+   "shorts": [
+    "GFGJ"
+   ],
+   "cns": [
+    "赣锋国际贸易（上海）有限公司"
+   ],
+   "ens": [
+    "赣锋国际贸易（上海）有限公司"
+   ]
+  },
+  {
+   "code": "GQGYLZJ",
+   "shorts": [
+    "GQGYLZJ"
+   ],
+   "cns": [
+    "港群供应链（浙江）有限公司"
+   ],
+   "ens": [
+    "港群供应链（浙江）有限公司"
+   ]
+  },
+  {
+   "code": "GZL",
+   "shorts": [
+    "GZL"
+   ],
+   "cns": [
+    "港中旅华贸国际物流股份有限公司"
+   ],
+   "ens": [
+    "港中旅华贸国际物流股份有限公司"
+   ]
+  },
+  {
+   "code": "KMTC",
+   "shorts": [
+    "KMTC"
+   ],
+   "cns": [
+    "高丽海运 (上海)有限公司"
+   ],
+   "ens": [
+    "高丽海运 (上海)有限公司"
+   ]
+  },
+  {
+   "code": "GDHS",
+   "shorts": [
+    "GDHS"
+   ],
+   "cns": [
+    "广东合顺检验技术服务有限公司"
+   ],
+   "ens": [
+    "广东合顺检验技术服务有限公司"
+   ]
+  },
+  {
+   "code": "GDLW",
+   "shorts": [
+    "GDLW"
+   ],
+   "cns": [
+    "广东立威进出口有限公司"
+   ],
+   "ens": [
+    "广东立威进出口有限公司"
+   ]
+  },
+  {
+   "code": "GDSH",
+   "shorts": [
+    "GDSH"
+   ],
+   "cns": [
+    "广东尚航科技有限公司"
+   ],
+   "ens": [
+    "广东尚航科技有限公司"
+   ]
+  },
+  {
+   "code": "GXCHJYJSFWYXGS",
+   "shorts": [
+    "GXCHJYJSFWYXGS"
+   ],
+   "cns": [
+    "广西琛航检验技术服务有限公司"
+   ],
+   "ens": [
+    "广西琛航检验技术服务有限公司"
+   ]
+  },
+  {
+   "code": "GZHYJXHGYXGS",
+   "shorts": [
+    "GZHYJXHGYXGS"
+   ],
+   "cns": [
+    "广州花语精细化工有限公司"
+   ],
+   "ens": [
+    "广州花语精细化工有限公司"
+   ]
+  },
+  {
+   "code": "GZJH",
+   "shorts": [
+    "GZJH"
+   ],
+   "cns": [
+    "广州市晶皇玻璃有限公司"
+   ],
+   "ens": [
+    "广州市晶皇玻璃有限公司"
+   ]
+  },
+  {
+   "code": "GZZWCGJHYDLYXGS",
+   "shorts": [
+    "GSZWCGJHWDLYXGS"
+   ],
+   "cns": [
+    "广州中物储国际货运代理有限公司"
+   ],
+   "ens": [
+    "广州中物储国际货运代理有限公司"
+   ]
+  },
+  {
+   "code": "GZHJGGYXGS",
+   "shorts": [
+    "GZHJGGYXGS"
+   ],
+   "cns": [
+    "贵州华捷化工有限公司"
+   ],
+   "ens": [
+    "贵州华捷化工有限公司"
+   ]
+  },
+  {
+   "code": "GSJX",
+   "shorts": [
+    "GSJX"
+   ],
+   "cns": [
+    "国塑机械（上海）有限公司"
+   ],
+   "ens": [
+    "国塑机械（上海）有限公司"
+   ]
+  },
+  {
+   "code": "GYJTWQDYYYXGS",
+   "shorts": [
+    "GYJTWQDYYYXGS"
+   ],
+   "cns": [
+    "国药集团威奇达药业有限公司"
+   ],
+   "ens": [
+    "国药集团威奇达药业有限公司"
+   ]
+  },
+  {
+   "code": "HJJXSB",
+   "shorts": [
+    "HJJXSB"
+   ],
+   "cns": [
+    "海聚机械设备（上海）有限公司"
+   ],
+   "ens": [
+    "海聚机械设备（上海）有限公司"
+   ]
+  },
+  {
+   "code": "MCC",
+   "shorts": [
+    "MCC"
+   ],
+   "cns": [
+    "海陆马士基"
+   ],
+   "ens": [
+    "Sealand Asia"
+   ]
+  },
+  {
+   "code": "HMGJWL",
+   "shorts": [
+    "HMGJWL"
+   ],
+   "cns": [
+    "海莫国际物流（上海）有限公司"
+   ],
+   "ens": [
+    "海莫国际物流（上海）有限公司"
+   ]
+  },
+  {
+   "code": "HNKXFZYXGS",
+   "shorts": [
+    "HNKXFZYXGS"
+   ],
+   "cns": [
+    "海宁科信纺织有限公司"
+   ],
+   "ens": [
+    "海宁科信纺织有限公司"
+   ]
+  },
+  {
+   "code": "HNRJBYYXGS",
+   "shorts": [
+    "HNRJBYYXGS"
+   ],
+   "cns": [
+    "海宁容嘉布业有限公司"
+   ],
+   "ens": [
+    "海宁容嘉布业有限公司"
+   ]
+  },
+  {
+   "code": "ONE",
+   "shorts": [
+    "ONE"
+   ],
+   "cns": [
+    "ONE"
+   ],
+   "ens": [
+    "ONE"
+   ]
+  },
+  {
+   "code": "HANYING",
+   "shorts": [
+    "HANYING"
+   ],
+   "cns": [
+    "韩颖"
+   ],
+   "ens": [
+    "韩颖"
+   ]
+  },
+  {
+   "code": "HZAJWYFW",
+   "shorts": [
+    "HZAJWYFW"
+   ],
+   "cns": [
+    "杭州爱家物业服务有限公司"
+   ],
+   "ens": [
+    "杭州爱家物业服务有限公司"
+   ]
+  },
+  {
+   "code": "HZACJXSWKJYSGS",
+   "shorts": [
+    "HZACJXSWKJYSGS"
+   ],
+   "cns": [
+    "杭州安诚嘉信生物科技有限公司"
+   ],
+   "ens": [
+    "杭州安诚嘉信生物科技有限公司"
+   ]
+  },
+  {
+   "code": "HZBKXSWKJYXGS",
+   "shorts": [
+    "HZBKXSWKJYXGS"
+   ],
+   "cns": [
+    "杭州贝肯锡生物科技有限公司"
+   ],
+   "ens": [
+    "杭州贝肯锡生物科技有限公司"
+   ]
+  },
+  {
+   "code": "HZCJ",
+   "shorts": [
+    "HZCJ"
+   ],
+   "cns": [
+    "杭州储金财务管理有限公司"
+   ],
+   "ens": [
+    "杭州储金财务管理有限公司"
+   ]
+  },
+  {
+   "code": "HZFZ",
+   "shorts": [
+    "HZFZ"
+   ],
+   "cns": [
+    "杭州分子汇科技有限公司"
+   ],
+   "ens": [
+    "杭州分子汇科技有限公司"
+   ]
+  },
+  {
+   "code": "HZHC",
+   "shorts": [
+    "HZHC"
+   ],
+   "cns": [
+    "杭州海辰化工有限公司"
+   ],
+   "ens": [
+    "杭州海辰化工有限公司"
+   ]
+  },
+  {
+   "code": "HZHE",
+   "shorts": [
+    "HZHE"
+   ],
+   "cns": [
+    "杭州海尔希畜牧科技有限公司"
+   ],
+   "ens": [
+    "杭州海尔希畜牧科技有限公司"
+   ]
+  },
+  {
+   "code": "HZJX",
+   "shorts": [
+    "HZJX"
+   ],
+   "cns": [
+    "杭州杰细生化科技有限公司"
+   ],
+   "ens": [
+    "杭州杰细生化科技有限公司"
+   ]
+  },
+  {
+   "code": "HZJHSWKJYXGS",
+   "shorts": [
+    "HZJHSWKJYXGS"
+   ],
+   "cns": [
+    "杭州京杭生物科技有限公司"
+   ],
+   "ens": [
+    "杭州京杭生物科技有限公司"
+   ]
+  },
+  {
+   "code": "HZJYSLWJYXGS",
+   "shorts": [
+    "HZJYSLWJYXGS"
+   ],
+   "cns": [
+    "杭州聚友塑料五金有限公司"
+   ],
+   "ens": [
+    "杭州聚友塑料五金有限公司"
+   ]
+  },
+  {
+   "code": "HZLH",
+   "shorts": [
+    "HZLH"
+   ],
+   "cns": [
+    "杭州绿禾化工有限公司"
+   ],
+   "ens": [
+    "杭州绿禾化工有限公司"
+   ]
+  },
+  {
+   "code": "HZMY",
+   "shorts": [
+    "HZMY"
+   ],
+   "cns": [
+    "杭州明药生物科技有限公司"
+   ],
+   "ens": [
+    "杭州明药生物科技有限公司"
+   ]
+  },
+  {
+   "code": "HZPL",
+   "shorts": [
+    "HZPL"
+   ],
+   "cns": [
+    "杭州普雷化工有限公司"
+   ],
+   "ens": [
+    "杭州普雷化工有限公司"
+   ]
+  },
+  {
+   "code": "HZQRYYKJYXGS",
+   "shorts": [
+    "HZQRYYKJYXGS"
+   ],
+   "cns": [
+    "杭州杞锐医药科技有限公司"
+   ],
+   "ens": [
+    "杭州杞锐医药科技有限公司"
+   ]
+  },
+  {
+   "code": "HZQLMYYXGS",
+   "shorts": [
+    "HZQLMYYXGS"
+   ],
+   "cns": [
+    "杭州青柳贸易有限公司"
+   ],
+   "ens": [
+    "杭州青柳贸易有限公司"
+   ]
+  },
+  {
+   "code": "HLSM",
+   "shorts": [
+    "HLSM"
+   ],
+   "cns": [
+    "杭州市钱塘区浩岚数码商行"
+   ],
+   "ens": [
+    "杭州市钱塘区浩岚数码商行"
+   ]
+  },
+  {
+   "code": "XPSM",
+   "shorts": [
+    "XPSM"
+   ],
+   "cns": [
+    "杭州市钱塘区轩鹏数码商行"
+   ],
+   "ens": [
+    "杭州市钱塘区轩鹏数码商行"
+   ]
+  },
+  {
+   "code": "YGZD",
+   "shorts": [
+    "YGZD"
+   ],
+   "cns": [
+    "杭州市钱塘区羊狗猪电子产品经营部"
+   ],
+   "ens": [
+    "杭州市钱塘区羊狗猪电子产品经营部"
+   ]
+  },
+  {
+   "code": "HZTNSWYYJSYXGS",
+   "shorts": [
+    "HZTNSEYYJSYXGS"
+   ],
+   "cns": [
+    "杭州天农生物营养技术有限公司"
+   ],
+   "ens": [
+    "杭州天农生物营养技术有限公司"
+   ]
+  },
+  {
+   "code": "HZWG",
+   "shorts": [
+    "HZWG"
+   ],
+   "cns": [
+    "杭州维高生物科技有限公司"
+   ],
+   "ens": [
+    "杭州维高生物科技有限公司"
+   ]
+  },
+  {
+   "code": "HZXYYYYXGS",
+   "shorts": [
+    "HZXYYYYXGS"
+   ],
+   "cns": [
+    "杭州星耀医药有限公司"
+   ],
+   "ens": [
+    "杭州星耀医药有限公司"
+   ]
+  },
+  {
+   "code": "HZXDHG",
+   "shorts": [
+    "HZXDHG"
+   ],
+   "cns": [
+    "杭州迅道化工科技有限公司"
+   ],
+   "ens": [
+    "杭州迅道化工科技有限公司"
+   ]
+  },
+  {
+   "code": "HZYC",
+   "shorts": [
+    "HZYC"
+   ],
+   "cns": [
+    "杭州研晨化工有限公司"
+   ],
+   "ens": [
+    "杭州研晨化工有限公司"
+   ]
+  },
+  {
+   "code": "HZYJ",
+   "shorts": [
+    "HZYJ"
+   ],
+   "cns": [
+    "杭州研嘉国际货运代理有限公司"
+   ],
+   "ens": [
+    "杭州研嘉国际货运代理有限公司"
+   ]
+  },
+  {
+   "code": "杭州昭渲",
+   "shorts": [
+    "HZZX"
+   ],
+   "cns": [
+    "杭州昭渲生物科技有限公司"
+   ],
+   "ens": [
+    "杭州昭渲生物科技有限公司"
+   ]
+  },
+  {
+   "code": "ZJZLYF",
+   "shorts": [
+    "ZJZLYF"
+   ],
+   "cns": [
+    "杭州浙里益飞贸易有限公司"
+   ],
+   "ens": [
+    "杭州浙里益飞贸易有限公司"
+   ]
+  },
+  {
+   "code": "HZZRHGKJYXGS",
+   "shorts": [
+    "HZZRHGKJYXGS"
+   ],
+   "cns": [
+    "杭州臻瑞化工科技有限公司"
+   ],
+   "ens": [
+    "杭州臻瑞化工科技有限公司"
+   ]
+  },
+  {
+   "code": "HZZGT",
+   "shorts": [
+    "HZZGT"
+   ],
+   "cns": [
+    "杭州正广通供应链管理有限公司"
+   ],
+   "ens": [
+    "HANGZHOU ZGT FREIGHT CO.,LTD."
+   ]
+  },
+  {
+   "code": "HMGJ",
+   "shorts": [
+    "HMGJ"
+   ],
+   "cns": [
+    "好明国际物流（上海）有限公司"
+   ],
+   "ens": [
+    "好明国际物流（上海）有限公司"
+   ]
+  },
+  {
+   "code": "HBAEX",
+   "shorts": [
+    "HBAEX"
+   ],
+   "cns": [
+    "河北艾尔希物流有限公司"
+   ],
+   "ens": [
+    "河北艾尔希物流有限公司"
+   ]
+  },
+  {
+   "code": "HBBSD",
+   "shorts": [
+    "HBBSD"
+   ],
+   "cns": [
+    "河北佰事达实业有限公司"
+   ],
+   "ens": [
+    "河北佰事达实业有限公司"
+   ]
+  },
+  {
+   "code": "HBLR",
+   "shorts": [
+    "HBLR"
+   ],
+   "cns": [
+    "河北兰润植保科技有限公司"
+   ],
+   "ens": [
+    "河北兰润植保科技有限公司"
+   ]
+  },
+  {
+   "code": "HBLS",
+   "shorts": [
+    "河北兰升"
+   ],
+   "cns": [
+    "河北兰升生物科技有限公司"
+   ],
+   "ens": [
+    "河北兰升生物科技有限公司"
+   ]
+  },
+  {
+   "code": "HBLG",
+   "shorts": [
+    "HBLG"
+   ],
+   "cns": [
+    "河北临港化工有限公司"
+   ],
+   "ens": [
+    "河北临港化工有限公司"
+   ]
+  },
+  {
+   "code": "HBQE",
+   "shorts": [
+    "HBQE"
+   ],
+   "cns": [
+    "河北乔恩供应链管理有限公司"
+   ],
+   "ens": [
+    "河北乔恩供应链管理有限公司"
+   ]
+  },
+  {
+   "code": "HBSYJQHFYXGS",
+   "shorts": [
+    "HBSYJQHFYXGS"
+   ],
+   "cns": [
+    "河北三元玖旗化肥有限公司"
+   ],
+   "ens": [
+    "河北三元玖旗化肥有限公司"
+   ]
+  },
+  {
+   "code": "HBSJHG",
+   "shorts": [
+    "HBSJHG"
+   ],
+   "cns": [
+    "河北双吉化工有限公司"
+   ],
+   "ens": [
+    "河北双吉化工有限公司"
+   ]
+  },
+  {
+   "code": "HBWYSW",
+   "shorts": [
+    "HBWYSW"
+   ],
+   "cns": [
+    "河北威远生物化工有限公司"
+   ],
+   "ens": [
+    "河北威远生物化工有限公司"
+   ]
+  },
+  {
+   "code": "HBXLY",
+   "shorts": [
+    "HBXLY"
+   ],
+   "cns": [
+    "河北鑫利源生物科技有限公司"
+   ],
+   "ens": [
+    "河北鑫利源生物科技有限公司"
+   ]
+  },
+  {
+   "code": "HBYY",
+   "shorts": [
+    "HBYY"
+   ],
+   "cns": [
+    "河北洋宇环保科技有限公司"
+   ],
+   "ens": [
+    "河北洋宇环保科技有限公司"
+   ]
+  },
+  {
+   "code": "HNJO",
+   "shorts": [
+    "HNJO"
+   ],
+   "cns": [
+    "河南吉欧生物科技有限公司"
+   ],
+   "ens": [
+    "河南吉欧生物科技有限公司"
+   ]
+  },
+  {
+   "code": "HNKLS",
+   "shorts": [
+    "HNKLS"
+   ],
+   "cns": [
+    "河南科洛斯科技有限公司"
+   ],
+   "ens": [
+    "河南科洛斯科技有限公司"
+   ]
+  },
+  {
+   "code": "SPBC",
+   "shorts": [
+    "SPBC"
+   ],
+   "cns": [
+    "河南三浦百草生物工程有限公司"
+   ],
+   "ens": [
+    "河南三浦百草生物工程有限公司"
+   ]
+  },
+  {
+   "code": "HPL",
+   "shorts": [
+    "HPL"
+   ],
+   "cns": [
+    "赫伯罗特船务（中国）有限公司"
+   ],
+   "ens": [
+    "HAPAG-LLOYD CONTAINER LINE"
+   ]
+  },
+  {
+   "code": "HBBSW",
+   "shorts": [
+    "HBBSW"
+   ],
+   "cns": [
+    "湖北佰斯威国际物流有限公司"
+   ],
+   "ens": [
+    "湖北佰斯威国际物流有限公司"
+   ]
+  },
+  {
+   "code": "HBBXGYLGLYXGS",
+   "shorts": [
+    "HBBXGYLGLYCGS"
+   ],
+   "cns": [
+    "湖北犇星供应链管理有限公司"
+   ],
+   "ens": [
+    "湖北犇星供应链管理有限公司"
+   ]
+  },
+  {
+   "code": "HBBX",
+   "shorts": [
+    "HBBX"
+   ],
+   "cns": [
+    "湖北犇星农化有限责任公司"
+   ],
+   "ens": [
+    "湖北犇星农化有限责任公司"
+   ]
+  },
+  {
+   "code": "HBDX",
+   "shorts": [
+    "HBDX"
+   ],
+   "cns": [
+    "湖北东信药业有限公司"
+   ],
+   "ens": [
+    "湖北东信药业有限公司"
+   ]
+  },
+  {
+   "code": "HBHYJCK",
+   "shorts": [
+    "HBHYJCK"
+   ],
+   "cns": [
+    "湖北弘元进出口有限公司"
+   ],
+   "ens": [
+    "湖北弘元进出口有限公司"
+   ]
+  },
+  {
+   "code": "HBRF",
+   "shorts": [
+    "HBRF"
+   ],
+   "cns": [
+    "湖北人福药用辅料股份有限公司"
+   ],
+   "ens": [
+    "湖北人福药用辅料股份有限公司"
+   ]
+  },
+  {
+   "code": "HBTS",
+   "shorts": [
+    "HBTS"
+   ],
+   "cns": [
+    "湖北泰盛化工有限公司"
+   ],
+   "ens": [
+    "湖北泰盛化工有限公司"
+   ]
+  },
+  {
+   "code": "HBXH",
+   "shorts": [
+    "HBXH"
+   ],
+   "cns": [
+    "湖北兴发化工集团股份有限公司"
+   ],
+   "ens": [
+    "湖北兴发化工集团股份有限公司"
+   ]
+  },
+  {
+   "code": "HNAC",
+   "shorts": [
+    "HNAC"
+   ],
+   "cns": [
+    "湖南艾臣生物科技有限公司"
+   ],
+   "ens": [
+    "湖南艾臣生物科技有限公司"
+   ]
+  },
+  {
+   "code": "HNHL",
+   "shorts": [
+    "HNHL"
+   ],
+   "cns": [
+    "湖南海利化工股份有限公司"
+   ],
+   "ens": [
+    "湖南海利化工股份有限公司"
+   ]
+  },
+  {
+   "code": "HGT",
+   "shorts": [
+    "HGT"
+   ],
+   "cns": [
+    "汇港通"
+   ],
+   "ens": [
+    "汇港通"
+   ]
+  },
+  {
+   "code": "JXXQF",
+   "shorts": [
+    "JXXQF"
+   ],
+   "cns": [
+    "绩溪县庆丰天鹰生化有限公司"
+   ],
+   "ens": [
+    "绩溪县庆丰天鹰生化有限公司"
+   ]
+  },
+  {
+   "code": "JRYD",
+   "shorts": [
+    "JRYD"
+   ],
+   "cns": [
+    "嘉荣悦达国际物流（上海）有限公司"
+   ],
+   "ens": [
+    "嘉荣悦达国际物流（上海）有限公司"
+   ]
+  },
+  {
+   "code": "JDGT",
+   "shorts": [
+    "JDGT"
+   ],
+   "cns": [
+    "建德市国通物流有限公司"
+   ],
+   "ens": [
+    "建德市国通物流有限公司"
+   ]
+  },
+  {
+   "code": "JDKH",
+   "shorts": [
+    "JDKH"
+   ],
+   "cns": [
+    "建德市凯好实业有限公司"
+   ],
+   "ens": [
+    "建德市凯好实业有限公司"
+   ]
+  },
+  {
+   "code": "JDS",
+   "shorts": [
+    "JDS"
+   ],
+   "cns": [
+    "建德市信诚劳务服务有限公司"
+   ],
+   "ens": [
+    "建德市信诚劳务服务有限公司"
+   ]
+  },
+  {
+   "code": "JSBJ",
+   "shorts": [
+    "JSBJ"
+   ],
+   "cns": [
+    "江苏八巨药业有限公司"
+   ],
+   "ens": [
+    "江苏八巨药业有限公司"
+   ]
+  },
+  {
+   "code": "JSFLG",
+   "shorts": [
+    "JSFLG"
+   ],
+   "cns": [
+    "江苏富莱格国际贸易有限公司"
+   ],
+   "ens": [
+    "江苏富莱格国际贸易有限公司"
+   ]
+  },
+  {
+   "code": "JSHTXCLKJYXGS",
+   "shorts": [
+    "JSHTXCLKJYXGS"
+   ],
+   "cns": [
+    "江苏合泰新材料科技有限公司"
+   ],
+   "ens": [
+    "江苏合泰新材料科技有限公司"
+   ]
+  },
+  {
+   "code": "JSHBHGKJ",
+   "shorts": [
+    "JSHBHGKJ"
+   ],
+   "cns": [
+    "江苏宏邦化工科技有限公司"
+   ],
+   "ens": [
+    "江苏宏邦化工科技有限公司"
+   ]
+  },
+  {
+   "code": "JSHF",
+   "shorts": [
+    "JSHF"
+   ],
+   "cns": [
+    "江苏辉丰生物农业股份有限公司"
+   ],
+   "ens": [
+    "江苏辉丰生物农业股份有限公司"
+   ]
+  },
+  {
+   "code": "JSHH",
+   "shorts": [
+    "JSHH"
+   ],
+   "cns": [
+    "江苏汇鸿国际集团医药保健品进出口有限公司"
+   ],
+   "ens": [
+    "江苏汇鸿国际集团医药保健品进出口有限公司"
+   ]
+  },
+  {
+   "code": "JSHHZT",
+   "shorts": [
+    "JSHHZT"
+   ],
+   "cns": [
+    "江苏汇鸿国际集团中天控股有限公司"
+   ],
+   "ens": [
+    "江苏汇鸿国际集团中天控股有限公司"
+   ]
+  },
+  {
+   "code": "江苏建农",
+   "shorts": [
+    "建农"
+   ],
+   "cns": [
+    "江苏建农植物保护有限公司"
+   ],
+   "ens": [
+    "江苏建农植物保护有限公司"
+   ]
+  },
+  {
+   "code": "JSJL",
+   "shorts": [
+    "JSJL"
+   ],
+   "cns": [
+    "江苏金立凯化工有限公司"
+   ],
+   "ens": [
+    "江苏金立凯化工有限公司"
+   ]
+  },
+  {
+   "code": "JSLD",
+   "shorts": [
+    "JSLD"
+   ],
+   "cns": [
+    "江苏龙灯博士摩包装材料有限公司"
+   ],
+   "ens": [
+    "江苏龙灯博士摩包装材料有限公司"
+   ]
+  },
+  {
+   "code": "JSMYHGKJYXGS",
+   "shorts": [
+    "JSMYHGKJYXGS"
+   ],
+   "cns": [
+    "江苏铭锐化工科技有限公司"
+   ],
+   "ens": [
+    "江苏铭锐化工科技有限公司"
+   ]
+  },
+  {
+   "code": "JSNB",
+   "shorts": [
+    "JSNB"
+   ],
+   "cns": [
+    "江苏农博生物科技有限公司"
+   ],
+   "ens": [
+    "江苏农博生物科技有限公司"
+   ]
+  },
+  {
+   "code": "JSNE",
+   "shorts": [
+    "JSNE"
+   ],
+   "cns": [
+    "江苏诺恩作物科学股份有限公司"
+   ],
+   "ens": [
+    "江苏诺恩作物科学股份有限公司"
+   ]
+  },
+  {
+   "code": "JSOB",
+   "shorts": [
+    "JSOB"
+   ],
+   "cns": [
+    "江苏欧倍科技有限公司"
+   ],
+   "ens": [
+    "江苏欧倍科技有限公司"
+   ]
+  },
+  {
+   "code": "JSQZ",
+   "shorts": [
+    "JSQZ"
+   ],
+   "cns": [
+    "江苏七洲绿色化工股份有限公司"
+   ],
+   "ens": [
+    "江苏七洲绿色化工股份有限公司"
+   ]
+  },
+  {
+   "code": "JSQYNGZCFZYXGS",
+   "shorts": [
+    "JSQYNGZCFZYXGS"
+   ],
+   "cns": [
+    "江苏清原农冠杂草防治有限公司"
+   ],
+   "ens": [
+    "江苏清原农冠杂草防治有限公司"
+   ]
+  },
+  {
+   "code": "JSQMGJWLYXGS",
+   "shorts": [
+    "JSQMGJWLYXGS"
+   ],
+   "cns": [
+    "江苏全美国际物流有限公司"
+   ],
+   "ens": [
+    "江苏全美国际物流有限公司"
+   ]
+  },
+  {
+   "code": "JSRBNH",
+   "shorts": [
+    "JSRBNH"
+   ],
+   "cns": [
+    "江苏瑞邦农化股份有限公司"
+   ],
+   "ens": [
+    "江苏瑞邦农化股份有限公司"
+   ]
+  },
+  {
+   "code": "JSZJHW",
+   "shorts": [
+    "JSZJHW"
+   ],
+   "cns": [
+    "江苏省中江海外进出口有限公司"
+   ],
+   "ens": [
+    "江苏省中江海外进出口有限公司"
+   ]
+  },
+  {
+   "code": "JSSZJHTJCKYXGS",
+   "shorts": [
+    "JSSZJHTJCKYXGS"
+   ],
+   "cns": [
+    "江苏省中江恒泰进出口有限公司"
+   ],
+   "ens": [
+    "江苏省中江恒泰进出口有限公司"
+   ]
+  },
+  {
+   "code": "JSWYNTJXHGYXGS",
+   "shorts": [
+    "JSWYNTJXHGYXGS"
+   ],
+   "cns": [
+    "江苏维尤纳特精细化工有限公司"
+   ],
+   "ens": [
+    "江苏维尤纳特精细化工有限公司"
+   ]
+  },
+  {
+   "code": "JSXH",
+   "shorts": [
+    "JSXH"
+   ],
+   "cns": [
+    "江苏新河农用化工有限公司"
+   ],
+   "ens": [
+    "江苏新河农用化工有限公司"
+   ]
+  },
+  {
+   "code": "JSYDLSCS",
+   "shorts": [
+    "JSYDLSCS"
+   ],
+   "cns": [
+    "江苏亚东朗升国际物流有限公司常熟分公司"
+   ],
+   "ens": [
+    "江苏亚东朗升国际物流有限公司常熟分公司"
+   ]
+  },
+  {
+   "code": "JSYAHGYXGS",
+   "shorts": [
+    "JSYAHGYXGS"
+   ],
+   "cns": [
+    "江苏永安化工有限公司"
+   ],
+   "ens": [
+    "江苏永安化工有限公司"
+   ]
+  },
+  {
+   "code": "JSYT",
+   "shorts": [
+    "JSYT"
+   ],
+   "cns": [
+    "江苏远韬国际物流有限公司"
+   ],
+   "ens": [
+    "江苏远韬国际物流有限公司"
+   ]
+  },
+  {
+   "code": "JSYF",
+   "shorts": [
+    "JSYF"
+   ],
+   "cns": [
+    "江苏云帆化工有限公司"
+   ],
+   "ens": [
+    "江苏云帆化工有限公司"
+   ]
+  },
+  {
+   "code": "JSCQ",
+   "shorts": [
+    "JSCQ"
+   ],
+   "cns": [
+    "江苏长青农化股份有限公司"
+   ],
+   "ens": [
+    "江苏长青农化股份有限公司"
+   ]
+  },
+  {
+   "code": "JSZC",
+   "shorts": [
+    "JSZC"
+   ],
+   "cns": [
+    "江苏众诚国际物流有限公司"
+   ],
+   "ens": [
+    "江苏众诚国际物流有限公司"
+   ]
+  },
+  {
+   "code": "JXAF",
+   "shorts": [
+    "JXAF"
+   ],
+   "cns": [
+    "江西埃菲姆科技有限公司"
+   ],
+   "ens": [
+    "江西埃菲姆科技有限公司"
+   ]
+  },
+  {
+   "code": "JXBGNMXCLYXGS",
+   "shorts": [
+    "JXBGNMXCLYXGS"
+   ],
+   "cns": [
+    "江西宝硅纳⽶新材料有限公司"
+   ],
+   "ens": [
+    "江西宝硅纳⽶新材料有限公司"
+   ]
+  },
+  {
+   "code": "JXBHWYZSKJGFYXGS",
+   "shorts": [
+    "JXBHWYZSKJGFYXGS"
+   ],
+   "cns": [
+    "江西宝海微元再生科技股份有限公司"
+   ],
+   "ens": [
+    "江西宝海微元再生科技股份有限公司"
+   ]
+  },
+  {
+   "code": "JXFEX",
+   "shorts": [
+    "JXFEX"
+   ],
+   "cns": [
+    "江西福尔鑫医药化工有限公司"
+   ],
+   "ens": [
+    "江西福尔鑫医药化工有限公司"
+   ]
+  },
+  {
+   "code": "JXHTKJYXGS",
+   "shorts": [
+    "JXHTKJYXGS"
+   ],
+   "cns": [
+    "江西禾田科技有限公司"
+   ],
+   "ens": [
+    "Jiangxi Hetian Technology Co., Ltd"
+   ]
+  },
+  {
+   "code": "JXHS",
+   "shorts": [
+    "JXHS"
+   ],
+   "cns": [
+    "江西和思进出口有限公司"
+   ],
+   "ens": [
+    "江西和思进出口有限公司"
+   ]
+  },
+  {
+   "code": "JXOSHG",
+   "shorts": [
+    "JXOSHG"
+   ],
+   "cns": [
+    "江西欧氏化工有限公司"
+   ],
+   "ens": [
+    "江西欧氏化工有限公司"
+   ]
+  },
+  {
+   "code": "JXTY",
+   "shorts": [
+    "JXTY"
+   ],
+   "cns": [
+    "江西天宇化工有限公司"
+   ],
+   "ens": [
+    "江西天宇化工有限公司"
+   ]
+  },
+  {
+   "code": "JXTRJNKJYXGS",
+   "shorts": [
+    "JXTRJNKJYXGS"
+   ],
+   "cns": [
+    "江西同荣节能科技有限公司"
+   ],
+   "ens": [
+    "江西同荣节能科技有限公司"
+   ]
+  },
+  {
+   "code": "JYQNHG",
+   "shorts": [
+    "JYQNHG"
+   ],
+   "cns": [
+    "江阴沁浓化工有限公司"
+   ],
+   "ens": [
+    "江阴沁浓化工有限公司"
+   ]
+  },
+  {
+   "code": "JYSL",
+   "shorts": [
+    "JYSL"
+   ],
+   "cns": [
+    "江阴苏利化学股份有限公司"
+   ],
+   "ens": [
+    "江阴苏利化学股份有限公司"
+   ]
+  },
+  {
+   "code": "JHSHTY",
+   "shorts": [
+    "JHSHTY"
+   ],
+   "cns": [
+    "金华市红太阳彩印厂"
+   ],
+   "ens": [
+    "金华市红太阳彩印厂"
+   ]
+  },
+  {
+   "code": "JXHX",
+   "shorts": [
+    "JXHX"
+   ],
+   "cns": [
+    "金溪华香香料有限公司"
+   ],
+   "ens": [
+    "金溪华香香料有限公司"
+   ]
+  },
+  {
+   "code": "JNSH",
+   "shorts": [
+    "JNSH"
+   ],
+   "cns": [
+    "景农（上海）国际贸易有限公司"
+   ],
+   "ens": [
+    "景农（上海）国际贸易有限公司"
+   ]
+  },
+  {
+   "code": "KYHT",
+   "shorts": [
+    "KYHT"
+   ],
+   "cns": [
+    "开原亨泰化工有限公司"
+   ],
+   "ens": [
+    "开原亨泰化工有限公司"
+   ]
+  },
+  {
+   "code": "KDHY",
+   "shorts": [
+    "KDHY"
+   ],
+   "cns": [
+    "凯迪海运（深圳）有限公司上海分公司"
+   ],
+   "ens": [
+    "凯迪海运（深圳）有限公司上海分公司"
+   ]
+  },
+  {
+   "code": "KSJYKJ",
+   "shorts": [
+    "KSJYKJ"
+   ],
+   "cns": [
+    "酷暑教育科技（上海）有限公司"
+   ],
+   "ens": [
+    "酷暑教育科技（上海）有限公司"
+   ]
+  },
+  {
+   "code": "KSMK",
+   "shorts": [
+    "KSMK"
+   ],
+   "cns": [
+    "昆山迈克凯姆精细化工有限公司"
+   ],
+   "ens": [
+    "昆山迈克凯姆精细化工有限公司"
+   ]
+  },
+  {
+   "code": "LSJN",
+   "shorts": [
+    "兰升（济南）"
+   ],
+   "cns": [
+    "兰升（济南）国际贸易有限公司"
+   ],
+   "ens": [
+    "兰升（济南）国际贸易有限公司"
+   ]
+  },
+  {
+   "code": "LSL",
+   "shorts": [
+    "兰升生物"
+   ],
+   "cns": [
+    "兰升生物科技集团股份有限公司"
+   ],
+   "ens": [
+    "兰升生物科技集团股份有限公司"
+   ]
+  },
+  {
+   "code": "LHGJWLSHYXGS",
+   "shorts": [
+    "LHGJWLSHYXGS"
+   ],
+   "cns": [
+    "朗宏国际物流（上海）有限公司"
+   ],
+   "ens": [
+    "朗宏国际物流（上海）有限公司"
+   ]
+  },
+  {
+   "code": "LKS",
+   "shorts": [
+    "LKS"
+   ],
+   "cns": [
+    "乐卡斯（上海）国际物流有限公司"
+   ],
+   "ens": [
+    "乐卡斯（上海）国际物流有限公司"
+   ]
+  },
+  {
+   "code": "LHN",
+   "shorts": [
+    "LHN"
+   ],
+   "cns": [
+    "力禾纳（上海）供应链有限公司"
+   ],
+   "ens": [
+    "力禾纳（上海）供应链有限公司"
+   ]
+  },
+  {
+   "code": "LRHX",
+   "shorts": [
+    "LRHX"
+   ],
+   "cns": [
+    "利尔化学股份有限公司"
+   ],
+   "ens": [
+    "利尔化学股份有限公司"
+   ]
+  },
+  {
+   "code": "LMHXYXZRGS",
+   "shorts": [
+    "LMHXYXZRGS"
+   ],
+   "cns": [
+    "利民化学有限责任公司"
+   ],
+   "ens": [
+    "利民化学有限责任公司"
+   ]
+  },
+  {
+   "code": "LYGDG",
+   "shorts": [
+    "LYGDG"
+   ],
+   "cns": [
+    "连云港德高国际货运代理有限公司"
+   ],
+   "ens": [
+    "连云港德高国际货运代理有限公司"
+   ]
+  },
+  {
+   "code": "LNCDYT",
+   "shorts": [
+    "LNCDYT"
+   ],
+   "cns": [
+    "辽宁诚达运通国际物流有限公司"
+   ],
+   "ens": [
+    "辽宁诚达运通国际物流有限公司"
+   ]
+  },
+  {
+   "code": "LNGJ",
+   "shorts": [
+    "LNGJ"
+   ],
+   "cns": [
+    "辽宁港捷国际物流有限公司济南分公司"
+   ],
+   "ens": [
+    "辽宁港捷国际物流有限公司济南分公司"
+   ]
+  },
+  {
+   "code": "LNXD",
+   "shorts": [
+    "LNXD"
+   ],
+   "cns": [
+    "辽宁先达农业科学有限公司"
+   ],
+   "ens": [
+    "辽宁先达农业科学有限公司"
+   ]
+  },
+  {
+   "code": "LNZH",
+   "shorts": [
+    "LNZH"
+   ],
+   "cns": [
+    "辽宁众辉生物科技有限公司"
+   ],
+   "ens": [
+    "辽宁众辉生物科技有限公司"
+   ]
+  },
+  {
+   "code": "LXAX",
+   "shorts": [
+    "LXAX"
+   ],
+   "cns": [
+    "临沂奥星化工有限公司"
+   ],
+   "ens": [
+    "临沂奥星化工有限公司"
+   ]
+  },
+  {
+   "code": "LXYS",
+   "shorts": [
+    "LXYS"
+   ],
+   "cns": [
+    "临沂永盛天下进出口有限公司"
+   ],
+   "ens": [
+    "临沂永盛天下进出口有限公司"
+   ]
+  },
+  {
+   "code": "LYM",
+   "shorts": [
+    "LYM"
+   ],
+   "cns": [
+    "刘琰1"
+   ],
+   "ens": [
+    "LIUYANM"
+   ]
+  },
+  {
+   "code": "LJZ",
+   "shorts": [
+    "LJZ"
+   ],
+   "cns": [
+    "陆家嘴东急不动产物业经营管理（上海）有限"
+   ],
+   "ens": [
+    "陆家嘴东急不动产物业经营管理（上海）有限"
+   ]
+  },
+  {
+   "code": "MASHX",
+   "shorts": [
+    "MASHX"
+   ],
+   "cns": [
+    "马鞍山恒熹自热技术开发有限公司"
+   ],
+   "ens": [
+    "马鞍山恒熹自热技术开发有限公司"
+   ]
+  },
+  {
+   "code": "MSK",
+   "shorts": [
+    "MSK"
+   ],
+   "cns": [
+    "马士基（中国）航运有限公司"
+   ],
+   "ens": [
+    "马士基（中国）航运有限公司"
+   ]
+  },
+  {
+   "code": "MSKSH",
+   "shorts": [
+    "MSKSH"
+   ],
+   "cns": [
+    "马士基（中国）航运有限公司上海分公司"
+   ],
+   "ens": [
+    "Maersk (China) Shipping Co. Ltd., Shanghai  Branch"
+   ]
+  },
+  {
+   "code": "MJS",
+   "shorts": [
+    "MJS"
+   ],
+   "cns": [
+    "迈捷施供应链管理（上海）有限公司"
+   ],
+   "ens": [
+    "迈捷施供应链管理（上海）有限公司"
+   ]
+  },
+  {
+   "code": "MEIBANG",
+   "shorts": [
+    "MEIBANG"
+   ],
+   "cns": [
+    "美浜国际贸易（上海）有限公司"
+   ],
+   "ens": [
+    "美浜国际贸易（上海）有限公司"
+   ]
+  },
+  {
+   "code": "MGZT",
+   "shorts": [
+    "MGZT"
+   ],
+   "cns": [
+    "美国总统轮船（中国）有限公司上海分公司"
+   ],
+   "ens": [
+    "美国总统轮船（中国）有限公司上海分公司"
+   ]
+  },
+  {
+   "code": "MS",
+   "shorts": [
+    "AMASS"
+   ],
+   "cns": [
+    "美设国际物流集团股份有限公司"
+   ],
+   "ens": [
+    "AMASS Global Network Group‌"
+   ]
+  },
+  {
+   "code": "MXJZWYY",
+   "shorts": [
+    "MXJZWYY"
+   ],
+   "cns": [
+    "美信佳中维药业股份有限公司"
+   ],
+   "ens": [
+    "美信佳中维药业股份有限公司"
+   ]
+  },
+  {
+   "code": "MLST",
+   "shorts": [
+    "MLST"
+   ],
+   "cns": [
+    "米莱斯通国际物流（大连）有限公司"
+   ],
+   "ens": [
+    "米莱斯通国际物流（大连）有限公司"
+   ]
+  },
+  {
+   "code": "MLSTSH",
+   "shorts": [
+    "MLSTSH"
+   ],
+   "cns": [
+    "米莱斯通国际物流（上海）有限公司"
+   ],
+   "ens": [
+    "米莱斯通国际物流（上海）有限公司"
+   ]
+  },
+  {
+   "code": "NJAS",
+   "shorts": [
+    "NJAS"
+   ],
+   "cns": [
+    "南京艾森精细化工有限公司"
+   ],
+   "ens": [
+    "南京艾森精细化工有限公司"
+   ]
+  },
+  {
+   "code": "NJBLDS",
+   "shorts": [
+    "NJBLDS"
+   ],
+   "cns": [
+    "南京博兰德生物科技有限公司"
+   ],
+   "ens": [
+    "南京博兰德生物科技有限公司"
+   ]
+  },
+  {
+   "code": "NJFK",
+   "shorts": [
+    "NJFK"
+   ],
+   "cns": [
+    "南京方科国际贸易有限公司"
+   ],
+   "ens": [
+    "南京方科国际贸易有限公司"
+   ]
+  },
+  {
+   "code": "NJFN",
+   "shorts": [
+    "NJFN"
+   ],
+   "cns": [
+    "南京福浓生物科技有限公司"
+   ],
+   "ens": [
+    "南京福浓生物科技有限公司"
+   ]
+  },
+  {
+   "code": "NJHG",
+   "shorts": [
+    "NJHG"
+   ],
+   "cns": [
+    "南京海歌化工有限公司"
+   ],
+   "ens": [
+    "南京海歌化工有限公司"
+   ]
+  },
+  {
+   "code": "NJJSD",
+   "shorts": [
+    "NJJSD"
+   ],
+   "cns": [
+    "南京金思达化工有限公司"
+   ],
+   "ens": [
+    "南京金思达化工有限公司"
+   ]
+  },
+  {
+   "code": "NJLMHG",
+   "shorts": [
+    "NJLMHG"
+   ],
+   "cns": [
+    "南京利民化工有限责任公司"
+   ],
+   "ens": [
+    "南京利民化工有限责任公司"
+   ]
+  },
+  {
+   "code": "NJMX",
+   "shorts": [
+    "NJMX"
+   ],
+   "cns": [
+    "南京盟兴化学有限公司"
+   ],
+   "ens": [
+    "南京盟兴化学有限公司"
+   ]
+  },
+  {
+   "code": "NJSET",
+   "shorts": [
+    "NJSET"
+   ],
+   "cns": [
+    "南京斯尔康贸易有限公司"
+   ],
+   "ens": [
+    "南京斯尔康贸易有限公司"
+   ]
+  },
+  {
+   "code": "NPJYLYWLYXGS",
+   "shorts": [
+    "NPJYLYWLYXGS"
+   ],
+   "cns": [
+    "南平建阳良友物流有限公司"
+   ],
+   "ens": [
+    "南平建阳良友物流有限公司"
+   ]
+  },
+  {
+   "code": "NTCS",
+   "shorts": [
+    "NTCS"
+   ],
+   "cns": [
+    "南通醋酸化工股份有限公司"
+   ],
+   "ens": [
+    "南通醋酸化工股份有限公司"
+   ]
+  },
+  {
+   "code": "NTLD",
+   "shorts": [
+    "NTLD"
+   ],
+   "cns": [
+    "南通朗栋国际货运代理有限公司"
+   ],
+   "ens": [
+    "南通朗栋国际货运代理有限公司"
+   ]
+  },
+  {
+   "code": "NTTH",
+   "shorts": [
+    "NTTH"
+   ],
+   "cns": [
+    "南通泰禾化工股份有限公司"
+   ],
+   "ens": [
+    "南通泰禾化工股份有限公司"
+   ]
+  },
+  {
+   "code": "NTZYHYWLYXGS",
+   "shorts": [
+    "NTZYHYWLYXGS"
+   ],
+   "cns": [
+    "南通中远海运物流有限公司"
+   ],
+   "ens": [
+    "南通中远海运物流有限公司"
+   ]
+  },
+  {
+   "code": "NMGAZYYYXGS",
+   "shorts": [
+    "NMGAZYYYXGS"
+   ],
+   "cns": [
+    "内蒙古安洲药业有限公司"
+   ],
+   "ens": [
+    "内蒙古安洲药业有限公司"
+   ]
+  },
+  {
+   "code": "NBFS",
+   "shorts": [
+    "NBFS"
+   ],
+   "cns": [
+    "宁波斐斯进出口有限公司"
+   ],
+   "ens": [
+    "宁波斐斯进出口有限公司"
+   ]
+  },
+  {
+   "code": "NBGX",
+   "shorts": [
+    "NBGX"
+   ],
+   "cns": [
+    "宁波国翔国际货运代理有限公司"
+   ],
+   "ens": [
+    "宁波国翔国际货运代理有限公司"
+   ]
+  },
+  {
+   "code": "NBJYGJ",
+   "shorts": [
+    "NBJYGJ"
+   ],
+   "cns": [
+    "宁波金域国际货运代理有限公司"
+   ],
+   "ens": [
+    "宁波金域国际货运代理有限公司"
+   ]
+  },
+  {
+   "code": "NBJL",
+   "shorts": [
+    "NBJL"
+   ],
+   "cns": [
+    "宁波锦莱化工股份有限公司"
+   ],
+   "ens": [
+    "宁波锦莱化工股份有限公司"
+   ]
+  },
+  {
+   "code": "NBJH",
+   "shorts": [
+    "NBJH"
+   ],
+   "cns": [
+    "宁波久和国际货运代理有限公司"
+   ],
+   "ens": [
+    "宁波久和国际货运代理有限公司"
+   ]
+  },
+  {
+   "code": "NBLHYNHGYXGS",
+   "shorts": [
+    "NBLHYNHGYXGS"
+   ],
+   "cns": [
+    "宁波绿禾意农化工有限公司"
+   ],
+   "ens": [
+    "宁波绿禾意农化工有限公司"
+   ]
+  },
+  {
+   "code": "NBMH",
+   "shorts": [
+    "NBMH"
+   ],
+   "cns": [
+    "宁波美航物流有限公司上海分公司"
+   ],
+   "ens": [
+    "宁波美航物流有限公司上海分公司"
+   ]
+  },
+  {
+   "code": "NBNB",
+   "shorts": [
+    "NBNB"
+   ],
+   "cns": [
+    "宁波诺柏医药有限公司"
+   ],
+   "ens": [
+    "宁波诺柏医药有限公司"
+   ]
+  },
+  {
+   "code": "NBPSHGYXGS",
+   "shorts": [
+    "NBPSHGYXGS"
+   ],
+   "cns": [
+    "宁波庞氏化工有限公司"
+   ],
+   "ens": [
+    "宁波庞氏化工有限公司"
+   ]
+  },
+  {
+   "code": "NBPL",
+   "shorts": [
+    "NBPL"
+   ],
+   "cns": [
+    "宁波普洛进出口有限公司"
+   ],
+   "ens": [
+    "宁波普洛进出口有限公司"
+   ]
+  },
+  {
+   "code": "NBSRS",
+   "shorts": [
+    "NBSRS"
+   ],
+   "cns": [
+    "宁波赛瑞仕生物科技有限公司"
+   ],
+   "ens": [
+    "宁波赛瑞仕生物科技有限公司"
+   ]
+  },
+  {
+   "code": "NBSJY",
+   "shorts": [
+    "NBSJY"
+   ],
+   "cns": [
+    "宁波三江益农作物保护有限公司"
+   ],
+   "ens": [
+    "宁波三江益农作物保护有限公司"
+   ]
+  },
+  {
+   "code": "NBSY",
+   "shorts": [
+    "NBSY"
+   ],
+   "cns": [
+    "宁波三益生物科技有限公司"
+   ],
+   "ens": [
+    "宁波三益生物科技有限公司"
+   ]
+  },
+  {
+   "code": "NBSDGJHD",
+   "shorts": [
+    "NBSDGJHD"
+   ],
+   "cns": [
+    "宁波实达国际货运代理有限公司"
+   ],
+   "ens": [
+    "宁波实达国际货运代理有限公司"
+   ]
+  },
+  {
+   "code": "NBSGYGJMYYXGS",
+   "shorts": [
+    "NBSGYGJMYYXGS"
+   ],
+   "cns": [
+    "宁波市冠宇国际贸易有限公司"
+   ],
+   "ens": [
+    "宁波市冠宇国际贸易有限公司"
+   ]
+  },
+  {
+   "code": "NBWDXY",
+   "shorts": [
+    "NBWDXY"
+   ],
+   "cns": [
+    "宁波外代新扬船务有限公司"
+   ],
+   "ens": [
+    "Penavico Ningbo Xinyang Shipping Co., Ltd."
+   ]
+  },
+  {
+   "code": "NBWX",
+   "shorts": [
+    "NBWX"
+   ],
+   "cns": [
+    "宁波网兴物流有限公司"
+   ],
+   "ens": [
+    "宁波网兴物流有限公司"
+   ]
+  },
+  {
+   "code": "NBYYKZ",
+   "shorts": [
+    "NBYYKZ"
+   ],
+   "cns": [
+    "宁波雅运坤洲国际物流有限公司"
+   ],
+   "ens": [
+    "宁波雅运坤洲国际物流有限公司"
+   ]
+  },
+  {
+   "code": "NBYT",
+   "shorts": [
+    "NBYT"
+   ],
+   "cns": [
+    "宁波易通船务有限公司上海分公司"
+   ],
+   "ens": [
+    "宁波易通船务有限公司上海分公司"
+   ]
+  },
+  {
+   "code": "NBYN",
+   "shorts": [
+    "NBYN"
+   ],
+   "cns": [
+    "宁波盈农利德贸易有限公司"
+   ],
+   "ens": [
+    "宁波盈农利德贸易有限公司"
+   ]
+  },
+  {
+   "code": "NXQY",
+   "shorts": [
+    "NXQY"
+   ],
+   "cns": [
+    "宁夏启元药业有限公司"
+   ],
+   "ens": [
+    "宁夏启元药业有限公司"
+   ]
+  },
+  {
+   "code": "NXXAKJ",
+   "shorts": [
+    "NXXAKJ"
+   ],
+   "cns": [
+    "宁夏新安科技有限公司"
+   ],
+   "ens": [
+    "宁夏新安科技有限公司"
+   ]
+  },
+  {
+   "code": "NXYPSWKJYXGS",
+   "shorts": [
+    "NXYPSWKJYXGS"
+   ],
+   "cns": [
+    "宁夏伊品生物科技股份有限公司"
+   ],
+   "ens": [
+    "宁夏伊品生物科技股份有限公司"
+   ]
+  },
+  {
+   "code": "NYW",
+   "shorts": [
+    "NYW"
+   ],
+   "cns": [
+    "农一网（杨凌）电子商务有限公司"
+   ],
+   "ens": [
+    "农一网（杨凌）电子商务有限公司"
+   ]
+  },
+  {
+   "code": "OQ",
+   "shorts": [
+    "OQ"
+   ],
+   "cns": [
+    "欧泉国际货运代理（上海）有限公司"
+   ],
+   "ens": [
+    "欧泉国际货运代理（上海）有限公司"
+   ]
+  },
+  {
+   "code": "PHGJ",
+   "shorts": [
+    "PHGJ"
+   ],
+   "cns": [
+    "鹏辉国际贸易有限公司"
+   ],
+   "ens": [
+    "鹏辉国际贸易有限公司"
+   ]
+  },
+  {
+   "code": "QJWL",
+   "shorts": [
+    "QJWL"
+   ],
+   "cns": [
+    "前锦网络信息技术（上海）有限公司"
+   ],
+   "ens": [
+    "前锦网络信息技术（上海）有限公司"
+   ]
+  },
+  {
+   "code": "QTSZGJGYLGL",
+   "shorts": [
+    "QTSZGJGYLGL"
+   ],
+   "cns": [
+    "钱塘（深圳）国际供应链管理有限公司上海分公司"
+   ],
+   "ens": [
+    "钱塘（深圳）国际供应链管理有限公司上海分公司"
+   ]
+  },
+  {
+   "code": "CFSL",
+   "shorts": [
+    "CFSL"
+   ],
+   "cns": [
+    "桥丰船务有限公司"
+   ],
+   "ens": [
+    "CHIAO FENG SHIPPING LTD."
+   ]
+  },
+  {
+   "code": "青岛天原",
+   "shorts": [
+    "青岛天原"
+   ],
+   "cns": [
+    "青岛邦达天原国际货运代理有限公司"
+   ],
+   "ens": [
+    "青岛邦达天原国际货运代理有限公司"
+   ]
+  },
+  {
+   "code": "QDBY",
+   "shorts": [
+    "QDBY"
+   ],
+   "cns": [
+    "青岛博越国际物流有限公司"
+   ],
+   "ens": [
+    "QINGDAO BETOP INTERNATIONAL LOGISTICS CO.,LTD"
+   ]
+  },
+  {
+   "code": "QDCC",
+   "shorts": [
+    "QDCC"
+   ],
+   "cns": [
+    "青岛程诚检测有限公司"
+   ],
+   "ens": [
+    "青岛程诚检测有限公司"
+   ]
+  },
+  {
+   "code": "QDCR",
+   "shorts": [
+    "QDCR"
+   ],
+   "cns": [
+    "青岛创荣国际物流有限公司"
+   ],
+   "ens": [
+    "青岛创荣国际物流有限公司"
+   ]
+  },
+  {
+   "code": "QDDD",
+   "shorts": [
+    "QDDD"
+   ],
+   "cns": [
+    "青岛东鼎盛供应链管理有限公司"
+   ],
+   "ens": [
+    "青岛东鼎盛供应链管理有限公司"
+   ]
+  },
+  {
+   "code": "QDGJ",
+   "shorts": [
+    "QDGJ"
+   ],
+   "cns": [
+    "青岛港捷运通物流有限公司"
+   ],
+   "ens": [
+    "青岛港捷运通物流有限公司"
+   ]
+  },
+  {
+   "code": "QDGL",
+   "shorts": [
+    "QDGL"
+   ],
+   "cns": [
+    "青岛港联海港口服务有限公司"
+   ],
+   "ens": [
+    "青岛港联海港口服务有限公司"
+   ]
+  },
+  {
+   "code": "QDHSSW",
+   "shorts": [
+    "QDHSSW"
+   ],
+   "cns": [
+    "青岛瀚生生物科技股份有限公司"
+   ],
+   "ens": [
+    "青岛瀚生生物科技股份有限公司"
+   ]
+  },
+  {
+   "code": "QDHNSWKJYXGS",
+   "shorts": [
+    "QDHNSWKJYXGS"
+   ],
+   "cns": [
+    "青岛恒宁生物科技有限公司"
+   ],
+   "ens": [
+    "青岛恒宁生物科技有限公司"
+   ]
+  },
+  {
+   "code": "QDHCGJWLYXGS",
+   "shorts": [
+    "qdhc"
+   ],
+   "cns": [
+    "青岛华储国际物流有限公司"
+   ],
+   "ens": [
+    "青岛华储国际物流有限公司"
+   ]
+  },
+  {
+   "code": "QDKYXHGYXGS",
+   "shorts": [
+    "QDKYXHGYXGS"
+   ],
+   "cns": [
+    "青岛凯源祥化工有限公司"
+   ],
+   "ens": [
+    "青岛凯源祥化工有限公司"
+   ]
+  },
+  {
+   "code": "QDMSGJWLYXGS",
+   "shorts": [
+    "QDMSGJWLYXGS"
+   ],
+   "cns": [
+    "青岛猛狮国际物流有限公司"
+   ],
+   "ens": [
+    "青岛猛狮国际物流有限公司"
+   ]
+  },
+  {
+   "code": "QDMT",
+   "shorts": [
+    "QDMT"
+   ],
+   "cns": [
+    "青岛明通国际物流有限公司"
+   ],
+   "ens": [
+    "青岛明通国际物流有限公司"
+   ]
+  },
+  {
+   "code": "QDQD",
+   "shorts": [
+    "QDQD"
+   ],
+   "cns": [
+    "青岛启德物流有限公司"
+   ],
+   "ens": [
+    "青岛启德物流有限公司"
+   ]
+  },
+  {
+   "code": "QDQYNGKXZCFZYXGS",
+   "shorts": [
+    "QDQYNGKXZCFZYXGS"
+   ],
+   "cns": [
+    "青岛清原农冠抗性杂草防治有限公司"
+   ],
+   "ens": [
+    "青岛清原农冠抗性杂草防治有限公司"
+   ]
+  },
+  {
+   "code": "QDRN",
+   "shorts": [
+    "QDRN"
+   ],
+   "cns": [
+    "青岛润农化工有限公司"
+   ],
+   "ens": [
+    "青岛润农化工有限公司"
+   ]
+  },
+  {
+   "code": "QDRX",
+   "shorts": [
+    "QDRX"
+   ],
+   "cns": [
+    "青岛润祥物流有限公司"
+   ],
+   "ens": [
+    "青岛润祥物流有限公司"
+   ]
+  },
+  {
+   "code": "QDSSYGJMYYXGS",
+   "shorts": [
+    "QDSSYGJMYYXGS"
+   ],
+   "cns": [
+    "青岛盛世赢国际贸易有限公司"
+   ],
+   "ens": [
+    "青岛盛世赢国际贸易有限公司"
+   ]
+  },
+  {
+   "code": "QDTH",
+   "shorts": [
+    "QDTH"
+   ],
+   "cns": [
+    "青岛天恒国际物流有限公司"
+   ],
+   "ens": [
+    "青岛天恒国际物流有限公司"
+   ]
+  },
+  {
+   "code": "QDTB",
+   "shorts": [
+    "QDTB"
+   ],
+   "cns": [
+    "青岛通标国际物流有限公司"
+   ],
+   "ens": [
+    "青岛通标国际物流有限公司"
+   ]
+  },
+  {
+   "code": "QDWJ",
+   "shorts": [
+    "QDWJ"
+   ],
+   "cns": [
+    "青岛万嘉集运物流有限公司上海分公司"
+   ],
+   "ens": [
+    "青岛万嘉集运物流有限公司上海分公司"
+   ]
+  },
+  {
+   "code": "QDWSGJWL",
+   "shorts": [
+    "QDWSGJWL"
+   ],
+   "cns": [
+    "青岛维思国际物流有限公司"
+   ],
+   "ens": [
+    "青岛维思国际物流有限公司"
+   ]
+  },
+  {
+   "code": "QDXRD",
+   "shorts": [
+    "QDXRD"
+   ],
+   "cns": [
+    "青岛希瑞达国际物流有限公司"
+   ],
+   "ens": [
+    "青岛希瑞达国际物流有限公司"
+   ]
+  },
+  {
+   "code": "QDYQ",
+   "shorts": [
+    "QDYQ"
+   ],
+   "cns": [
+    "青岛永齐国际物流有限公司"
+   ],
+   "ens": [
+    "青岛永齐国际物流有限公司"
+   ]
+  },
+  {
+   "code": "QDYT",
+   "shorts": [
+    "QDYT"
+   ],
+   "cns": [
+    "青岛永泰艾力国际物流有限公司"
+   ],
+   "ens": [
+    "青岛永泰艾力国际物流有限公司"
+   ]
+  },
+  {
+   "code": "QDZCYHWLYXGS",
+   "shorts": [
+    "QDZCYHWLYXGS"
+   ],
+   "cns": [
+    "青岛中创远合物流有限公司"
+   ],
+   "ens": [
+    "CML GRANDCORP LOGISTICS CO.,LTD."
+   ]
+  },
+  {
+   "code": "QDZH",
+   "shorts": [
+    "QDZH"
+   ],
+   "cns": [
+    "青岛中和集拼物流有限公司"
+   ],
+   "ens": [
+    "青岛中和集拼物流有限公司"
+   ]
+  },
+  {
+   "code": "QDZS",
+   "shorts": [
+    "QDZS"
+   ],
+   "cns": [
+    "青岛中塑高新材料有限公司"
+   ],
+   "ens": [
+    "青岛中塑高新材料有限公司"
+   ]
+  },
+  {
+   "code": "QLSH",
+   "shorts": [
+    "QLSH"
+   ],
+   "cns": [
+    "青澜（上海）酒业有限公司"
+   ],
+   "ens": [
+    "青澜（上海）酒业有限公司"
+   ]
+  },
+  {
+   "code": "QZAFXCLKJ",
+   "shorts": [
+    "QZAFXCLKJ"
+   ],
+   "cns": [
+    "衢州奥丰新材料科技有限公司"
+   ],
+   "ens": [
+    "衢州奥丰新材料科技有限公司"
+   ]
+  },
+  {
+   "code": "QZ",
+   "shorts": [
+    "QZ"
+   ],
+   "cns": [
+    "衢州市弈青物流有限公司"
+   ],
+   "ens": [
+    "衢州市弈青物流有限公司"
+   ]
+  },
+  {
+   "code": "QZZRHGYXGS",
+   "shorts": [
+    "QZZRHGYXGS"
+   ],
+   "cns": [
+    "衢州中瑞化工有限公司"
+   ],
+   "ens": [
+    "衢州中瑞化工有限公司"
+   ]
+  },
+  {
+   "code": "RBGJ",
+   "shorts": [
+    "RBGJ"
+   ],
+   "cns": [
+    "荣邦国际物流（上海）有限公司"
+   ],
+   "ens": [
+    "荣邦国际物流（上海）有限公司"
+   ]
+  },
+  {
+   "code": "RDYT",
+   "shorts": [
+    "RDYT"
+   ],
+   "cns": [
+    "如东永泰化工有限公司"
+   ],
+   "ens": [
+    "如东永泰化工有限公司"
+   ]
+  },
+  {
+   "code": "RDZY",
+   "shorts": [
+    "RDZY"
+   ],
+   "cns": [
+    "如东众意化工有限公司"
+   ],
+   "ens": [
+    "如东众意化工有限公司"
+   ]
+  },
+  {
+   "code": "SJHG",
+   "shorts": [
+    "SJHG"
+   ],
+   "cns": [
+    "赛捷化工物流（上海）有限公司"
+   ],
+   "ens": [
+    "赛捷化工物流（上海）有限公司"
+   ]
+  },
+  {
+   "code": "STS",
+   "shorts": [
+    "STS"
+   ],
+   "cns": [
+    "赛特思（上海）化工有限公司"
+   ],
+   "ens": [
+    "赛特思（上海）化工有限公司"
+   ]
+  },
+  {
+   "code": "SDAX",
+   "shorts": [
+    "SDAX"
+   ],
+   "cns": [
+    "山东奥星新材料股份有限公司"
+   ],
+   "ens": [
+    "山东奥星新材料股份有限公司"
+   ]
+  },
+  {
+   "code": "SDBN",
+   "shorts": [
+    "SDBN"
+   ],
+   "cns": [
+    "山东滨农科技有限公司"
+   ],
+   "ens": [
+    "山东滨农科技有限公司"
+   ]
+  },
+  {
+   "code": "SDBYYYGFYXGS",
+   "shorts": [
+    "SDBYYYGFYXGS"
+   ],
+   "cns": [
+    "山东铂源药业股份有限公司"
+   ],
+   "ens": [
+    "山东铂源药业股份有限公司"
+   ]
+  },
+  {
+   "code": "SDDC",
+   "shorts": [
+    "SDDC"
+   ],
+   "cns": [
+    "山东大成生物化工有限公司"
+   ],
+   "ens": [
+    "山东大成生物化工有限公司"
+   ]
+  },
+  {
+   "code": "SDFY",
+   "shorts": [
+    "SDFY"
+   ],
+   "cns": [
+    "山东泛亚国际货运有限公司上海分公司"
+   ],
+   "ens": [
+    "山东泛亚国际货运有限公司上海分公司"
+   ]
+  },
+  {
+   "code": "SDHLE",
+   "shorts": [
+    "SDHLE"
+   ],
+   "cns": [
+    "山东海利尔化工有限公司"
+   ],
+   "ens": [
+    "山东海利尔化工有限公司"
+   ]
+  },
+  {
+   "code": "SDJHYZYXGS",
+   "shorts": [
+    "SDJHYZYXGS"
+   ],
+   "cns": [
+    "山东嘉华油脂有限公司"
+   ],
+   "ens": [
+    "山东嘉华油脂有限公司"
+   ]
+  },
+  {
+   "code": "SDJB",
+   "shorts": [
+    "SDJB"
+   ],
+   "cns": [
+    "山东京博农化国际贸易有限公司"
+   ],
+   "ens": [
+    "山东京博农化国际贸易有限公司"
+   ]
+  },
+  {
+   "code": "SDLJXCLYXZRGS",
+   "shorts": [
+    "SDLJXCLYXZRGS"
+   ],
+   "cns": [
+    "山东龙居新材料有限责任公司"
+   ],
+   "ens": [
+    "山东龙居新材料有限责任公司"
+   ]
+  },
+  {
+   "code": "SDLYGJMYYXGS",
+   "shorts": [
+    "SDLYGJMYYXGS"
+   ],
+   "cns": [
+    "山东隆烨国际贸易有限公司"
+   ],
+   "ens": [
+    "山东隆烨国际贸易有限公司"
+   ]
+  },
+  {
+   "code": "SDLB",
+   "shorts": [
+    "SDLB"
+   ],
+   "cns": [
+    "山东绿霸化工股份有限公司"
+   ],
+   "ens": [
+    "山东绿霸化工股份有限公司"
+   ]
+  },
+  {
+   "code": "NMSH",
+   "shorts": [
+    "NMSH"
+   ],
+   "cns": [
+    "山东柠檬生化有限公司"
+   ],
+   "ens": [
+    "山东柠檬生化有限公司"
+   ]
+  },
+  {
+   "code": "SDPL",
+   "shorts": [
+    "SDPL"
+   ],
+   "cns": [
+    "山东普洛得邦医药有限公司"
+   ],
+   "ens": [
+    "山东普洛得邦医药有限公司"
+   ]
+  },
+  {
+   "code": "SDQCXD",
+   "shorts": [
+    "SDQCXD"
+   ],
+   "cns": [
+    "山东侨昌现代农业进出口有限公司"
+   ],
+   "ens": [
+    "山东侨昌现代农业进出口有限公司"
+   ]
+  },
+  {
+   "code": "SDRHGJHY",
+   "shorts": [
+    "SDRHGJHY"
+   ],
+   "cns": [
+    "山东荣海国际货运代理有限公司"
+   ],
+   "ens": [
+    "山东荣海国际货运代理有限公司"
+   ]
+  },
+  {
+   "code": "SDRK",
+   "shorts": [
+    "SDRK"
+   ],
+   "cns": [
+    "山东润科国际贸易有限公司"
+   ],
+   "ens": [
+    "山东润科国际贸易有限公司"
+   ]
+  },
+  {
+   "code": "SDTA",
+   "shorts": [
+    "SDTA"
+   ],
+   "cns": [
+    "山东途安国际物流有限公司"
+   ],
+   "ens": [
+    "山东途安国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SDWF",
+   "shorts": [
+    "SDWF"
+   ],
+   "cns": [
+    "山东潍坊润丰化工股份有限公司"
+   ],
+   "ens": [
+    "山东潍坊润丰化工股份有限公司"
+   ]
+  },
+  {
+   "code": "SDXD",
+   "shorts": [
+    "SDXD"
+   ],
+   "cns": [
+    "山东先达农化股份有限公司"
+   ],
+   "ens": [
+    "山东先达农化股份有限公司"
+   ]
+  },
+  {
+   "code": "SDXHCJHKJYXGS",
+   "shorts": [
+    "SDXHCJHKJYXGS"
+   ],
+   "cns": [
+    "山东新和成精化科技有限公司"
+   ],
+   "ens": [
+    "山东新和成精化科技有限公司"
+   ]
+  },
+  {
+   "code": "SDYL",
+   "shorts": [
+    "SDYL"
+   ],
+   "cns": [
+    "山东元利科技股份有限公司"
+   ],
+   "ens": [
+    "山东元利科技股份有限公司"
+   ]
+  },
+  {
+   "code": "SDZWY",
+   "shorts": [
+    "SDZWY"
+   ],
+   "cns": [
+    "山东中外运船务代理有限公司"
+   ],
+   "ens": [
+    "山东中外运船务代理有限公司"
+   ]
+  },
+  {
+   "code": "SXSJCHXHG",
+   "shorts": [
+    "SXSJCHXHG"
+   ],
+   "cns": [
+    "山西省交城红星化工有限公司"
+   ],
+   "ens": [
+    "山西省交城红星化工有限公司"
+   ]
+  },
+  {
+   "code": "SHAL",
+   "shorts": [
+    "SHAL"
+   ],
+   "cns": [
+    "上海鞍赖货运代理有限公司"
+   ],
+   "ens": [
+    "上海鞍赖货运代理有限公司"
+   ]
+  },
+  {
+   "code": "SHAT",
+   "shorts": [
+    "SHAT"
+   ],
+   "cns": [
+    "上海昂泰国际货运代理有限公司"
+   ],
+   "ens": [
+    "上海昂泰国际货运代理有限公司"
+   ]
+  },
+  {
+   "code": "SHBS",
+   "shorts": [
+    "SHBS"
+   ],
+   "cns": [
+    "上海巴士悦信物流发展有限公司"
+   ],
+   "ens": [
+    "上海巴士悦信物流发展有限公司"
+   ]
+  },
+  {
+   "code": "SHBF",
+   "shorts": [
+    "SHBF"
+   ],
+   "cns": [
+    "上海百福东方国际物流有限责任公司"
+   ],
+   "ens": [
+    "上海百福东方国际物流有限责任公司"
+   ]
+  },
+  {
+   "code": "SHBRLYCHYXGS",
+   "shorts": [
+    "SHBRLYCHYXGS"
+   ],
+   "cns": [
+    "上海百睿礼仪策划有限公司"
+   ],
+   "ens": [
+    "上海百睿礼仪策划有限公司"
+   ]
+  },
+  {
+   "code": "SHBYSYYXGS",
+   "shorts": [
+    "SHBYSYYXGS"
+   ],
+   "cns": [
+    "上海倍耶实业有限公司"
+   ],
+   "ens": [
+    "上海倍耶实业有限公司"
+   ]
+  },
+  {
+   "code": "SHBJSPYXGS",
+   "shorts": [
+    "SHBJSPHXGS"
+   ],
+   "cns": [
+    "上海焙灸食品有限公司"
+   ],
+   "ens": [
+    "上海焙灸食品有限公司"
+   ]
+  },
+  {
+   "code": "SHBY",
+   "shorts": [
+    "SHBY"
+   ],
+   "cns": [
+    "上海奔逸物流有限公司"
+   ],
+   "ens": [
+    "上海奔逸物流有限公司"
+   ]
+  },
+  {
+   "code": "SHBT",
+   "shorts": [
+    "上海犇途"
+   ],
+   "cns": [
+    "上海犇途国际货运代理有限公司"
+   ],
+   "ens": [
+    "(此名称禁用)上海犇-途国际货运代理有限公司"
+   ]
+  },
+  {
+   "code": "SHBK",
+   "shorts": [
+    "SHBK"
+   ],
+   "cns": [
+    "上海博垦实业有限公司"
+   ],
+   "ens": [
+    "上海博垦实业有限公司"
+   ]
+  },
+  {
+   "code": "SHCLT",
+   "shorts": [
+    "SHCLT"
+   ],
+   "cns": [
+    "上海查雷特国际贸易有限公司"
+   ],
+   "ens": [
+    "上海查雷特国际贸易有限公司"
+   ]
+  },
+  {
+   "code": "SHCQJCKJGFYXGS",
+   "shorts": [
+    "SHCQJCKJGFYXGS"
+   ],
+   "cns": [
+    "上海超群检测科技股份有限公司"
+   ],
+   "ens": [
+    "上海超群检测科技股份有限公司"
+   ]
+  },
+  {
+   "code": "SHCR",
+   "shorts": [
+    "SHCR"
+   ],
+   "cns": [
+    "上海辰茹国际物流有限公司"
+   ],
+   "ens": [
+    "上海辰茹国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHCX",
+   "shorts": [
+    "SHCX"
+   ],
+   "cns": [
+    "上海呈新农业科技有限公司"
+   ],
+   "ens": [
+    "上海呈新农业科技有限公司"
+   ]
+  },
+  {
+   "code": "SHST",
+   "shorts": [
+    "SHST"
+   ],
+   "cns": [
+    "上海晟天国际物流有限公司"
+   ],
+   "ens": [
+    "上海晟天国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHHYGJ",
+   "shorts": [
+    "SHHYGJ"
+   ],
+   "cns": [
+    "上海晟洋国际物流有限公司"
+   ],
+   "ens": [
+    "上海晟洋国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHCS",
+   "shorts": [
+    "SHCS"
+   ],
+   "cns": [
+    "上海传盛国际货运有限公司"
+   ],
+   "ens": [
+    "上海传盛国际货运有限公司"
+   ]
+  },
+  {
+   "code": "SHDSW",
+   "shorts": [
+    "SHDSW"
+   ],
+   "cns": [
+    "上海得斯威国际货运有限公司"
+   ],
+   "ens": [
+    "上海得斯威国际货运有限公司"
+   ]
+  },
+  {
+   "code": "SHDH",
+   "shorts": [
+    "SHDH"
+   ],
+   "cns": [
+    "上海德鸿国际物流有限公司"
+   ],
+   "ens": [
+    "上海德鸿国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHDS",
+   "shorts": [
+    "SHDS"
+   ],
+   "cns": [
+    "上海德胜物流有限公司"
+   ],
+   "ens": [
+    "上海德胜物流有限公司"
+   ]
+  },
+  {
+   "code": "SHDZ",
+   "shorts": [
+    "SHDZ"
+   ],
+   "cns": [
+    "上海德泽国际物流有限公司"
+   ],
+   "ens": [
+    "上海德泽国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHDHGJ",
+   "shorts": [
+    "SHDHGJ"
+   ],
+   "cns": [
+    "上海定辉国际物流有限公司"
+   ],
+   "ens": [
+    "上海定辉国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHDWJJMYSYPDYXGS",
+   "shorts": [
+    "SHDWJJMYSYPDYXGS"
+   ],
+   "cns": [
+    "上海对外经济贸易实业浦东有限公司"
+   ],
+   "ens": [
+    "上海对外经济贸易实业浦东有限公司"
+   ]
+  },
+  {
+   "code": "SHDG",
+   "shorts": [
+    "SHDG"
+   ],
+   "cns": [
+    "上海顿高物流发展有限公司"
+   ],
+   "ens": [
+    "上海顿高物流发展有限公司"
+   ]
+  },
+  {
+   "code": "SHFS",
+   "shorts": [
+    "SHFS"
+   ],
+   "cns": [
+    "上海帆顺包装集团有限公司"
+   ],
+   "ens": [
+    "上海帆顺包装集团有限公司"
+   ]
+  },
+  {
+   "code": "SHFLSY",
+   "shorts": [
+    "SHFLSY"
+   ],
+   "cns": [
+    "上海蕃林实业有限公司"
+   ],
+   "ens": [
+    "上海蕃林实业有限公司"
+   ]
+  },
+  {
+   "code": "SHFK",
+   "shorts": [
+    "SHFK"
+   ],
+   "cns": [
+    "上海凡可国际货物运输代理有限公司"
+   ],
+   "ens": [
+    "上海凡可国际货物运输代理有限公司"
+   ]
+  },
+  {
+   "code": "SHFYGJMYYXGS",
+   "shorts": [
+    "SHFYGJMYYXGS"
+   ],
+   "cns": [
+    "上海凡昱国际贸易有限公司"
+   ],
+   "ens": [
+    "上海凡昱国际贸易有限公司"
+   ]
+  },
+  {
+   "code": "SHFL",
+   "shorts": [
+    "SHFL"
+   ],
+   "cns": [
+    "上海富联国际物流有限公司"
+   ],
+   "ens": [
+    "上海富联国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHFSHGYXGS",
+   "shorts": [
+    "SHFSHGYXGS"
+   ],
+   "cns": [
+    "上海富水化工有限公司"
+   ],
+   "ens": [
+    "上海富水化工有限公司"
+   ]
+  },
+  {
+   "code": "SHGM",
+   "shorts": [
+    "SHGM"
+   ],
+   "cns": [
+    "上海港淼供应链有限公司"
+   ],
+   "ens": [
+    "上海港淼供应链有限公司"
+   ]
+  },
+  {
+   "code": "SHGX",
+   "shorts": [
+    "SHGX"
+   ],
+   "cns": [
+    "上海港兴国际货运代理有限公司"
+   ],
+   "ens": [
+    "上海港兴国际货运代理有限公司"
+   ]
+  },
+  {
+   "code": "SHGD",
+   "shorts": [
+    "SHGD"
+   ],
+   "cns": [
+    "上海哥登比奇国际货物运输代理有限公司"
+   ],
+   "ens": [
+    "上海哥登比奇国际货物运输代理有限公司"
+   ]
+  },
+  {
+   "code": "SHGXWL",
+   "shorts": [
+    "SHGXWL"
+   ],
+   "cns": [
+    "上海光旭物流有限公司"
+   ],
+   "ens": [
+    "上海光旭物流有限公司"
+   ]
+  },
+  {
+   "code": "SHGJ",
+   "shorts": [
+    "SHGJ"
+   ],
+   "cns": [
+    "上海国际商品拍卖有限公司"
+   ],
+   "ens": [
+    "上海国际商品拍卖有限公司"
+   ]
+  },
+  {
+   "code": "SHHC",
+   "shorts": [
+    "SHHC"
+   ],
+   "cns": [
+    "上海海川国际物流有限公司"
+   ],
+   "ens": [
+    "上海海川国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHHJWL",
+   "shorts": [
+    "SHHJWL"
+   ],
+   "cns": [
+    "上海海吉物流有限公司"
+   ],
+   "ens": [
+    "上海海吉物流有限公司"
+   ]
+  },
+  {
+   "code": "SHHJSW",
+   "shorts": [
+    "SHHJSW"
+   ],
+   "cns": [
+    "上海海加生物科技有限公司"
+   ],
+   "ens": [
+    "上海海加生物科技有限公司"
+   ]
+  },
+  {
+   "code": "SHHY",
+   "shorts": [
+    "SHHY",
+    "上海华韵"
+   ],
+   "cns": [
+    "上海海艺物流有限公司",
+    "上海华韵国际货物运输代理有限公司"
+   ],
+   "ens": [
+    "上海海艺物流有限公司",
+    "上海华韵"
+   ]
+  },
+  {
+   "code": "SHHW",
+   "shorts": [
+    "SHHW"
+   ],
+   "cns": [
+    "上海汉万国际物流有限公司"
+   ],
+   "ens": [
+    "上海汉万国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHHGGJWLYXGS",
+   "shorts": [
+    "SHHGGJWLYXGS"
+   ],
+   "cns": [
+    "上海瀚高国际物流有限公司"
+   ],
+   "ens": [
+    "上海瀚高国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHHH",
+   "shorts": [
+    "SHHH"
+   ],
+   "cns": [
+    "上海航华国际船务代理有限公司"
+   ],
+   "ens": [
+    "上海航华国际船务代理有限公司"
+   ]
+  },
+  {
+   "code": "SHHL",
+   "shorts": [
+    "SHHL"
+   ],
+   "cns": [
+    "上海昊璐国际货物运输代理有限公司"
+   ],
+   "ens": [
+    "上海昊璐国际货物运输代理有限公司"
+   ]
+  },
+  {
+   "code": "SHHS",
+   "shorts": [
+    "SHHS"
+   ],
+   "cns": [
+    "上海皓生律师事务所"
+   ],
+   "ens": [
+    "上海皓生律师事务所"
+   ]
+  },
+  {
+   "code": "SHHX",
+   "shorts": [
+    "SHHX"
+   ],
+   "cns": [
+    "上海禾下土食品贸易有限公司"
+   ],
+   "ens": [
+    "上海禾下土食品贸易有限公司"
+   ]
+  },
+  {
+   "code": "SHHF",
+   "shorts": [
+    "SHHF"
+   ],
+   "cns": [
+    "上海和芳货运代理有限公司"
+   ],
+   "ens": [
+    "上海和芳货运代理有限公司"
+   ]
+  },
+  {
+   "code": "SHHYSY",
+   "shorts": [
+    "SHHYSY"
+   ],
+   "cns": [
+    "上海亨喻实业有限公司"
+   ],
+   "ens": [
+    "上海亨喻实业有限公司"
+   ]
+  },
+  {
+   "code": "SHHLWL",
+   "shorts": [
+    "SHHLWL"
+   ],
+   "cns": [
+    "上海洪陆物流有限公司"
+   ],
+   "ens": [
+    "上海洪陆物流有限公司"
+   ]
+  },
+  {
+   "code": "SHHJHGYXGS",
+   "shorts": [
+    "SHHJHGYXGS"
+   ],
+   "cns": [
+    "上海鸿佳化工有限公司"
+   ],
+   "ens": [
+    "上海鸿佳化工有限公司"
+   ]
+  },
+  {
+   "code": "SHHLQY",
+   "shorts": [
+    "SHHLQY"
+   ],
+   "cns": [
+    "上海沪立企业登记代理有限公司"
+   ],
+   "ens": [
+    "上海沪立企业登记代理有限公司"
+   ]
+  },
+  {
+   "code": "SHHYGJHY",
+   "shorts": [
+    "SHHYGJHY"
+   ],
+   "cns": [
+    "上海华翌国际货运代理有限公司"
+   ],
+   "ens": [
+    "上海华翌国际货运代理有限公司"
+   ]
+  },
+  {
+   "code": "SHHG",
+   "shorts": [
+    "SHHG"
+   ],
+   "cns": [
+    "上海化工研究院有限公司"
+   ],
+   "ens": [
+    "上海化工研究院有限公司"
+   ]
+  },
+  {
+   "code": "SHHJ",
+   "shorts": [
+    "SHHJ"
+   ],
+   "cns": [
+    "上海辉捷国际物流有限公司"
+   ],
+   "ens": [
+    "上海辉捷国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHHLD",
+   "shorts": [
+    "SHHLD"
+   ],
+   "cns": [
+    "上海惠灵顿外籍人员子女学校"
+   ],
+   "ens": [
+    "上海惠灵顿外籍人员子女学校"
+   ]
+  },
+  {
+   "code": "SHJYMYYXGS",
+   "shorts": [
+    "SHJYMYYXGS"
+   ],
+   "cns": [
+    "上海继元贸易有限公司"
+   ],
+   "ens": [
+    "上海继元贸易有限公司"
+   ]
+  },
+  {
+   "code": "SHJA",
+   "shorts": [
+    "SHJA"
+   ],
+   "cns": [
+    "上海加爱至和货物运输代理有限公司"
+   ],
+   "ens": [
+    "上海加爱至和货物运输代理有限公司"
+   ]
+  },
+  {
+   "code": "SHJT",
+   "shorts": [
+    "SHJT"
+   ],
+   "cns": [
+    "上海佳钛国际货运代理有限公司"
+   ],
+   "ens": [
+    "上海佳钛国际货运代理有限公司"
+   ]
+  },
+  {
+   "code": "SHJC",
+   "shorts": [
+    "SHJC"
+   ],
+   "cns": [
+    "上海嘉辰国际货物运输代理有限公司"
+   ],
+   "ens": [
+    "上海嘉辰国际货物运输代理有限公司"
+   ]
+  },
+  {
+   "code": "SHJF",
+   "shorts": [
+    "SHJF"
+   ],
+   "cns": [
+    "上海嘉凡货运中心"
+   ],
+   "ens": [
+    "上海嘉凡货运中心"
+   ]
+  },
+  {
+   "code": "SHJX",
+   "shorts": [
+    "SHJX"
+   ],
+   "cns": [
+    "上海见熙国际物流有限公司"
+   ],
+   "ens": [
+    "上海见熙国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHJY",
+   "shorts": [
+    "SHJY"
+   ],
+   "cns": [
+    "上海键裕运输有限公司"
+   ],
+   "ens": [
+    "上海键裕运输有限公司"
+   ]
+  },
+  {
+   "code": "SHJBGJ",
+   "shorts": [
+    "SHJBGJ"
+   ],
+   "cns": [
+    "上海杰贝国际物流有限公司"
+   ],
+   "ens": [
+    "上海杰贝国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHJBTJ",
+   "shorts": [
+    "SHJBTJ"
+   ],
+   "cns": [
+    "上海杰贝国际物流有限公司天津分公司"
+   ],
+   "ens": [
+    "上海杰贝国际物流有限公司天津分公司"
+   ]
+  },
+  {
+   "code": "SHJLF",
+   "shorts": [
+    "SHJLF"
+   ],
+   "cns": [
+    "上海捷仑飞国际物流有限公司"
+   ],
+   "ens": [
+    "上海捷仑飞国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHJCD",
+   "shorts": [
+    "SHJCD"
+   ],
+   "cns": [
+    "上海金驰达供应链管理有限公司"
+   ],
+   "ens": [
+    "上海金驰达供应链管理有限公司"
+   ]
+  },
+  {
+   "code": "SHJCWL",
+   "shorts": [
+    "SHJCWL"
+   ],
+   "cns": [
+    "上海锦昶物流有限公司"
+   ],
+   "ens": [
+    "上海锦昶物流有限公司"
+   ]
+  },
+  {
+   "code": "SHJFGYL",
+   "shorts": [
+    "SHJFGYL"
+   ],
+   "cns": [
+    "上海锦沣供应链管理有限公司"
+   ],
+   "ens": [
+    "上海锦沣供应链管理有限公司"
+   ]
+  },
+  {
+   "code": "SHJJMY",
+   "shorts": [
+    "SHJJMY"
+   ],
+   "cns": [
+    "上海晋隽贸易有限公司"
+   ],
+   "ens": [
+    "上海晋隽贸易有限公司"
+   ]
+  },
+  {
+   "code": "SHJYGJ",
+   "shorts": [
+    "SHJYGJ"
+   ],
+   "cns": [
+    "上海景云国际物流有限公司"
+   ],
+   "ens": [
+    "上海景云国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHJJ",
+   "shorts": [
+    "SHJJ"
+   ],
+   "cns": [
+    "上海径捷国际物流有限公司"
+   ],
+   "ens": [
+    "上海径捷国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHJCSY",
+   "shorts": [
+    "SHJCSY"
+   ],
+   "cns": [
+    "上海巨春实业有限公司"
+   ],
+   "ens": [
+    "上海巨春实业有限公司"
+   ]
+  },
+  {
+   "code": "SHJH",
+   "shorts": [
+    "SHJH"
+   ],
+   "cns": [
+    "上海君华国际物流有限公司"
+   ],
+   "ens": [
+    "上海君华国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHJQHYDLYXGS",
+   "shorts": [
+    "SHJQHYDLYXGS"
+   ],
+   "cns": [
+    "上海君清货运代理有限公司"
+   ],
+   "ens": [
+    "上海君清货运代理有限公司"
+   ]
+  },
+  {
+   "code": "SHJQ",
+   "shorts": [
+    "SHJQ"
+   ],
+   "cns": [
+    "上海俊企国际物流有限公司"
+   ],
+   "ens": [
+    "上海俊企国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHKY",
+   "shorts": [
+    "SHKY"
+   ],
+   "cns": [
+    "上海开於源国际物流有限公司"
+   ],
+   "ens": [
+    "上海开於源国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHKJ",
+   "shorts": [
+    "SHKJ"
+   ],
+   "cns": [
+    "上海康健进出口有限公司"
+   ],
+   "ens": [
+    "上海康健进出口有限公司"
+   ]
+  },
+  {
+   "code": "SHKX",
+   "shorts": [
+    "SHKX"
+   ],
+   "cns": [
+    "上海柯鑫国际货运代理有限公司"
+   ],
+   "ens": [
+    "上海柯鑫国际货运代理有限公司"
+   ]
+  },
+  {
+   "code": "SHKB",
+   "shorts": [
+    "SHKB"
+   ],
+   "cns": [
+    "上海可比国际货运代理有限公司"
+   ],
+   "ens": [
+    "上海可比国际货运代理有限公司"
+   ]
+  },
+  {
+   "code": "SHLD",
+   "shorts": [
+    "SHLD"
+   ],
+   "cns": [
+    "上海岚达国际货物运输代理有限公司"
+   ],
+   "ens": [
+    "上海岚达国际货物运输代理有限公司"
+   ]
+  },
+  {
+   "code": "SHLLGJ",
+   "shorts": [
+    "SHLLGJ"
+   ],
+   "cns": [
+    "上海岚麟国际货物运输代理有限公司"
+   ],
+   "ens": [
+    "上海岚麟国际货物运输代理有限公司"
+   ]
+  },
+  {
+   "code": "SHLDWL",
+   "shorts": [
+    "SHLDWL"
+   ],
+   "cns": [
+    "上海蓝舵物流有限公司"
+   ],
+   "ens": [
+    "上海蓝舵物流有限公司"
+   ]
+  },
+  {
+   "code": "SHLHGYL",
+   "shorts": [
+    "SHLHGYL"
+   ],
+   "cns": [
+    "上海乐宏供应链管理有限公司"
+   ],
+   "ens": [
+    "上海乐宏供应链管理有限公司"
+   ]
+  },
+  {
+   "code": "SHLL",
+   "shorts": [
+    "SHLL"
+   ],
+   "cns": [
+    "上海乐利国际货运代理有限公司"
+   ],
+   "ens": [
+    "上海乐利国际货运代理有限公司"
+   ]
+  },
+  {
+   "code": "SHLXGJ",
+   "shorts": [
+    "SHLXGJ"
+   ],
+   "cns": [
+    "上海雷鑫国际货物运输代理有限公司"
+   ],
+   "ens": [
+    "上海雷鑫国际货物运输代理有限公司"
+   ]
+  },
+  {
+   "code": "SHLLWL",
+   "shorts": [
+    "SHLLWL"
+   ],
+   "cns": [
+    "上海力联物流有限公司"
+   ],
+   "ens": [
+    "上海力联物流有限公司"
+   ]
+  },
+  {
+   "code": "SHLS",
+   "shorts": [
+    "SHLS"
+   ],
+   "cns": [
+    "上海立书教育科技有限公司"
+   ],
+   "ens": [
+    "上海立书教育科技有限公司"
+   ]
+  },
+  {
+   "code": "SHLDGJ",
+   "shorts": [
+    "SHLDGJ"
+   ],
+   "cns": [
+    "上海丽都国际货运代理有限公司"
+   ],
+   "ens": [
+    "上海丽都国际货运代理有限公司"
+   ]
+  },
+  {
+   "code": "SHLF",
+   "shorts": [
+    "SHLF"
+   ],
+   "cns": [
+    "上海莲福国际物流有限公司"
+   ],
+   "ens": [
+    "上海莲福国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHLRHGYXGS",
+   "shorts": [
+    "SHLRHGYXGS"
+   ],
+   "cns": [
+    "上海联睿化工有限公司"
+   ],
+   "ens": [
+    "上海联睿化工有限公司"
+   ]
+  },
+  {
+   "code": "XAMGMJDFGS",
+   "shorts": [
+    "XAMGMJDFGS"
+   ],
+   "cns": [
+    "上海龙华国际酒店管理有限公司西岸美高梅酒店分公司"
+   ],
+   "ens": [
+    "上海龙华国际酒店管理有限公司西岸美高梅酒店分公司"
+   ]
+  },
+  {
+   "code": "SHLJZ",
+   "shorts": [
+    "SHLJZ"
+   ],
+   "cns": [
+    "上海陆家嘴金融贸易区开发股份有限公司"
+   ],
+   "ens": [
+    "上海陆家嘴金融贸易区开发股份有限公司"
+   ]
+  },
+  {
+   "code": "SHLX",
+   "shorts": [
+    "SHLX",
+    "上海罗新"
+   ],
+   "cns": [
+    "上海伦芯科技有限公司",
+    "上海罗新国际货物运输代理有限公司"
+   ],
+   "ens": [
+    "上海伦芯科技有限公司",
+    "上海罗新"
+   ]
+  },
+  {
+   "code": "SHLXGJWL",
+   "shorts": [
+    "SHLXGJWL"
+   ],
+   "cns": [
+    "上海珞馨国际物流有限公司"
+   ],
+   "ens": [
+    "上海珞馨国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHMK",
+   "shorts": [
+    "SHMK"
+   ],
+   "cns": [
+    "上海霾楷世航运有限公司"
+   ],
+   "ens": [
+    "上海霾楷世航运有限公司"
+   ]
+  },
+  {
+   "code": "SHMS",
+   "shorts": [
+    "SHMS"
+   ],
+   "cns": [
+    "上海美设物流有限公司"
+   ],
+   "ens": [
+    "上海美设物流有限公司"
+   ]
+  },
+  {
+   "code": "SHMEK",
+   "shorts": [
+    "SHMEK"
+   ],
+   "cns": [
+    "上海密尔克卫化工物流有限公司"
+   ],
+   "ens": [
+    "上海密尔克卫化工物流有限公司"
+   ]
+  },
+  {
+   "code": "SHML",
+   "shorts": [
+    "SHML"
+   ],
+   "cns": [
+    "上海名林国际货运代理有限公司"
+   ],
+   "ens": [
+    "上海名林国际货运代理有限公司"
+   ]
+  },
+  {
+   "code": "SHMLQGJWLYXGS",
+   "shorts": [
+    "SHMLQGJWLYXGS"
+   ],
+   "cns": [
+    "上海莫利乔国际物流有限公司"
+   ],
+   "ens": [
+    "上海莫利乔国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHMN",
+   "shorts": [
+    "SHMN"
+   ],
+   "cns": [
+    "上海木牛流马物流有限公司"
+   ],
+   "ens": [
+    "上海木牛流马物流有限公司"
+   ]
+  },
+  {
+   "code": "SHNQ",
+   "shorts": [
+    "SHNQ"
+   ],
+   "cns": [
+    "上海纽雀客生物科技有限公司"
+   ],
+   "ens": [
+    "上海纽雀客生物科技有限公司"
+   ]
+  },
+  {
+   "code": "SHNA",
+   "shorts": [
+    "SHNA"
+   ],
+   "cns": [
+    "上海农安国际贸易有限公司"
+   ],
+   "ens": [
+    "上海农安国际贸易有限公司"
+   ]
+  },
+  {
+   "code": "SHNFSW",
+   "shorts": [
+    "SHNFSW"
+   ],
+   "cns": [
+    "上海农帆生物科技有限公司"
+   ],
+   "ens": [
+    "上海农帆生物科技有限公司"
+   ]
+  },
+  {
+   "code": "SHNG",
+   "shorts": [
+    "SHNG"
+   ],
+   "cns": [
+    "上海农冠化工有限公司"
+   ],
+   "ens": [
+    "上海农冠化工有限公司"
+   ]
+  },
+  {
+   "code": "SHNJSYYXGS",
+   "shorts": [
+    "SHNJSYYXGS"
+   ],
+   "cns": [
+    "上海农佳实业有限公司"
+   ],
+   "ens": [
+    "上海农佳实业有限公司"
+   ]
+  },
+  {
+   "code": "SHPDJY",
+   "shorts": [
+    "SHPDJY"
+   ],
+   "cns": [
+    "上海浦道玖业国际货物运输代理有限公司"
+   ],
+   "ens": [
+    "上海浦道玖业国际货物运输代理有限公司"
+   ]
+  },
+  {
+   "code": "SHQXBG",
+   "shorts": [
+    "SHQXBG"
+   ],
+   "cns": [
+    "上海祺翔报关有限公司"
+   ],
+   "ens": [
+    "上海祺翔报关有限公司"
+   ]
+  },
+  {
+   "code": "SHQG",
+   "shorts": [
+    "SHQG"
+   ],
+   "cns": [
+    "上海启贵国际物流有限公司"
+   ],
+   "ens": [
+    "上海启贵国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHQQ",
+   "shorts": [
+    "SHQQ"
+   ],
+   "cns": [
+    "上海千秋置业股份有限公司"
+   ],
+   "ens": [
+    "上海千秋置业股份有限公司"
+   ]
+  },
+  {
+   "code": "SHQJ",
+   "shorts": [
+    "SHQJ"
+   ],
+   "cns": [
+    "上海前锦国际货运有限公司"
+   ],
+   "ens": [
+    "上海前锦国际货运有限公司"
+   ]
+  },
+  {
+   "code": "SHQH",
+   "shorts": [
+    "SHQH"
+   ],
+   "cns": [
+    "上海全华国际航运有限公司"
+   ],
+   "ens": [
+    "上海全华国际航运有限公司"
+   ]
+  },
+  {
+   "code": "SHRS",
+   "shorts": [
+    "SHRS"
+   ],
+   "cns": [
+    "上海容硕供应链管理有限公司"
+   ],
+   "ens": [
+    "上海容硕供应链管理有限公司"
+   ]
+  },
+  {
+   "code": "SHRF",
+   "shorts": [
+    "SHRF"
+   ],
+   "cns": [
+    "上海如飞货运代理有限公司"
+   ],
+   "ens": [
+    "上海如飞货运代理有限公司"
+   ]
+  },
+  {
+   "code": "SHRQHD",
+   "shorts": [
+    "SHRQHD"
+   ],
+   "cns": [
+    "上海芮祺货运代理有限公司"
+   ],
+   "ens": [
+    "上海芮祺货运代理有限公司"
+   ]
+  },
+  {
+   "code": "SHRDBK",
+   "shorts": [
+    "SHRDBK"
+   ],
+   "cns": [
+    "上海瑞德布克教育科技有限公司"
+   ],
+   "ens": [
+    "上海瑞德布克教育科技有限公司"
+   ]
+  },
+  {
+   "code": "SHRGGJWLYXGS",
+   "shorts": [
+    "SHRG"
+   ],
+   "cns": [
+    "上海瑞庚国际物流有限公司"
+   ],
+   "ens": [
+    "上海瑞庚国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHRHGJWLYXGS",
+   "shorts": [
+    "SHRHGJWLYXGS"
+   ],
+   "cns": [
+    "上海瑞宏国际物流有限公司"
+   ],
+   "ens": [
+    "上海瑞宏国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHRL",
+   "shorts": [
+    "SHRL"
+   ],
+   "cns": [
+    "上海润禄化工有限公司"
+   ],
+   "ens": [
+    "上海润禄化工有限公司"
+   ]
+  },
+  {
+   "code": "SHSDGJ",
+   "shorts": [
+    "SHSDGJ"
+   ],
+   "cns": [
+    "上海赛蒂国际货物运输代理有限公司"
+   ],
+   "ens": [
+    "上海赛蒂国际货物运输代理有限公司"
+   ]
+  },
+  {
+   "code": "SHSD",
+   "shorts": [
+    "SHSD"
+   ],
+   "cns": [
+    "上海三道国际物流有限公司"
+   ],
+   "ens": [
+    "上海三道国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHSHGJ",
+   "shorts": [
+    "SHSHGJ"
+   ],
+   "cns": [
+    "上海三和国际货物运输代理有限公司"
+   ],
+   "ens": [
+    "上海三和国际货物运输代理有限公司"
+   ]
+  },
+  {
+   "code": "SHSYWL",
+   "shorts": [
+    "SHSYWL"
+   ],
+   "cns": [
+    "上海杉禹物流有限公司"
+   ],
+   "ens": [
+    "上海杉禹物流有限公司"
+   ]
+  },
+  {
+   "code": "SHSJ",
+   "shorts": [
+    "SHSJ"
+   ],
+   "cns": [
+    "上海善见城文化传播有限公司"
+   ],
+   "ens": [
+    "上海善见城文化传播有限公司"
+   ]
+  },
+  {
+   "code": "SHSG",
+   "shorts": [
+    "SHSG"
+   ],
+   "cns": [
+    "上海上港联合国际船舶代理有限公司"
+   ],
+   "ens": [
+    "上海上港联合国际船舶代理有限公司"
+   ]
+  },
+  {
+   "code": "SHSSWH",
+   "shorts": [
+    "SHSSWH"
+   ],
+   "cns": [
+    "上海尚胜文化传播有限公司"
+   ],
+   "ens": [
+    "上海尚胜文化传播有限公司"
+   ]
+  },
+  {
+   "code": "SHSYGJ",
+   "shorts": [
+    "SHSYGJ"
+   ],
+   "cns": [
+    "上海申远国际物流有限公司"
+   ],
+   "ens": [
+    "上海申远国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHSRGYL",
+   "shorts": [
+    "SHSRGYL"
+   ],
+   "cns": [
+    "上海圣苒供应链管理有限公司"
+   ],
+   "ens": [
+    "上海圣苒供应链管理有限公司"
+   ]
+  },
+  {
+   "code": "SHSZ",
+   "shorts": [
+    "SHSZ"
+   ],
+   "cns": [
+    "上海胜泽国际物流有限公司"
+   ],
+   "ens": [
+    "上海胜泽国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHSS",
+   "shorts": [
+    "SHSS"
+   ],
+   "cns": [
+    "上海盛世物流有限公司"
+   ],
+   "ens": [
+    "上海盛世物流有限公司"
+   ]
+  },
+  {
+   "code": "SHSY",
+   "shorts": [
+    "SHSY"
+   ],
+   "cns": [
+    "上海士洋国际物流有限公司"
+   ],
+   "ens": [
+    "上海士洋国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHSQFJT",
+   "shorts": [
+    "SHSQFJT"
+   ],
+   "cns": [
+    "上海市轻纺集团进出口有限公司"
+   ],
+   "ens": [
+    "上海市轻纺集团进出口有限公司"
+   ]
+  },
+  {
+   "code": "SHSL",
+   "shorts": [
+    "SHSL"
+   ],
+   "cns": [
+    "上海双流运输有限公司"
+   ],
+   "ens": [
+    "上海双流运输有限公司"
+   ]
+  },
+  {
+   "code": "SHSSWX",
+   "shorts": [
+    "SHSSWX"
+   ],
+   "cns": [
+    "上海双胜危险品运输有限公司"
+   ],
+   "ens": [
+    "上海双胜危险品运输有限公司"
+   ]
+  },
+  {
+   "code": "SHSDGJCBDLYXGS",
+   "shorts": [
+    "SHSDGJCBDLYXGS"
+   ],
+   "cns": [
+    "上海顺德国际船舶代理有限公司"
+   ],
+   "ens": [
+    "上海顺德国际船舶代理有限公司"
+   ]
+  },
+  {
+   "code": "SHSHWL",
+   "shorts": [
+    "SHSHWL"
+   ],
+   "cns": [
+    "上海顺衡物流有限公司"
+   ],
+   "ens": [
+    "上海顺衡物流有限公司"
+   ]
+  },
+  {
+   "code": "SHSLZ",
+   "shorts": [
+    "SHSLZ"
+   ],
+   "cns": [
+    "上海顺龙泽国际货运代理有限公司"
+   ],
+   "ens": [
+    "上海顺龙泽国际货运代理有限公司"
+   ]
+  },
+  {
+   "code": "SHSH",
+   "shorts": [
+    "SHSH"
+   ],
+   "cns": [
+    "上海速恒国际物流有限公司"
+   ],
+   "ens": [
+    "上海速恒国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHTX",
+   "shorts": [
+    "SHTX"
+   ],
+   "cns": [
+    "上海腾信快递有限公司"
+   ],
+   "ens": [
+    "上海腾信快递有限公司"
+   ]
+  },
+  {
+   "code": "SHTGHGYXGSKPZL",
+   "shorts": [
+    "SHTGHGXGSKPZL"
+   ],
+   "cns": [
+    "上海天庚化工有限公司"
+   ],
+   "ens": [
+    "上海天庚化工有限公司"
+   ]
+  },
+  {
+   "code": "SHTLGJCW",
+   "shorts": [
+    "SHTLGJCW"
+   ],
+   "cns": [
+    "上海天禄国际船务代理有限公司"
+   ],
+   "ens": [
+    "上海天禄国际船务代理有限公司"
+   ]
+  },
+  {
+   "code": "SHTQ",
+   "shorts": [
+    "SHTQ"
+   ],
+   "cns": [
+    "上海天渠国际货物运输代理有限公司"
+   ],
+   "ens": [
+    "上海天渠国际货物运输代理有限公司"
+   ]
+  },
+  {
+   "code": "SHTJ",
+   "shorts": [
+    "SHTJ"
+   ],
+   "cns": [
+    "上海通境国际货物运输代理有限公司深圳分公司"
+   ],
+   "ens": [
+    "上海通境国际货物运输代理有限公司深圳分公司"
+   ]
+  },
+  {
+   "code": "SHTY",
+   "shorts": [
+    "SHTY"
+   ],
+   "cns": [
+    "上海同佑供应链管理有限公司"
+   ],
+   "ens": [
+    "上海同佑供应链管理有限公司"
+   ]
+  },
+  {
+   "code": "SHTS",
+   "shorts": [
+    "SHTS"
+   ],
+   "cns": [
+    "上海统帅建筑装潢有限公司"
+   ],
+   "ens": [
+    "上海统帅建筑装潢有限公司"
+   ]
+  },
+  {
+   "code": "SHTYGJHWYSDLYXGS",
+   "shorts": [
+    "SHTYGJHW"
+   ],
+   "cns": [
+    "上海图悦国际货物运输代理有限公司"
+   ],
+   "ens": [
+    "上海图悦国际货物运输代理有限公司"
+   ]
+  },
+  {
+   "code": "SHWGQ",
+   "shorts": [
+    "SHWGQ"
+   ],
+   "cns": [
+    "上海外高桥国际酒类展示贸易中心有限公司"
+   ],
+   "ens": [
+    "上海外高桥国际酒类展示贸易中心有限公司"
+   ]
+  },
+  {
+   "code": "SHWXRHYXGS",
+   "shorts": [
+    "SHWXRHYXGS"
+   ],
+   "cns": [
+    "上海万香日化有限公司"
+   ],
+   "ens": [
+    "上海万香日化有限公司"
+   ]
+  },
+  {
+   "code": "SHWYGJWLYXGS",
+   "shorts": [
+    "SHWYGJWLYXGS"
+   ],
+   "cns": [
+    "上海威源国际物流有限公司"
+   ],
+   "ens": [
+    "上海威源国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHXBS",
+   "shorts": [
+    "SHXBS"
+   ],
+   "cns": [
+    "上海西贝思船务有限公司"
+   ],
+   "ens": [
+    "上海西贝思船务有限公司"
+   ]
+  },
+  {
+   "code": "SHXLXLGYL",
+   "shorts": [
+    "SHXLXLGYL"
+   ],
+   "cns": [
+    "上海希鲤希鲤供应链有限公司"
+   ],
+   "ens": [
+    "上海希鲤希鲤供应链有限公司"
+   ]
+  },
+  {
+   "code": "SHXN",
+   "shorts": [
+    "SHXN"
+   ],
+   "cns": [
+    "上海希农化学有限公司"
+   ],
+   "ens": [
+    "上海希农化学有限公司"
+   ]
+  },
+  {
+   "code": "SHXYGJMYYXGS",
+   "shorts": [
+    "SHXYGJMYYXGS"
+   ],
+   "cns": [
+    "上海曦悦国际贸易有限公司"
+   ],
+   "ens": [
+    "上海曦悦国际贸易有限公司"
+   ]
+  },
+  {
+   "code": "SHXDM",
+   "shorts": [
+    "SHXDM"
+   ],
+   "cns": [
+    "上海喜嘟咪商贸有限公司"
+   ],
+   "ens": [
+    "上海喜嘟咪商贸有限公司"
+   ]
+  },
+  {
+   "code": "SHXJJXHGYXGS",
+   "shorts": [
+    "SHXJJXHGYXGS"
+   ],
+   "cns": [
+    "上海先金精细化工有限公司"
+   ],
+   "ens": [
+    "上海先金精细化工有限公司"
+   ]
+  },
+  {
+   "code": "SHXM",
+   "shorts": [
+    "SHXM"
+   ],
+   "cns": [
+    "上海祥铭国际货物运输代理有限公司"
+   ],
+   "ens": [
+    "上海祥铭国际货物运输代理有限公司"
+   ]
+  },
+  {
+   "code": "SHXY",
+   "shorts": [
+    "SHXY"
+   ],
+   "cns": [
+    "上海翔翼国际物流有限公司"
+   ],
+   "ens": [
+    "上海翔翼国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHXP",
+   "shorts": [
+    "SHXP"
+   ],
+   "cns": [
+    "上海晓萍货物运输代理有限公司"
+   ],
+   "ens": [
+    "上海晓萍货物运输代理有限公司"
+   ]
+  },
+  {
+   "code": "SHXXY",
+   "shorts": [
+    "SHXXY"
+   ],
+   "cns": [
+    "上海新新运国际货物运输代理有限公司"
+   ],
+   "ens": [
+    "上海新新运国际货物运输代理有限公司"
+   ]
+  },
+  {
+   "code": "SHXYWL",
+   "shorts": [
+    "SHXYWL"
+   ],
+   "cns": [
+    "上海新宜物流中心"
+   ],
+   "ens": [
+    "上海新宜物流中心"
+   ]
+  },
+  {
+   "code": "SHXYHG",
+   "shorts": [
+    "SHXYHG"
+   ],
+   "cns": [
+    "上海新越化工有限公司"
+   ],
+   "ens": [
+    "上海新越化工有限公司"
+   ]
+  },
+  {
+   "code": "SHXT",
+   "shorts": [
+    "SHXT"
+   ],
+   "cns": [
+    "上海歆通供应链有限公司"
+   ],
+   "ens": [
+    "上海歆通供应链有限公司"
+   ]
+  },
+  {
+   "code": "SHXL",
+   "shorts": [
+    "SHXL"
+   ],
+   "cns": [
+    "上海信昱晟国际物流有限公司"
+   ],
+   "ens": [
+    "上海信昱晟国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHXLHGJMYYXGS",
+   "shorts": [
+    "SHXLHGJMYYXGS"
+   ],
+   "cns": [
+    "上海兴霖荟国际贸易有限公司"
+   ],
+   "ens": [
+    "上海兴霖荟国际贸易有限公司"
+   ]
+  },
+  {
+   "code": "SHXS",
+   "shorts": [
+    "SHXS"
+   ],
+   "cns": [
+    "上海煦升国际货运代理有限公司"
+   ],
+   "ens": [
+    "上海煦升国际货运代理有限公司"
+   ]
+  },
+  {
+   "code": "XYGJ",
+   "shorts": [
+    "XYGJ"
+   ],
+   "cns": [
+    "上海迅由国际物流有限公司"
+   ],
+   "ens": [
+    "上海迅由国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHYZS",
+   "shorts": [
+    "SHYZS"
+   ],
+   "cns": [
+    "上海鸭嘴兽供应链管理有限公司"
+   ],
+   "ens": [
+    "上海鸭嘴兽供应链管理有限公司"
+   ]
+  },
+  {
+   "code": "SHYB",
+   "shorts": [
+    "SHYB"
+   ],
+   "cns": [
+    "上海雅本化学有限公司"
+   ],
+   "ens": [
+    "上海雅本化学有限公司"
+   ]
+  },
+  {
+   "code": "SHYKGJHW",
+   "shorts": [
+    "SHYKGJHW"
+   ],
+   "cns": [
+    "上海亚凯国际货物运输代理有限公司"
+   ],
+   "ens": [
+    "上海亚凯国际货物运输代理有限公司"
+   ]
+  },
+  {
+   "code": "SHYYHF",
+   "shorts": [
+    "SHYYHF"
+   ],
+   "cns": [
+    "上海亚远化纺有限公司"
+   ],
+   "ens": [
+    "上海亚远化纺有限公司"
+   ]
+  },
+  {
+   "code": "SHYXGJHYFZYXGS",
+   "shorts": [
+    "SHYXGJHYFZYXGS"
+   ],
+   "cns": [
+    "上海怡翔国际货运发展有限公司"
+   ],
+   "ens": [
+    "上海怡翔国际货运发展有限公司"
+   ]
+  },
+  {
+   "code": "SHYH",
+   "shorts": [
+    "SHYH"
+   ],
+   "cns": [
+    "上海义航报关有限公司"
+   ],
+   "ens": [
+    "上海义航报关有限公司"
+   ]
+  },
+  {
+   "code": "SHYT",
+   "shorts": [
+    "SHYT"
+   ],
+   "cns": [
+    "上海义统国际物流有限公司"
+   ],
+   "ens": [
+    "上海义统国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHYY",
+   "shorts": [
+    "SHYY"
+   ],
+   "cns": [
+    "上海义言物流有限公司"
+   ],
+   "ens": [
+    "上海义言物流有限公司"
+   ]
+  },
+  {
+   "code": "SHYGYMFY",
+   "shorts": [
+    "SHYGYMFY"
+   ],
+   "cns": [
+    "上海译国译民翻译服务有限公司"
+   ],
+   "ens": [
+    "上海译国译民翻译服务有限公司"
+   ]
+  },
+  {
+   "code": "SHYLH",
+   "shorts": [
+    "SHYLH"
+   ],
+   "cns": [
+    "上海奕丽会国际贸易有限公司"
+   ],
+   "ens": [
+    "上海奕丽会国际贸易有限公司"
+   ]
+  },
+  {
+   "code": "SHYQGJ",
+   "shorts": [
+    "SHYQGJ"
+   ],
+   "cns": [
+    "上海溢泉国际货物运输代理有限公司"
+   ],
+   "ens": [
+    "上海溢泉国际货物运输代理有限公司"
+   ]
+  },
+  {
+   "code": "SHYYHGYXGS",
+   "shorts": [
+    "SHYYHGYXGS"
+   ],
+   "cns": [
+    "上海熠益化工有限公司"
+   ],
+   "ens": [
+    "上海熠益化工有限公司"
+   ]
+  },
+  {
+   "code": "SHYLGJ",
+   "shorts": [
+    "SHYLGJ"
+   ],
+   "cns": [
+    "上海翼琉国际货物运输代理有限公司"
+   ],
+   "ens": [
+    "上海翼琉国际货物运输代理有限公司"
+   ]
+  },
+  {
+   "code": "SHYSGJ",
+   "shorts": [
+    "SHYSGJ"
+   ],
+   "cns": [
+    "上海鹰速国际货物运输有限公司"
+   ],
+   "ens": [
+    "上海鹰速国际货物运输有限公司"
+   ]
+  },
+  {
+   "code": "SHYXGJ",
+   "shorts": [
+    "SHYXGJ"
+   ],
+   "cns": [
+    "上海赢骁国际物流有限公司"
+   ],
+   "ens": [
+    "上海赢骁国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHYL",
+   "shorts": [
+    "SHYL"
+   ],
+   "cns": [
+    "上海瀛琏供应链管理有限公司"
+   ],
+   "ens": [
+    "上海瀛琏供应链管理有限公司"
+   ]
+  },
+  {
+   "code": "SHYKWL",
+   "shorts": [
+    "SHYKWL"
+   ],
+   "cns": [
+    "上海颖坤物流有限公司"
+   ],
+   "ens": [
+    "上海颖坤物流有限公司"
+   ]
+  },
+  {
+   "code": "SHYHY",
+   "shorts": [
+    "SHYHY"
+   ],
+   "cns": [
+    "上海雍和镛供应链管理有限公司"
+   ],
+   "ens": [
+    "上海雍和镛供应链管理有限公司"
+   ]
+  },
+  {
+   "code": "SHYF",
+   "shorts": [
+    "SHYF"
+   ],
+   "cns": [
+    "上海永锋实业有限公司"
+   ],
+   "ens": [
+    "上海永锋实业有限公司"
+   ]
+  },
+  {
+   "code": "SHYHJSPJC",
+   "shorts": [
+    "SHYHJSPJC"
+   ],
+   "cns": [
+    "上海佑海金属配件厂"
+   ],
+   "ens": [
+    "上海佑海金属配件厂"
+   ]
+  },
+  {
+   "code": "SHYQ",
+   "shorts": [
+    "SHYQ"
+   ],
+   "cns": [
+    "上海佑擎国际货运代理有限公司"
+   ],
+   "ens": [
+    "上海佑擎国际货运代理有限公司"
+   ]
+  },
+  {
+   "code": "SHYA",
+   "shorts": [
+    "SHYA"
+   ],
+   "cns": [
+    "上海宇昂水性新材料科技股份有限公司"
+   ],
+   "ens": [
+    "上海宇昂水性新材料科技股份有限公司"
+   ]
+  },
+  {
+   "code": "SHYYFY",
+   "shorts": [
+    "SHYYFY"
+   ],
+   "cns": [
+    "上海宇译翻译有限公司"
+   ],
+   "ens": [
+    "上海宇译翻译有限公司"
+   ]
+  },
+  {
+   "code": "SHYNSY",
+   "shorts": [
+    "SHYNSY"
+   ],
+   "cns": [
+    "上海羽尼实业有限公司"
+   ],
+   "ens": [
+    "上海羽尼实业有限公司"
+   ]
+  },
+  {
+   "code": "SHYSM",
+   "shorts": [
+    "SHYSM"
+   ],
+   "cns": [
+    "上海玉松木制品有限公司"
+   ],
+   "ens": [
+    "上海玉松木制品有限公司"
+   ]
+  },
+  {
+   "code": "SHLY",
+   "shorts": [
+    "SHLY"
+   ],
+   "cns": [
+    "上海聿越物流有限公司"
+   ],
+   "ens": [
+    "上海聿越物流有限公司"
+   ]
+  },
+  {
+   "code": "SHYZ",
+   "shorts": [
+    "SHYZ"
+   ],
+   "cns": [
+    "上海裕洲供应链管理中心"
+   ],
+   "ens": [
+    "上海裕洲供应链管理中心"
+   ]
+  },
+  {
+   "code": "SHYSHFGJWLYXGS",
+   "shorts": [
+    "SHYSHFGJWLYXGS"
+   ],
+   "cns": [
+    "上海元速和丰国际物流有限公司"
+   ],
+   "ens": [
+    "：Shanghai Harvest Element Logistics Co., Ltd"
+   ]
+  },
+  {
+   "code": "SHYFQC",
+   "shorts": [
+    "SHYFQC"
+   ],
+   "cns": [
+    "上海云丰汽车运输有限公司"
+   ],
+   "ens": [
+    "上海云丰汽车运输有限公司"
+   ]
+  },
+  {
+   "code": "SHYS",
+   "shorts": [
+    "SHYS"
+   ],
+   "cns": [
+    "上海运顺国际物流有限公司"
+   ],
+   "ens": [
+    "上海运顺国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHZJWL",
+   "shorts": [
+    "SHZJWL"
+   ],
+   "cns": [
+    "上海泽佳物流有限公司"
+   ],
+   "ens": [
+    "上海泽佳物流有限公司"
+   ]
+  },
+  {
+   "code": "SHZL",
+   "shorts": [
+    "SHZL",
+    "上海中联"
+   ],
+   "cns": [
+    "上海增蓝环保设备有限公司",
+    "上海中联国际船务代理有限公司"
+   ],
+   "ens": [
+    "上海增蓝环保设备有限公司",
+    "上海中联"
+   ]
+  },
+  {
+   "code": "SHZWKJS",
+   "shorts": [
+    "SHZWKJS"
+   ],
+   "cns": [
+    "上海志为会计师事务所（普通合伙）"
+   ],
+   "ens": [
+    "上海志为会计师事务所（普通合伙）"
+   ]
+  },
+  {
+   "code": "SHZYGJ",
+   "shorts": [
+    "SHZYGJ"
+   ],
+   "cns": [
+    "上海智洋国际物流有限公司"
+   ],
+   "ens": [
+    "上海智洋国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHZW",
+   "shorts": [
+    "SHZW"
+   ],
+   "cns": [
+    "上海中外运船务代理有限公司"
+   ],
+   "ens": [
+    "上海中外运船务代理有限公司"
+   ]
+  },
+  {
+   "code": "SHZYGJHUDLYXGS",
+   "shorts": [
+    "SHZYGJHYDLYXGS"
+   ],
+   "cns": [
+    "上海仲研国际货运代理有限公司"
+   ],
+   "ens": [
+    "SINO-DG INTERNATIONAL LOGISTICS,CO.,LTD"
+   ]
+  },
+  {
+   "code": "SHZS",
+   "shorts": [
+    "SHZS",
+    "上海德颂"
+   ],
+   "cns": [
+    "上海洲山国际物流有限公司",
+    "上海德颂国际物流有限公司"
+   ],
+   "ens": [
+    "上海洲山国际物流有限公司",
+    "SHANGHAI TOPICON INTERNATIONAL LOGISTICS CO.,LTD"
+   ]
+  },
+  {
+   "code": "SHZSGY",
+   "shorts": [
+    "SHZSGY"
+   ],
+   "cns": [
+    "上海洲仕供应链管理有限公司"
+   ],
+   "ens": [
+    "上海洲仕供应链管理有限公司"
+   ]
+  },
+  {
+   "code": "SHZYWL",
+   "shorts": [
+    "SHZYWL"
+   ],
+   "cns": [
+    "上海铸原物流有限公司"
+   ],
+   "ens": [
+    "上海铸原物流有限公司"
+   ]
+  },
+  {
+   "code": "SHZJ",
+   "shorts": [
+    "SHZJ"
+   ],
+   "cns": [
+    "上海卓景汽车销售有限公司"
+   ],
+   "ens": [
+    "上海卓景汽车销售有限公司"
+   ]
+  },
+  {
+   "code": "SHZHGM",
+   "shorts": [
+    "SHZHGM"
+   ],
+   "cns": [
+    "上海佐海工贸有限公司"
+   ],
+   "ens": [
+    "上海佐海工贸有限公司"
+   ]
+  },
+  {
+   "code": "SXSFXHGYXGS",
+   "shorts": [
+    "SXSFXHGYXGS"
+   ],
+   "cns": [
+    "绍兴市方晓化工有限公司"
+   ],
+   "ens": [
+    "绍兴市方晓化工有限公司"
+   ]
+  },
+  {
+   "code": "SZBW",
+   "shorts": [
+    "SZBW"
+   ],
+   "cns": [
+    "深圳市柏威国际科技物流有限公司上海浦东分公司"
+   ],
+   "ens": [
+    "深圳市柏威国际科技物流有限公司上海浦东分公司"
+   ]
+  },
+  {
+   "code": "SZHH",
+   "shorts": [
+    "SZHH"
+   ],
+   "cns": [
+    "深圳市华海捷运国际货运代理有限公司"
+   ],
+   "ens": [
+    "深圳市华海捷运国际货运代理有限公司"
+   ]
+  },
+  {
+   "code": "SZJT",
+   "shorts": [
+    "SZJT"
+   ],
+   "cns": [
+    "深圳市佳拓物流有限公司"
+   ],
+   "ens": [
+    "深圳市佳拓物流有限公司"
+   ]
+  },
+  {
+   "code": "SZLC",
+   "shorts": [
+    "SZLC"
+   ],
+   "cns": [
+    "深圳市林昌科技有限公司"
+   ],
+   "ens": [
+    "深圳市林昌科技有限公司"
+   ]
+  },
+  {
+   "code": "SZSQKZWKJ",
+   "shorts": [
+    "SZSQKZWKJ"
+   ],
+   "cns": [
+    "深圳市祁科作物科技有限公司"
+   ],
+   "ens": [
+    "深圳市祁科作物科技有限公司"
+   ]
+  },
+  {
+   "code": "SZSD",
+   "shorts": [
+    "SZSD"
+   ],
+   "cns": [
+    "深圳市事达科技有限公司"
+   ],
+   "ens": [
+    "深圳市事达科技有限公司"
+   ]
+  },
+  {
+   "code": "SZSTBGJHYDLYXGS",
+   "shorts": [
+    "SZSTBGJHYDLYXGS"
+   ],
+   "cns": [
+    "深圳市泰博国际货运代理有限公司宁波分公司"
+   ],
+   "ens": [
+    "深圳市泰博国际货运代理有限公司宁波分公司"
+   ]
+  },
+  {
+   "code": "SZSTZ",
+   "shorts": [
+    "SZSTZ"
+   ],
+   "cns": [
+    "深圳市天助人和信息技术有限公司"
+   ],
+   "ens": [
+    "深圳市天助人和信息技术有限公司"
+   ]
+  },
+  {
+   "code": "SZWM",
+   "shorts": [
+    "SZWM"
+   ],
+   "cns": [
+    "深圳市万马国际货运代理有限公司"
+   ],
+   "ens": [
+    "深圳市万马国际货运代理有限公司"
+   ]
+  },
+  {
+   "code": "SZSYPLHG",
+   "shorts": [
+    "SZSYPLHG"
+   ],
+   "cns": [
+    "深圳市易普乐化工有限公司"
+   ],
+   "ens": [
+    "深圳市易普乐化工有限公司"
+   ]
+  },
+  {
+   "code": "SZYL",
+   "shorts": [
+    "SZYL"
+   ],
+   "cns": [
+    "深圳市英联翻译有限公司"
+   ],
+   "ens": [
+    "深圳市英联翻译有限公司"
+   ]
+  },
+  {
+   "code": "SZSCF",
+   "shorts": [
+    "SZSCF"
+   ],
+   "cns": [
+    "深圳市长帆供应链有限公司"
+   ],
+   "ens": [
+    "深圳市长帆供应链有限公司"
+   ]
+  },
+  {
+   "code": "SZGJWLSZYXGS",
+   "shorts": [
+    "SZGJWLSZYXGS"
+   ],
+   "cns": [
+    "神洲国际物流（深圳）有限公司"
+   ],
+   "ens": [
+    "神洲国际物流（深圳）有限公司"
+   ]
+  },
+  {
+   "code": "SYKN",
+   "shorts": [
+    "SYKN"
+   ],
+   "cns": [
+    "沈阳康宁物流有限公司"
+   ],
+   "ens": [
+    "沈阳康宁物流有限公司"
+   ]
+  },
+  {
+   "code": "STW",
+   "shorts": [
+    "STW"
+   ],
+   "cns": [
+    "施坦威钢琴亚太有限公司"
+   ],
+   "ens": [
+    "施坦威钢琴亚太有限公司"
+   ]
+  },
+  {
+   "code": "STSH",
+   "shorts": [
+    "STSH"
+   ],
+   "cns": [
+    "顺通世航国际物流（北京）有限公司"
+   ],
+   "ens": [
+    "顺通世航国际物流（北京）有限公司"
+   ]
+  },
+  {
+   "code": "SCLYHG",
+   "shorts": [
+    "SCLYHG"
+   ],
+   "cns": [
+    "四川省立源化工有限公司"
+   ],
+   "ens": [
+    "四川省立源化工有限公司"
+   ]
+  },
+  {
+   "code": "SCXYDNHYXGS",
+   "shorts": [
+    "SCXYDNHYXGS"
+   ],
+   "cns": [
+    "四川先易达农化有限公司"
+   ],
+   "ens": [
+    "四川先易达农化有限公司"
+   ]
+  },
+  {
+   "code": "SNGDSW",
+   "shorts": [
+    "SNGDSW"
+   ],
+   "cns": [
+    "苏农（广德）生物科技有限公司"
+   ],
+   "ens": [
+    "苏农（广德）生物科技有限公司"
+   ]
+  },
+  {
+   "code": "SZHG",
+   "shorts": [
+    "SZHG"
+   ],
+   "cns": [
+    "苏州海管家物流科技有限公司"
+   ],
+   "ens": [
+    "苏州海管家物流科技有限公司"
+   ]
+  },
+  {
+   "code": "SZFJKJ",
+   "shorts": [
+    "SZFJKJ"
+   ],
+   "cns": [
+    "苏州聚复科技股份有限公司"
+   ],
+   "ens": [
+    "苏州聚复科技股份有限公司"
+   ]
+  },
+  {
+   "code": "SZXX",
+   "shorts": [
+    "SZXX",
+    "深圳星鑫"
+   ],
+   "cns": [
+    "苏州箱讯供应链管理有限公司",
+    "深圳星鑫供应链管理有限公司"
+   ],
+   "ens": [
+    "苏州箱讯供应链管理有限公司",
+    "深圳星鑫供应链管理有限公司"
+   ]
+  },
+  {
+   "code": "SZYB",
+   "shorts": [
+    "SZYB"
+   ],
+   "cns": [
+    "苏州一波进出口有限公司"
+   ],
+   "ens": [
+    "苏州一波进出口有限公司"
+   ]
+  },
+  {
+   "code": "SZYK",
+   "shorts": [
+    "SZYK"
+   ],
+   "cns": [
+    "苏州屹科化工品有限公司"
+   ],
+   "ens": [
+    "苏州屹科化工品有限公司"
+   ]
+  },
+  {
+   "code": "SYX",
+   "shorts": [
+    "SYX"
+   ],
+   "cns": [
+    "孙玉霞"
+   ],
+   "ens": [
+    "孙玉霞"
+   ]
+  },
+  {
+   "code": "TCZYHYCW",
+   "shorts": [
+    "TCZYHYCW"
+   ],
+   "cns": [
+    "太仓中远海运船务代理有限公司"
+   ],
+   "ens": [
+    "太仓中远海运船务代理有限公司"
+   ]
+  },
+  {
+   "code": "PIL",
+   "shorts": [
+    "PIL"
+   ],
+   "cns": [
+    "太平船务（中国）有限公司"
+   ],
+   "ens": [
+    "太平船务（中国）有限公司"
+   ]
+  },
+  {
+   "code": "TZSL",
+   "shorts": [
+    "TZSL"
+   ],
+   "cns": [
+    "泰州盛林进出口贸易有限公司"
+   ],
+   "ens": [
+    "泰州盛林进出口贸易有限公司"
+   ]
+  },
+  {
+   "code": "TSSFXCLYXGS",
+   "shorts": [
+    "TSSFXCLYXGS"
+   ],
+   "cns": [
+    "唐山三孚新材料有限公司"
+   ],
+   "ens": [
+    "唐山三孚新材料有限公司"
+   ]
+  },
+  {
+   "code": "TZWT",
+   "shorts": [
+    "TZWT"
+   ],
+   "cns": [
+    "滕州市悟通香料有限责任公司"
+   ],
+   "ens": [
+    "滕州市悟通香料有限责任公司"
+   ]
+  },
+  {
+   "code": "TJCY",
+   "shorts": [
+    "TJCY"
+   ],
+   "cns": [
+    "天津市创源世佳国际货运代理有限公司上海分"
+   ],
+   "ens": [
+    "天津市创源世佳国际货运代理有限公司上海分"
+   ]
+  },
+  {
+   "code": "TSDFWLYXGS",
+   "shorts": [
+    "TSDFWLYXGS"
+   ],
+   "cns": [
+    "天水德发物流有限公司"
+   ],
+   "ens": [
+    "天水德发物流有限公司"
+   ]
+  },
+  {
+   "code": "TZ",
+   "shorts": [
+    "TZ"
+   ],
+   "cns": [
+    "田泽（上海）国际货运代理有限公司"
+   ],
+   "ens": [
+    "田泽（上海）国际货运代理有限公司"
+   ]
+  },
+  {
+   "code": "TJ",
+   "shorts": [
+    "TJGJ"
+   ],
+   "cns": [
+    "通境国际货运代理（深圳）有限公司"
+   ],
+   "ens": [
+    "通境国际货运代理（深圳）有限公司"
+   ]
+  },
+  {
+   "code": "WHL",
+   "shorts": [
+    "WHL"
+   ],
+   "cns": [
+    "万海航运股份有限公司"
+   ],
+   "ens": [
+    "万海航运股份有限公司"
+   ]
+  },
+  {
+   "code": "WXKJ",
+   "shorts": [
+    "WXKJ"
+   ],
+   "cns": [
+    "万香科技股份有限公司"
+   ],
+   "ens": [
+    "WANXIANG INTERNATIONAL FLAVORS & FRAGRANCES PTE. LTD"
+   ]
+  },
+  {
+   "code": "WF",
+   "shorts": [
+    "WF"
+   ],
+   "cns": [
+    "王菲"
+   ],
+   "ens": [
+    "王菲"
+   ]
+  },
+  {
+   "code": "WDWL",
+   "shorts": [
+    "WDWL"
+   ],
+   "cns": [
+    "危达物流（上海）有限公司"
+   ],
+   "ens": [
+    "危达物流（上海）有限公司"
+   ]
+  },
+  {
+   "code": "威海韩孚",
+   "shorts": [
+    "HANFU"
+   ],
+   "cns": [
+    "威海韩孚生化药业有限公司"
+   ],
+   "ens": [
+    "威海韩孚生化药业有限公司"
+   ]
+  },
+  {
+   "code": "WFDS",
+   "shorts": [
+    "WFDS"
+   ],
+   "cns": [
+    "潍坊得圣物流有限公司"
+   ],
+   "ens": [
+    "潍坊得圣物流有限公司"
+   ]
+  },
+  {
+   "code": "WFLBHG",
+   "shorts": [
+    "WFLBHG"
+   ],
+   "cns": [
+    "潍坊绿霸化工有限公司"
+   ],
+   "ens": [
+    "潍坊绿霸化工有限公司"
+   ]
+  },
+  {
+   "code": "WFSLBNHXGYYXGS",
+   "shorts": [
+    "WFSLBNHXGYYXGS"
+   ],
+   "cns": [
+    "潍坊三力本诺化学工业有限公司"
+   ],
+   "ens": [
+    "潍坊三力本诺化学工业有限公司"
+   ]
+  },
+  {
+   "code": "WFXD",
+   "shorts": [
+    "WFXD"
+   ],
+   "cns": [
+    "潍坊先达化工有限公司"
+   ],
+   "ens": [
+    "潍坊先达化工有限公司"
+   ]
+  },
+  {
+   "code": "WZLJ",
+   "shorts": [
+    "WZLJ"
+   ],
+   "cns": [
+    "温州绿佳进出口有限公司"
+   ],
+   "ens": [
+    "温州绿佳进出口有限公司"
+   ]
+  },
+  {
+   "code": "WZZJ",
+   "shorts": [
+    "WZZJ"
+   ],
+   "cns": [
+    "温州洲际贸易有限公司"
+   ],
+   "ens": [
+    "温州洲际贸易有限公司"
+   ]
+  },
+  {
+   "code": "WXGT",
+   "shorts": [
+    "WXGT"
+   ],
+   "cns": [
+    "无锡共拓医药科技有限公司"
+   ],
+   "ens": [
+    "无锡共拓医药科技有限公司"
+   ]
+  },
+  {
+   "code": "WXJH",
+   "shorts": [
+    "WXJH"
+   ],
+   "cns": [
+    "无锡晶海氨基酸股份有限公司"
+   ],
+   "ens": [
+    "无锡晶海氨基酸股份有限公司"
+   ]
+  },
+  {
+   "code": "WHXEDSW",
+   "shorts": [
+    "WHXEDSW"
+   ],
+   "cns": [
+    "武汉欣尔达生物化学有限公司"
+   ],
+   "ens": [
+    "武汉欣尔达生物化学有限公司"
+   ]
+  },
+  {
+   "code": "XZZF",
+   "shorts": [
+    "XZZF"
+   ],
+   "cns": [
+    "西藏珠峰资源股份有限公司"
+   ],
+   "ens": [
+    "西藏珠峰资源股份有限公司"
+   ]
+  },
+  {
+   "code": "XCMKL",
+   "shorts": [
+    "XCMKL"
+   ],
+   "cns": [
+    "细川密克朗（上海）粉体机械有限公司"
+   ],
+   "ens": [
+    "细川密克朗（上海）粉体机械有限公司"
+   ]
+  },
+  {
+   "code": "XGFLK",
+   "shorts": [
+    "XGFLK"
+   ],
+   "cns": [
+    "香港丰立凯有限公司"
+   ],
+   "ens": [
+    "HONG KONG FINDCHEM LIMITED"
+   ]
+  },
+  {
+   "code": "SITC",
+   "shorts": [
+    "XHFWL",
+    "SITC"
+   ],
+   "cns": [
+    "新海丰物流有限公司",
+    "山东海丰国际航运集团有限公司"
+   ],
+   "ens": [
+    "New Haifeng Logistics Co., Ltd.",
+    "SITC Maritime (Group) Co., Ltd"
+   ]
+  },
+  {
+   "code": "XTSJHSWKJ",
+   "shorts": [
+    "XTSJHSWKJ"
+   ],
+   "cns": [
+    "新泰市佳禾生物科技有限公司"
+   ],
+   "ens": [
+    "新泰市佳禾生物科技有限公司"
+   ]
+  },
+  {
+   "code": "XYH",
+   "shorts": [
+    "XYH"
+   ],
+   "cns": [
+    "新咏航（上海）国际货运代理有限公司"
+   ],
+   "ens": [
+    "新咏航（上海）国际货运代理有限公司"
+   ]
+  },
+  {
+   "code": "XHCQ",
+   "shorts": [
+    "XHCQ"
+   ],
+   "cns": [
+    "兴化市长菁进出口贸易有限公司"
+   ],
+   "ens": [
+    "兴化市长菁进出口贸易有限公司"
+   ]
+  },
+  {
+   "code": "XCZX",
+   "shorts": [
+    "XCZX"
+   ],
+   "cns": [
+    "宣城振兴国际货运代理有限公司"
+   ],
+   "ens": [
+    "宣城振兴国际货运代理有限公司"
+   ]
+  },
+  {
+   "code": "YTHT",
+   "shorts": [
+    "YTHT"
+   ],
+   "cns": [
+    "烟台瀚通货运有限公司"
+   ],
+   "ens": [
+    "烟台瀚通货运有限公司"
+   ]
+  },
+  {
+   "code": "YCHG",
+   "shorts": [
+    "YCHG"
+   ],
+   "cns": [
+    "盐城市寰宇化工有限公司"
+   ],
+   "ens": [
+    "盐城市寰宇化工有限公司"
+   ]
+  },
+  {
+   "code": "YCLS",
+   "shorts": [
+    "YCLS"
+   ],
+   "cns": [
+    "盐城市龙升化工有限公司"
+   ],
+   "ens": [
+    "盐城市龙升化工有限公司"
+   ]
+  },
+  {
+   "code": "YML",
+   "shorts": [
+    "YML"
+   ],
+   "cns": [
+    "阳明海运股份有限公司"
+   ],
+   "ens": [
+    "阳明海运股份有限公司"
+   ]
+  },
+  {
+   "code": "YFSW",
+   "shorts": [
+    "YFSW"
+   ],
+   "cns": [
+    "一帆生物科技集团有限公司"
+   ],
+   "ens": [
+    "一帆生物科技集团有限公司"
+   ]
+  },
+  {
+   "code": "YLCN",
+   "shorts": [
+    "YLCN"
+   ],
+   "cns": [
+    "伊犁川宁生物技术有限公司"
+   ],
+   "ens": [
+    "伊犁川宁生物技术有限公司"
+   ]
+  },
+  {
+   "code": "YLSHGJWLYXGS",
+   "shorts": [
+    "YLSHGJWLYXGS"
+   ],
+   "cns": [
+    "怡乐（上海）国际物流有限公司"
+   ],
+   "ens": [
+    "怡乐（上海）国际物流有限公司"
+   ]
+  },
+  {
+   "code": "YXWL",
+   "shorts": [
+    "YXWL"
+   ],
+   "cns": [
+    "以星物流（中国）有限公司"
+   ],
+   "ens": [
+    "以星物流（中国）有限公司"
+   ]
+  },
+  {
+   "code": "ZIM",
+   "shorts": [
+    "ZIM1"
+   ],
+   "cns": [
+    "以星综合航运有限公司"
+   ],
+   "ens": [
+    "以星综合航运有限公司"
+   ]
+  },
+  {
+   "code": "YQYT",
+   "shorts": [
+    "YQYT"
+   ],
+   "cns": [
+    "义乌市义通欧物流有限公司"
+   ],
+   "ens": [
+    "义乌市义通欧物流有限公司"
+   ]
+  },
+  {
+   "code": "YMSWKJ",
+   "shorts": [
+    "YMSWKJ"
+   ],
+   "cns": [
+    "译鸣生物科技（上海）有限公司"
+   ],
+   "ens": [
+    "译鸣生物科技（上海）有限公司"
+   ]
+  },
+  {
+   "code": "YKLSWKJ",
+   "shorts": [
+    "YKLSWKJ"
+   ],
+   "cns": [
+    "奕柯莱生物科技（集团）股份有限公司"
+   ],
+   "ens": [
+    "奕柯莱生物科技（集团）股份有限公司"
+   ]
+  },
+  {
+   "code": "NYGJMYYXGS",
+   "shorts": [
+    "NYGJMYYXGS"
+   ],
+   "cns": [
+    "永农国际贸易有限公司"
+   ],
+   "ens": [
+    "永农国际贸易有限公司"
+   ]
+  },
+  {
+   "code": "YNSW",
+   "shorts": [
+    "YNSW"
+   ],
+   "cns": [
+    "永农生物科学有限公司"
+   ],
+   "ens": [
+    "永农生物科学有限公司"
+   ]
+  },
+  {
+   "code": "YTYHG",
+   "shorts": [
+    "YTYHG"
+   ],
+   "cns": [
+    "永泰运化工物流股份有限公司"
+   ],
+   "ens": [
+    "永泰运化工物流股份有限公司"
+   ]
+  },
+  {
+   "code": "YAB",
+   "shorts": [
+    "YAB"
+   ],
+   "cns": [
+    "优艾贝（中国）集团有限公司"
+   ],
+   "ens": [
+    "优艾贝（中国）集团有限公司"
+   ]
+  },
+  {
+   "code": "YXWD",
+   "shorts": [
+    "YXWD"
+   ],
+   "cns": [
+    "由西往东（上海）贸易有限公司"
+   ],
+   "ens": [
+    "由西往东（上海）贸易有限公司"
+   ]
+  },
+  {
+   "code": "YDSMY",
+   "shorts": [
+    "YDSMY"
+   ],
+   "cns": [
+    "友笛思(上海)贸易有限公司"
+   ],
+   "ens": [
+    "友笛思(上海)贸易有限公司"
+   ]
+  },
+  {
+   "code": "YW",
+   "shorts": [
+    "YW"
+   ],
+   "cns": [
+    "宇旺企业管理（上海）有限公司"
+   ],
+   "ens": [
+    "宇旺企业管理（上海）有限公司"
+   ]
+  },
+  {
+   "code": "ZJGWC",
+   "shorts": [
+    "ZJGWC"
+   ],
+   "cns": [
+    "张家港万创运输有限公司"
+   ],
+   "ens": [
+    "张家港万创运输有限公司"
+   ]
+  },
+  {
+   "code": "EMC",
+   "shorts": [
+    "EMC"
+   ],
+   "cns": [
+    "长荣海运股份有限公司"
+   ],
+   "ens": [
+    "EVERGREEN MARINE CORPORATION"
+   ]
+  },
+  {
+   "code": "CSJS",
+   "shorts": [
+    "CSJS"
+   ],
+   "cns": [
+    "长沙杰森节能材料有限公司"
+   ],
+   "ens": [
+    "长沙杰森节能材料有限公司"
+   ]
+  },
+  {
+   "code": "CSYX",
+   "shorts": [
+    "CSYX"
+   ],
+   "cns": [
+    "长沙市裕轩粮油食品机械有限公司"
+   ],
+   "ens": [
+    "长沙市裕轩粮油食品机械有限公司"
+   ]
+  },
+  {
+   "code": "CSYL",
+   "shorts": [
+    "CSYL"
+   ],
+   "cns": [
+    "长沙银亮机电进出口有限公司"
+   ],
+   "ens": [
+    "长沙银亮机电进出口有限公司"
+   ]
+  },
+  {
+   "code": "ZJASHXJCKYXGS",
+   "shorts": [
+    "ZJASHXJCKYXGS"
+   ],
+   "cns": [
+    "浙江埃森化学进出口有限公司"
+   ],
+   "ens": [
+    "ZHEJIANG AVILIVE CHEMICAL IMP. & EXP. CO., LTD."
+   ]
+  },
+  {
+   "code": "ZJAK",
+   "shorts": [
+    "ZJAK"
+   ],
+   "cns": [
+    "浙江艾科国际贸易有限公司"
+   ],
+   "ens": [
+    "浙江艾科国际贸易有限公司"
+   ]
+  },
+  {
+   "code": "ZJCMYYYXGS",
+   "shorts": [
+    "ZJCMYYYXGS"
+   ],
+   "cns": [
+    "浙江昌明药业有限公司"
+   ],
+   "ens": [
+    "浙江昌明药业有限公司"
+   ]
+  },
+  {
+   "code": "ZJCH",
+   "shorts": [
+    "ZJCH"
+   ],
+   "cns": [
+    "浙江传化华洋化工有限公司"
+   ],
+   "ens": [
+    "浙江传化华洋化工有限公司"
+   ]
+  },
+  {
+   "code": "ZJDPYY",
+   "shorts": [
+    "ZJDPYY"
+   ],
+   "cns": [
+    "浙江大鹏药业股份有限公司"
+   ],
+   "ens": [
+    "浙江大鹏药业股份有限公司"
+   ]
+  },
+  {
+   "code": "ZJFNSW",
+   "shorts": [
+    "ZJFNSW"
+   ],
+   "cns": [
+    "浙江富农生物科技有限公司"
+   ],
+   "ens": [
+    "浙江富农生物科技有限公司"
+   ]
+  },
+  {
+   "code": "ZJHYNB",
+   "shorts": [
+    "ZJHYNB"
+   ],
+   "cns": [
+    "浙江海运宁波国际物流有限公司"
+   ],
+   "ens": [
+    "浙江海运宁波国际物流有限公司"
+   ]
+  },
+  {
+   "code": "ZJHZ",
+   "shorts": [
+    "ZJHZ"
+   ],
+   "cns": [
+    "浙江海洲制药有限公司"
+   ],
+   "ens": [
+    "浙江海洲制药有限公司"
+   ]
+  },
+  {
+   "code": "ZJHB",
+   "shorts": [
+    "ZJHB"
+   ],
+   "cns": [
+    "浙江禾本科技股份有限公司"
+   ],
+   "ens": [
+    "浙江禾本科技股份有限公司"
+   ]
+  },
+  {
+   "code": "ZJHD",
+   "shorts": [
+    "ZJHD"
+   ],
+   "cns": [
+    "浙江横店进出口有限公司"
+   ],
+   "ens": [
+    "浙江横店进出口有限公司"
+   ]
+  },
+  {
+   "code": "ZJHDPL",
+   "shorts": [
+    "ZJHDPL"
+   ],
+   "cns": [
+    "浙江横店普洛进出口有限公司"
+   ],
+   "ens": [
+    "浙江横店普洛进出口有限公司"
+   ]
+  },
+  {
+   "code": "ZJHZYHMYYXGS",
+   "shorts": [
+    "ZJHZYHMYYXGS"
+   ],
+   "cns": [
+    "浙江湖州益禾贸易有限公司"
+   ],
+   "ens": [
+    "浙江湖州益禾贸易有限公司"
+   ]
+  },
+  {
+   "code": "ZJHKYY",
+   "shorts": [
+    "ZJHKYY"
+   ],
+   "cns": [
+    "浙江华康药业股份有限公司"
+   ],
+   "ens": [
+    "浙江华康药业股份有限公司"
+   ]
+  },
+  {
+   "code": "ZJJSZW",
+   "shorts": [
+    "ZJJSZW"
+   ],
+   "cns": [
+    "浙江吉顺植物科技有限公司"
+   ],
+   "ens": [
+    "浙江吉顺植物科技有限公司"
+   ]
+  },
+  {
+   "code": "ZJJFDSHGFYXGS",
+   "shorts": [
+    "ZJJFDSHGFYXGS"
+   ],
+   "cns": [
+    "浙江金帆达生化股份有限公司"
+   ],
+   "ens": [
+    "浙江金帆达生化股份有限公司"
+   ]
+  },
+  {
+   "code": "JSSW",
+   "shorts": [
+    "JSSW"
+   ],
+   "cns": [
+    "浙江锦上生物科技有限公司"
+   ],
+   "ens": [
+    "浙江锦上生物科技有限公司"
+   ]
+  },
+  {
+   "code": "ZJLS",
+   "shorts": [
+    "ZJLS"
+   ],
+   "cns": [
+    "浙江联盛化学股份有限公司"
+   ],
+   "ens": [
+    "浙江联盛化学股份有限公司"
+   ]
+  },
+  {
+   "code": "ZJMZDWBJPYXGS",
+   "shorts": [
+    "ZJMZDWBJPYXGS"
+   ],
+   "cns": [
+    "浙江明珠动物保健品有限公司"
+   ],
+   "ens": [
+    "浙江明珠动物保健品有限公司"
+   ]
+  },
+  {
+   "code": "ZJPLDB",
+   "shorts": [
+    "ZJPLDB"
+   ],
+   "cns": [
+    "浙江普洛得邦制药有限公司"
+   ],
+   "ens": [
+    "浙江普洛得邦制药有限公司"
+   ]
+  },
+  {
+   "code": "ZJPLJY",
+   "shorts": [
+    "ZJPLJY"
+   ],
+   "cns": [
+    "浙江普洛家园药业有限公司"
+   ],
+   "ens": [
+    "浙江普洛家园药业有限公司"
+   ]
+  },
+  {
+   "code": "ZJPLKY",
+   "shorts": [
+    "ZJPLKY"
+   ],
+   "cns": [
+    "浙江普洛康裕制药有限公司"
+   ],
+   "ens": [
+    "浙江普洛康裕制药有限公司"
+   ]
+  },
+  {
+   "code": "PLSWKJ",
+   "shorts": [
+    "PLSWKJ"
+   ],
+   "cns": [
+    "浙江普洛生物科技有限公司"
+   ],
+   "ens": [
+    "浙江普洛生物科技有限公司"
+   ]
+  },
+  {
+   "code": "ZJRM",
+   "shorts": [
+    "ZJRM"
+   ],
+   "cns": [
+    "浙江锐迈进出口有限公司"
+   ],
+   "ens": [
+    "浙江锐迈进出口有限公司"
+   ]
+  },
+  {
+   "code": "ZJSYFZJTYXGS",
+   "shorts": [
+    "ZJSYFZJTYXGS"
+   ],
+   "cns": [
+    "浙江三友发展集团有限公司"
+   ],
+   "ens": [
+    "浙江三友发展集团有限公司"
+   ]
+  },
+  {
+   "code": "ZJHG",
+   "shorts": [
+    "ZJHG"
+   ],
+   "cns": [
+    "浙江省化工产品质量检验站有限公司"
+   ],
+   "ens": [
+    "浙江省化工产品质量检验站有限公司"
+   ]
+  },
+  {
+   "code": "ZJSHGJCKYXGS",
+   "shorts": [
+    "ZJSHGJCKYXGS"
+   ],
+   "cns": [
+    "浙江省化工进出口有限公司"
+   ],
+   "ens": [
+    "ZHEJIANG CHEMICALS IMPORT AND EXPORT  CORPORATION"
+   ]
+  },
+  {
+   "code": "ZJYY",
+   "shorts": [
+    "ZJYY"
+   ],
+   "cns": [
+    "浙江省医药保健品进出口有限责任公司"
+   ],
+   "ens": [
+    "浙江省医药保健品进出口有限责任公司"
+   ]
+  },
+  {
+   "code": "ZJSA",
+   "shorts": [
+    "ZJSA"
+   ],
+   "cns": [
+    "浙江圣安化工股份有限公司"
+   ],
+   "ens": [
+    "浙江圣安化工股份有限公司"
+   ]
+  },
+  {
+   "code": "ZJSJKJGF",
+   "shorts": [
+    "ZJSJ"
+   ],
+   "cns": [
+    "浙江世佳科技股份有限公司"
+   ],
+   "ens": [
+    "浙江世佳科技股份有限公司"
+   ]
+  },
+  {
+   "code": "ZJXHSW",
+   "shorts": [
+    "ZJXHSW"
+   ],
+   "cns": [
+    "浙江欣禾生物股份有限公司"
+   ],
+   "ens": [
+    "浙江欣禾生物股份有限公司"
+   ]
+  },
+  {
+   "code": "ZJXABZ",
+   "shorts": [
+    "ZJXABZ"
+   ],
+   "cns": [
+    "浙江新安包装有限公司"
+   ],
+   "ens": [
+    "浙江新安包装有限公司"
+   ]
+  },
+  {
+   "code": "ZJXAHGJT",
+   "shorts": [
+    "ZJXAHGJT"
+   ],
+   "cns": [
+    "浙江新安化工集团股份有限公司"
+   ],
+   "ens": [
+    "浙江新安化工集团股份有限公司"
+   ]
+  },
+  {
+   "code": "ZJXAJCK",
+   "shorts": [
+    "ZJXAJCK"
+   ],
+   "cns": [
+    "浙江新安进出口有限公司"
+   ],
+   "ens": [
+    "浙江新安进出口有限公司"
+   ]
+  },
+  {
+   "code": "ZJXH",
+   "shorts": [
+    "ZJXH"
+   ],
+   "cns": [
+    "浙江新和成进出口有限公司"
+   ],
+   "ens": [
+    "浙江新和成进出口有限公司"
+   ]
+  },
+  {
+   "code": "ZJYYZD",
+   "shorts": [
+    "ZJYYZD"
+   ],
+   "cns": [
+    "浙江雅运震东新材料有限公司"
+   ],
+   "ens": [
+    "ZheJiang Yayun"
+   ]
+  },
+  {
+   "code": "ZJZS",
+   "shorts": [
+    "ZJZS"
+   ],
+   "cns": [
+    "浙江中山化工集团股份有限公司"
+   ],
+   "ens": [
+    "浙江中山化工集团股份有限公司"
+   ]
+  },
+  {
+   "code": "ZJZW",
+   "shorts": [
+    "ZJZW"
+   ],
+   "cns": [
+    "浙江中维药业股份有限公司"
+   ],
+   "ens": [
+    "浙江中维药业股份有限公司"
+   ]
+  },
+  {
+   "code": "ZJHJGJHYDLYXGS",
+   "shorts": [
+    "ZJHJGJHYDLYXGS"
+   ],
+   "cns": [
+    "镇江华杰国际货运代理有限公司"
+   ],
+   "ens": [
+    "镇江华杰国际货运代理有限公司"
+   ]
+  },
+  {
+   "code": "ZJJNHG",
+   "shorts": [
+    "ZJJNHG"
+   ],
+   "cns": [
+    "镇江江南化工有限公司"
+   ],
+   "ens": [
+    "镇江江南化工有限公司"
+   ]
+  },
+  {
+   "code": "ZJZY",
+   "shorts": [
+    "ZJZY"
+   ],
+   "cns": [
+    "镇江中远海运物流有限公司"
+   ],
+   "ens": [
+    "镇江中远海运物流有限公司"
+   ]
+  },
+  {
+   "code": "ZGDD",
+   "shorts": [
+    "ZGDD"
+   ],
+   "cns": [
+    "中国大地财产保险股份有限公司营业部"
+   ],
+   "ens": [
+    "中国大地财产保险股份有限公司营业部"
+   ]
+  },
+  {
+   "code": "ZGJY",
+   "shorts": [
+    "ZGJY"
+   ],
+   "cns": [
+    "中国检验认证集团上海有限公司"
+   ],
+   "ens": [
+    "中国检验认证集团上海有限公司"
+   ]
+  },
+  {
+   "code": "ZGJS",
+   "shorts": [
+    "ZGJS"
+   ],
+   "cns": [
+    "中国江苏国际经济技术合作集团有限公司"
+   ],
+   "ens": [
+    "中国江苏国际经济技术合作集团有限公司"
+   ]
+  },
+  {
+   "code": "ZGPA",
+   "shorts": [
+    "ZGPA"
+   ],
+   "cns": [
+    "中国平安财务保险股份有限公司上海分公司"
+   ],
+   "ens": [
+    "中国平安财务保险股份有限公司上海分公司"
+   ]
+  },
+  {
+   "code": "ZGTPY",
+   "shorts": [
+    "ZGTPY"
+   ],
+   "cns": [
+    "中国太平洋财产保险股份有限公司航运保险事"
+   ],
+   "ens": [
+    "中国太平洋财产保险股份有限公司航运保险事"
+   ]
+  },
+  {
+   "code": "ZGWLDLQD",
+   "shorts": [
+    "ZGWLDLQD"
+   ],
+   "cns": [
+    "中国外轮代理有限公司青岛分公司"
+   ],
+   "ens": [
+    "中国外轮代理有限公司青岛分公司"
+   ]
+  },
+  {
+   "code": "ZGYZDQZ",
+   "shorts": [
+    "ZGYZDQZ"
+   ],
+   "cns": [
+    "中国邮政集团迪庆州分公司"
+   ],
+   "ens": [
+    "中国邮政集团迪庆州分公司"
+   ]
+  },
+  {
+   "code": "ZJJT",
+   "shorts": [
+    "ZJJT"
+   ],
+   "cns": [
+    "中集集团财务有限公司"
+   ],
+   "ens": [
+    "中集集团财务有限公司"
+   ]
+  },
+  {
+   "code": "ZJKT",
+   "shorts": [
+    "ZJKT"
+   ],
+   "cns": [
+    "中集凯通物流发展有限公司"
+   ],
+   "ens": [
+    "中集凯通物流发展有限公司"
+   ]
+  },
+  {
+   "code": "ZNHT",
+   "shorts": [
+    "ZNHT"
+   ],
+   "cns": [
+    "中农红太阳（南京）生物科技有限公司"
+   ],
+   "ens": [
+    "中农红太阳（南京）生物科技有限公司"
+   ]
+  },
+  {
+   "code": "ZSSH",
+   "shorts": [
+    "ZSSH"
+   ],
+   "cns": [
+    "中色（上海）贸易有限公司"
+   ],
+   "ens": [
+    "中色（上海）贸易有限公司"
+   ]
+  },
+  {
+   "code": "ZYHY",
+   "shorts": [
+    "ZYHY"
+   ],
+   "cns": [
+    "中远海运化工物流有限公司"
+   ],
+   "ens": [
+    "中远海运化工物流有限公司"
+   ]
+  },
+  {
+   "code": "COSCO",
+   "shorts": [
+    "COSCO"
+   ],
+   "cns": [
+    "中远海运集装箱运输有限公司"
+   ],
+   "ens": [
+    "中远海运集装箱运输有限公司"
+   ]
+  },
+  {
+   "code": "ZYHYTZ",
+   "shorts": [
+    "ZYHYTZ"
+   ],
+   "cns": [
+    "中远海运特种运输股份有限公司"
+   ],
+   "ens": [
+    "中远海运特种运输股份有限公司"
+   ]
+  },
+  {
+   "code": "ZHHQJYHYHG",
+   "shorts": [
+    "ZHHQJYHYTHG"
+   ],
+   "cns": [
+    "珠海横琴玖易寰宇化工科技有限公司"
+   ],
+   "ens": [
+    "珠海横琴玖易寰宇化工科技有限公司"
+   ]
+  },
+  {
+   "code": "ZCSYSHYXGS",
+   "shorts": [
+    "ZCSYSHYXGS"
+   ],
+   "cns": [
+    "卓辰实业（上海）有限公司"
+   ],
+   "ens": [
+    "卓辰实业（上海）有限公司"
+   ]
+  },
+  {
+   "code": "ZBMT",
+   "shorts": [
+    "ZBMT"
+   ],
+   "cns": [
+    "淄博美田农药有限公司"
+   ],
+   "ens": [
+    "淄博美田农药有限公司"
+   ]
+  },
+  {
+   "code": "ZBNTGJMYYXGS",
+   "shorts": [
+    "ZBNTGJMYYXGS"
+   ],
+   "cns": [
+    "淄博尼特国际贸易有限公司"
+   ],
+   "ens": [
+    "淄博尼特国际贸易有限公司"
+   ]
+  },
+  {
+   "code": "ZLSH",
+   "shorts": [
+    "ZLSH"
+   ],
+   "cns": [
+    "纵琏（上海）网络科技有限公司"
+   ],
+   "ens": [
+    "纵琏（上海）网络科技有限公司"
+   ]
+  },
+  {
+   "code": "GZYSZRXCLGFYXGS",
+   "shorts": [
+    "GZYSZRXCKGFYXGS"
+   ],
+   "cns": [
+    "⼴州银塑阻燃新材料股份有限公司"
+   ],
+   "ens": [
+    "⼴州银塑阻燃新材料股份有限公司"
+   ]
+  },
+  {
+   "code": "ASL",
+   "shorts": [
+    "ASL"
+   ],
+   "cns": [
+    "ASEAN SEAS LINE CO.,LIMITED"
+   ],
+   "ens": [
+    "ASEAN SEAS LINE CO.,LIMITED"
+   ]
+  },
+  {
+   "code": "BELGOD",
+   "shorts": [
+    "BELGOD"
+   ],
+   "cns": [
+    "BELGOD MARINE SERVICES PRIVATE LIMITED"
+   ],
+   "ens": [
+    "BELGOD MARINE SERVICES PRIVATE LIMITED"
+   ]
+  },
+  {
+   "code": "EXECEL",
+   "shorts": [
+    "EXECEL"
+   ],
+   "cns": [
+    "EXECEL TRADING PTE. LTD"
+   ],
+   "ens": [
+    "EXECEL TRADING PTE. LTD"
+   ]
+  },
+  {
+   "code": "FESCO",
+   "shorts": [
+    "FESCO"
+   ],
+   "cns": [
+    "FESCO"
+   ],
+   "ens": [
+    "FESCO"
+   ]
+  },
+  {
+   "code": "FISHEL",
+   "shorts": [
+    "FISHEL"
+   ],
+   "cns": [
+    "FISHEL陈"
+   ],
+   "ens": [
+    "FISHEL陈"
+   ]
+  },
+  {
+   "code": "GIRAFFE",
+   "shorts": [
+    "GIRAFFE"
+   ],
+   "cns": [
+    "GIRAFFE DEVELOPMENT LIMITED"
+   ],
+   "ens": [
+    "GIRAFFE DEVELOPMENT LIMITED"
+   ]
+  },
+  {
+   "code": "JEREMY",
+   "shorts": [
+    "JEREMY"
+   ],
+   "cns": [
+    "JEREMY"
+   ],
+   "ens": [
+    "JEREMY"
+   ]
+  },
+  {
+   "code": "JESSICA",
+   "shorts": [
+    "JESSICA"
+   ],
+   "cns": [
+    "JESSICA"
+   ],
+   "ens": [
+    "JESSICA"
+   ]
+  },
+  {
+   "code": "PT BINTANG",
+   "shorts": [
+    "PT BINTANG"
+   ],
+   "cns": [
+    "PT BINTANG SAMUDRA INDONUSA"
+   ],
+   "ens": [
+    "PT BINTANG SAMUDRA INDONUSA"
+   ]
+  },
+  {
+   "code": "PT. HYPER",
+   "shorts": [
+    "PT. HYPER"
+   ],
+   "cns": [
+    "PT. HYPER MEGA SHIPPING"
+   ],
+   "ens": [
+    "PT. HYPER MEGA SHIPPING"
+   ]
+  },
+  {
+   "code": "SUNRISE",
+   "shorts": [
+    "SUNRISE"
+   ],
+   "cns": [
+    "SUNRISE CONTAINER SERVICE CO.,LTTD"
+   ],
+   "ens": [
+    "SUNRISE CONTAINER SERVICE CO.,LTD"
+   ]
+  },
+  {
+   "code": "TYS",
+   "shorts": [
+    "TYS"
+   ],
+   "cns": [
+    "TAIYOUNG SHIPPING CO., LTD."
+   ],
+   "ens": [
+    "TAIYOUNG SHIPPING CO., LTD."
+   ]
+  },
+  {
+   "code": "UC TANK",
+   "shorts": [
+    "UC TANK"
+   ],
+   "cns": [
+    "UC TANK INTERNATIONAL PTE.LTD."
+   ],
+   "ens": [
+    "UC TANK INTERNATIONAL PTE.LTD."
+   ]
+  },
+  {
+   "code": "U-CONTAINER",
+   "shorts": [
+    "U-CONTAINER"
+   ],
+   "cns": [
+    "U-CONTAINER INTERNATIONAL CHEMICAL LOGISTICS(SHANGHAI) CO.,LTD."
+   ],
+   "ens": [
+    "U-CONTAINER INTERNATIONAL CHEMICAL LOGISTICS(SHANGHAI) CO.,LTD."
+   ]
+  },
+  {
+   "code": "WBL",
+   "shorts": [
+    "WBL",
+    "王保乐"
+   ],
+   "cns": [
+    "WANGBAOLE",
+    "王保乐"
+   ],
+   "ens": [
+    "WANGBAOLE",
+    "王保乐"
+   ]
+  },
+  {
+   "code": "WIDE FULL",
+   "shorts": [
+    "FTCW"
+   ],
+   "cns": [
+    "WIDE FULL SHIPPING (HONGKONG) LIMITED"
+   ],
+   "ens": [
+    "福通船務(香港)有限公司"
+   ]
+  },
+  {
+   "code": "AHSZWNSWKJYXGS",
+   "shorts": [
+    "AHSZWNSWKJYXGS"
+   ],
+   "cns": [
+    "安徽尚正微囊生物科技有限公司"
+   ],
+   "ens": [
+    "安徽尚正微囊生物科技有限公司"
+   ]
+  },
+  {
+   "code": "AKWNJ",
+   "shorts": [
+    "AKWNJ"
+   ],
+   "cns": [
+    "安可唯（南京）国际供应链管理有限公司"
+   ],
+   "ens": [
+    "安可唯（南京）国际供应链管理有限公司"
+   ]
+  },
+  {
+   "code": "BENLINE",
+   "shorts": [
+    "BENLINE"
+   ],
+   "cns": [
+    "边行BEN LINE AGENCIES (CHINA) LIMITED"
+   ],
+   "ens": [
+    "边行BEN LINE AGENCIES (CHINA) LIMITED"
+   ]
+  },
+  {
+   "code": "BEN LINE",
+   "shorts": [
+    "BEN LINE"
+   ],
+   "cns": [
+    "边行中国有限公司"
+   ],
+   "ens": [
+    "BEN LINE AGENCIES (CHINA0 LIMITED"
+   ]
+  },
+  {
+   "code": "ZZGYL",
+   "shorts": [
+    "ZZGYL"
+   ],
+   "cns": [
+    "朝则供应链管理（上海）有限公司"
+   ],
+   "ens": [
+    "朝则供应链管理（上海）有限公司"
+   ]
+  },
+  {
+   "code": "CXGJWLDLYXGS",
+   "shorts": [
+    "CXGJWLDLYXGS"
+   ],
+   "cns": [
+    "橙新国际物流（大连）有限公司"
+   ],
+   "ens": [
+    "橙新国际物流（大连）有限公司"
+   ]
+  },
+  {
+   "code": "CFWLSZYXGS",
+   "shorts": [
+    "CFWLSZYXGS"
+   ],
+   "cns": [
+    "创峰物流（苏州）有限公司"
+   ],
+   "ens": [
+    "创峰物流（苏州）有限公司"
+   ]
+  },
+  {
+   "code": "DMSHQWLSHYXGS",
+   "shorts": [
+    "DMSHQWLSHYXGS"
+   ],
+   "cns": [
+    "丹马士环球物流（上海）有限公司"
+   ],
+   "ens": [
+    "丹马士环球物流（上海）有限公司"
+   ]
+  },
+  {
+   "code": "PAN OCEAN",
+   "shorts": [
+    "PAN"
+   ],
+   "cns": [
+    "泛洋有限公司"
+   ],
+   "ens": [
+    "PAN  OCEAN CO.LLTD."
+   ]
+  },
+  {
+   "code": "GZATGJHYDLYXGS",
+   "shorts": [
+    "GZATGJHYDLYXGS"
+   ],
+   "cns": [
+    "广州岸通国际货运代理有限公司"
+   ],
+   "ens": [
+    "广州岸通国际货运代理有限公司"
+   ]
+  },
+  {
+   "code": "GZYHTZYS",
+   "shorts": [
+    "GZYHTZYS"
+   ],
+   "cns": [
+    "广州远海特种运输有限公司"
+   ],
+   "ens": [
+    "广州远海特种运输有限公司"
+   ]
+  },
+  {
+   "code": "HZFRYYKJYXGS",
+   "shorts": [
+    "HZFRYYKJYXGS"
+   ],
+   "cns": [
+    "杭州辅润医药科技有限公司"
+   ],
+   "ens": [
+    "杭州辅润医药科技有限公司"
+   ]
+  },
+  {
+   "code": "HZJXGJHYDLYXGS",
+   "shorts": [
+    "HZJXGJHYDLYXGS"
+   ],
+   "cns": [
+    "杭州九星国际货运代理有限公司"
+   ],
+   "ens": [
+    "杭州九星国际货运代理有限公司"
+   ]
+  },
+  {
+   "code": "HZMMY",
+   "shorts": [
+    "HZMMY"
+   ],
+   "cns": [
+    "杭州钱塘新区咩咩羊电子产品经营部"
+   ],
+   "ens": [
+    "杭州钱塘新区咩咩羊电子产品经营部"
+   ]
+  },
+  {
+   "code": "HLGJHYDL",
+   "shorts": [
+    "HLGJHYDL"
+   ],
+   "cns": [
+    "鸿霖国际货运代理（上海）有限公司重庆分公司"
+   ],
+   "ens": [
+    "鸿霖国际货运代理（上海）有限公司重庆分公司"
+   ]
+  },
+  {
+   "code": "HBYMT",
+   "shorts": [
+    "HBYMT"
+   ],
+   "cns": [
+    "湖北宜贸通企业管理服务有限公司"
+   ],
+   "ens": [
+    "湖北宜贸通企业管理服务有限公司"
+   ]
+  },
+  {
+   "code": "HBZWY",
+   "shorts": [
+    "HBZWY"
+   ],
+   "cns": [
+    "湖北中外运集装箱运输有限公司荆州分公司"
+   ],
+   "ens": [
+    "湖北中外运集装箱运输有限公司荆州分公司"
+   ]
+  },
+  {
+   "code": "KYGJWLSHYXGS",
+   "shorts": [
+    "KYGJWLSHYXGS"
+   ],
+   "cns": [
+    "开亚国际物流（上海）有限公司"
+   ],
+   "ens": [
+    "开亚国际物流（上海）有限公司"
+   ]
+  },
+  {
+   "code": "KDGYL",
+   "shorts": [
+    "KDGYL"
+   ],
+   "cns": [
+    "康道供应链管理（上海）有限公司"
+   ],
+   "ens": [
+    "康道供应链管理（上海）有限公司"
+   ]
+  },
+  {
+   "code": "LWL",
+   "shorts": [
+    "LWL"
+   ],
+   "cns": [
+    "雷炜亮"
+   ],
+   "ens": [
+    "雷炜亮"
+   ]
+  },
+  {
+   "code": "LUXIN",
+   "shorts": [
+    "LUXIN"
+   ],
+   "cns": [
+    "陆欣"
+   ],
+   "ens": [
+    "陆欣"
+   ]
+  },
+  {
+   "code": "MTZS",
+   "shorts": [
+    "MTZS"
+   ],
+   "cns": [
+    "妙天智圣（上海）文化传播有限公司"
+   ],
+   "ens": [
+    "妙天智圣（上海）文化传播有限公司"
+   ]
+  },
+  {
+   "code": "NTKX",
+   "shorts": [
+    "NTKX"
+   ],
+   "cns": [
+    "南通凯信医药化工有限公司"
+   ],
+   "ens": [
+    "南通凯信医药化工有限公司"
+   ]
+  },
+  {
+   "code": "NSS",
+   "shorts": [
+    "NSS"
+   ],
+   "cns": [
+    "南星海运"
+   ],
+   "ens": [
+    "南星海运"
+   ]
+  },
+  {
+   "code": "NBHRGYLGLYXGS",
+   "shorts": [
+    "NGHRGYLGLYXGS"
+   ],
+   "cns": [
+    "宁波豪睿供应链管理有限公司"
+   ],
+   "ens": [
+    "宁波豪睿供应链管理有限公司"
+   ]
+  },
+  {
+   "code": "NBJSGJWLYXGS",
+   "shorts": [
+    "NBJSGJWLYXGS"
+   ],
+   "cns": [
+    "宁波嘉胜国际物流有限公司"
+   ],
+   "ens": [
+    "宁波嘉胜国际物流有限公司"
+   ]
+  },
+  {
+   "code": "NBYSGJWLYXGS",
+   "shorts": [
+    "NBYSGJWLYXGS"
+   ],
+   "cns": [
+    "宁波赢仕国际物流有限公司"
+   ],
+   "ens": [
+    "宁波赢仕国际物流有限公司"
+   ]
+  },
+  {
+   "code": "NXWXYSWKJ",
+   "shorts": [
+    "NXWXYSWKJ"
+   ],
+   "cns": [
+    "宁夏万香源生物科技有限公司"
+   ],
+   "ens": [
+    "宁夏万香源生物科技有限公司"
+   ]
+  },
+  {
+   "code": "PERMA",
+   "shorts": [
+    "PERMA"
+   ],
+   "cns": [
+    "帕尔马船公司"
+   ],
+   "ens": [
+    "PERMA"
+   ]
+  },
+  {
+   "code": "QYGJHYDLYXGS",
+   "shorts": [
+    "QYGJHYDLYXGS"
+   ],
+   "cns": [
+    "乔达国际货运（中国）有限公司"
+   ],
+   "ens": [
+    "乔达国际货运（中国）有限公司"
+   ]
+  },
+  {
+   "code": "QDHGRJGJGYLGLYXGS",
+   "shorts": [
+    "QDHGRJGJGYLGLYXG"
+   ],
+   "cns": [
+    "青岛海港润杰国际供应链管理有限公司"
+   ],
+   "ens": [
+    "青岛海港润杰国际供应链管理有限公司"
+   ]
+  },
+  {
+   "code": "QDHHYTWLYXGS",
+   "shorts": [
+    "QDHHYTWLYXGS"
+   ],
+   "cns": [
+    "青岛海航运通物流有限公司"
+   ],
+   "ens": [
+    "青岛海航运通物流有限公司"
+   ]
+  },
+  {
+   "code": "QDJH",
+   "shorts": [
+    "QDJH"
+   ],
+   "cns": [
+    "青岛经汉物流服务有限公司"
+   ],
+   "ens": [
+    "青岛经汉物流服务有限公司"
+   ]
+  },
+  {
+   "code": "QDKLSWGJWLYXGS",
+   "shorts": [
+    "QDKLSWGJWLYXGS"
+   ],
+   "cns": [
+    "青岛科罗思沃国际物流有限公司"
+   ],
+   "ens": [
+    "Crossover Logistics(Qingdao) Co.,Ltd"
+   ]
+  },
+  {
+   "code": "QDLCY",
+   "shorts": [
+    "QDLCY"
+   ],
+   "cns": [
+    "青岛联畅源国际货运代理有限公司"
+   ],
+   "ens": [
+    "青岛联畅源国际货运代理有限公司"
+   ]
+  },
+  {
+   "code": "QDSLGJHYYXGS",
+   "shorts": [
+    "QDSLGJHYYXGS"
+   ],
+   "cns": [
+    "青岛三龙国际货运有限公司"
+   ],
+   "ens": [
+    "青岛三龙国际货运有限公司"
+   ]
+  },
+  {
+   "code": "QDSW",
+   "shorts": [
+    "QDSW"
+   ],
+   "cns": [
+    "青岛盛文国际供应链管理有限公司"
+   ],
+   "ens": [
+    "青岛盛文国际供应链管理有限公司"
+   ]
+  },
+  {
+   "code": "QHWLZXYXGS",
+   "shorts": [
+    "QHWLZXYXGS"
+   ],
+   "cns": [
+    "全华物流中心有限公司"
+   ],
+   "ens": [
+    "全华物流中心有限公司"
+   ]
+  },
+  {
+   "code": "SAMUDERA",
+   "shorts": [
+    "SAMUDERA"
+   ],
+   "cns": [
+    "萨姆达拉船"
+   ],
+   "ens": [
+    "Samudera Shipping Line Ltd"
+   ]
+  },
+  {
+   "code": "XMHYGJHYDLYXGSFZFGS",
+   "shorts": [
+    "XMHYGJHYDLYCGSFJ"
+   ],
+   "cns": [
+    "厦门汇英国际货运代理有限公司福州分公司"
+   ],
+   "ens": [
+    "厦门汇英国际货运代理有限公司福州分公司"
+   ]
+  },
+  {
+   "code": "SDFCHGYXGS",
+   "shorts": [
+    "SDFCHGYXGS"
+   ],
+   "cns": [
+    "山东丰仓化工有限公司"
+   ],
+   "ens": [
+    "山东丰仓化工有限公司"
+   ]
+  },
+  {
+   "code": "SHAJSYYXGS",
+   "shorts": [
+    "SHAJSYYXGS"
+   ],
+   "cns": [
+    "上海奥吉实业有限公司"
+   ],
+   "ens": [
+    "上海奥吉实业有限公司"
+   ]
+  },
+  {
+   "code": "SHAWGJWLYXGS",
+   "shorts": [
+    "SHAWGJWLYXGS"
+   ],
+   "cns": [
+    "上海澳唯国际物流有限公司"
+   ],
+   "ens": [
+    "上海澳唯国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHBWJEGJWLYXGS",
+   "shorts": [
+    "SHBWJYGJWLYXGS"
+   ],
+   "cns": [
+    "上海博威捷韵国际物流有限公司"
+   ],
+   "ens": [
+    "上海博威捷韵国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHBYGJWL",
+   "shorts": [
+    "SHBYGJWL"
+   ],
+   "cns": [
+    "上海博怡国际物流有限公司"
+   ],
+   "ens": [
+    "上海博怡国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHCHGJWLYXGS",
+   "shorts": [
+    "SHCHGJWLYXGS"
+   ],
+   "cns": [
+    "上海辰海国际物流有限公司"
+   ],
+   "ens": [
+    "上海辰海国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHCY",
+   "shorts": [
+    "SHCY"
+   ],
+   "cns": [
+    "上海翅远物流有限公司"
+   ],
+   "ens": [
+    "上海翅远物流有限公司"
+   ]
+  },
+  {
+   "code": "SHCXHYDLYXGS",
+   "shorts": [
+    "SHCXHYDLYXGS"
+   ],
+   "cns": [
+    "上海聪轩货运代理有限公司"
+   ],
+   "ens": [
+    "上海聪轩货运代理有限公司"
+   ]
+  },
+  {
+   "code": "SHDNGJWLYXGS",
+   "shorts": [
+    "SHDNGJWLYXGS"
+   ],
+   "cns": [
+    "上海丹纳国际物流有限公司"
+   ],
+   "ens": [
+    "上海丹纳国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHFHGJWLYXGS",
+   "shorts": [
+    "SHFHGJWLYXGS"
+   ],
+   "cns": [
+    "上海丰航国际物流有限公司"
+   ],
+   "ens": [
+    "SHANGHAI FENGHANG INTERNATIONAL LOGISTICS CO.,LTD"
+   ]
+  },
+  {
+   "code": "SHFMTGJCWDLYXGS",
+   "shorts": [
+    "SHFMTGJCWDLYXGS"
+   ],
+   "cns": [
+    "上海峰密特国际船务代理有限公司"
+   ],
+   "ens": [
+    "上海峰密特国际船务代理有限公司"
+   ]
+  },
+  {
+   "code": "SHFXGYLGLYXGS",
+   "shorts": [
+    "SHFXGYLGLYXGS"
+   ],
+   "cns": [
+    "上海奉宣供应链管理有限公司"
+   ],
+   "ens": [
+    "上海奉宣供应链管理有限公司"
+   ]
+  },
+  {
+   "code": "SHGMSYYXGS",
+   "shorts": [
+    "SHGMSYYXGS"
+   ],
+   "cns": [
+    "上海港茂实业有限公司"
+   ],
+   "ens": [
+    "上海港茂实业有限公司"
+   ]
+  },
+  {
+   "code": "SHGL",
+   "shorts": [
+    "SHGL"
+   ],
+   "cns": [
+    "上海光鹿货运代理有限公司"
+   ],
+   "ens": [
+    "上海光鹿货运代理有限公司"
+   ]
+  },
+  {
+   "code": "SHHGGYPJCZX",
+   "shorts": [
+    "SHHGGYPJCZX"
+   ],
+   "cns": [
+    "上海海关工业品与原材料检测技术中心"
+   ],
+   "ens": [
+    "上海海关工业品与原材料检测技术中心"
+   ]
+  },
+  {
+   "code": "SHHHCWYXGS",
+   "shorts": [
+    "SHHHCWYXGS"
+   ],
+   "cns": [
+    "上海瀚航船务有限公司"
+   ],
+   "ens": [
+    "上海瀚航船务有限公司"
+   ]
+  },
+  {
+   "code": "SHHWGJHYDLYXGS",
+   "shorts": [
+    "SHHWGJHYDLYXGS"
+   ],
+   "cns": [
+    "上海瀚万国际货运代理有限公司"
+   ],
+   "ens": [
+    "上海瀚万国际货运代理有限公司"
+   ]
+  },
+  {
+   "code": "HYZY",
+   "shorts": [
+    "HYZY"
+   ],
+   "cns": [
+    "上海航远智运货运代理有限公司"
+   ],
+   "ens": [
+    "上海航远智运货运代理有限公司"
+   ]
+  },
+  {
+   "code": "SHHXGJHWYSDLYXGS",
+   "shorts": [
+    "SHHXGJHWYSDLYXGS"
+   ],
+   "cns": [
+    "上海浩翔国际货物运输代理有限公司"
+   ],
+   "ens": [
+    "上海浩翔国际货物运输代理有限公司"
+   ]
+  },
+  {
+   "code": "SHHLGJWL",
+   "shorts": [
+    "SHHLGJWL"
+   ],
+   "cns": [
+    "上海恒链国际物流有限公司"
+   ],
+   "ens": [
+    "上海恒链国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHHTWL",
+   "shorts": [
+    "SHHTWL"
+   ],
+   "cns": [
+    "上海泓涂物流有限公司"
+   ],
+   "ens": [
+    "上海泓涂物流有限公司"
+   ]
+  },
+  {
+   "code": "SHHGGYCBDLYXGS",
+   "shorts": [
+    "SHHGGJCBDYXGS"
+   ],
+   "cns": [
+    "上海华港国际船舶代理有限公司"
+   ],
+   "ens": [
+    "上海华港国际船舶代理有限公司"
+   ]
+  },
+  {
+   "code": "SHHYS",
+   "shorts": [
+    "SHHYS"
+   ],
+   "cns": [
+    "上海华禹盛国际物流有限公司"
+   ],
+   "ens": [
+    "上海华禹盛国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHHZSPGJWLYXGS",
+   "shorts": [
+    "SHHZSPGJWLYXGS"
+   ],
+   "cns": [
+    "上海华展申鹏国际物流有限公司"
+   ],
+   "ens": [
+    "上海华展申鹏国际物流有限公司"
+   ]
+  },
+  {
+   "code": "HH",
+   "shorts": [
+    "HH",
+    "海华"
+   ],
+   "cns": [
+    "上海汇恒国际物流有限公司",
+    "海华集团有限公司"
+   ],
+   "ens": [
+    "上海汇恒国际物流有限公司",
+    "海华集团有限公司"
+   ]
+  },
+  {
+   "code": "SHHYWLYXGS",
+   "shorts": [
+    "SHHYWLYXGS"
+   ],
+   "cns": [
+    "上海汇扬物流有限公司"
+   ],
+   "ens": [
+    "上海汇扬物流有限公司"
+   ]
+  },
+  {
+   "code": "SHJMGJWLYXGS",
+   "shorts": [
+    "SHJMGJWLYXGS"
+   ],
+   "cns": [
+    "上海吉鸣国际物流有限公司"
+   ],
+   "ens": [
+    "上海吉鸣国际物流有限公司"
+   ]
+  },
+  {
+   "code": "JJHY",
+   "shorts": [
+    "JJHY"
+   ],
+   "cns": [
+    "上海锦江航运集团（股份）有限公司"
+   ],
+   "ens": [
+    "SHANGHAI JINJIANG SHIPPING (GROUP) CO.,LTD."
+   ]
+  },
+  {
+   "code": "SHJYYSYXGS",
+   "shorts": [
+    "SHJYYSYXGS"
+   ],
+   "cns": [
+    "上海景源运输有限公司"
+   ],
+   "ens": [
+    "Shanghai Jingyuan Transportation Co., Ltd"
+   ]
+  },
+  {
+   "code": "SHJYCYGLYXGS",
+   "shorts": [
+    "SHJYCYGLYXGS"
+   ],
+   "cns": [
+    "上海爵夜餐饮管理有限公司"
+   ],
+   "ens": [
+    "上海爵夜餐饮管理有限公司"
+   ]
+  },
+  {
+   "code": "SHJL",
+   "shorts": [
+    "SHJL"
+   ],
+   "cns": [
+    "上海君澜国际货运代理有限公司"
+   ],
+   "ens": [
+    "上海君澜国际货运代理有限公司"
+   ]
+  },
+  {
+   "code": "SHKPTGJHYDLYXGS",
+   "shorts": [
+    "SHKPTGJHYDLYXGS"
+   ],
+   "cns": [
+    "上海凯普腾国际货运代理有限公司"
+   ],
+   "ens": [
+    "上海凯普腾国际货运代理有限公司"
+   ]
+  },
+  {
+   "code": "SHKKGJWLYXGS",
+   "shorts": [
+    "SHKKGJWLYXGS"
+   ],
+   "cns": [
+    "上海康克国际物流有限公司"
+   ],
+   "ens": [
+    "上海康克国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHKYWLYXGS",
+   "shorts": [
+    "上海克运集运"
+   ],
+   "cns": [
+    "上海克运集运供应链管理有限公司"
+   ],
+   "ens": [
+    "上海克运集运供应链管理有限公司"
+   ]
+  },
+  {
+   "code": "SHLTGJ",
+   "shorts": [
+    "SHLTGJ"
+   ],
+   "cns": [
+    "上海利塔国际货物运输代理有限公司"
+   ],
+   "ens": [
+    "上海利塔国际货物运输代理有限公司"
+   ]
+  },
+  {
+   "code": "SHLZJWLYXGS",
+   "shorts": [
+    "SHLZJWLYXGS"
+   ],
+   "cns": [
+    "上海梁志军物流有限公司"
+   ],
+   "ens": [
+    "上海梁志军物流有限公司"
+   ]
+  },
+  {
+   "code": "SHMC",
+   "shorts": [
+    "SHMC"
+   ],
+   "cns": [
+    "上海美畅国际物流有限公司"
+   ],
+   "ens": [
+    "上海美畅国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHNWCGJWLYXGS",
+   "shorts": [
+    "SHNWCGJWLYXGS"
+   ],
+   "cns": [
+    "上海诺威驰国际物流有限公司"
+   ],
+   "ens": [
+    "上海诺威驰国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHPLGJJZXHYYXGS",
+   "shorts": [
+    "SHPLGJJZXHYYXGS"
+   ],
+   "cns": [
+    "上海沛龙国际集装箱货运有限公司"
+   ],
+   "ens": [
+    "上海沛龙国际集装箱货运有限公司"
+   ]
+  },
+  {
+   "code": "SHQTGJHWYSDLYXGS",
+   "shorts": [
+    "SHQTGJHWYSDLYXGS"
+   ],
+   "cns": [
+    "上海齐通国际货物运输代理有限公司青岛分公司"
+   ],
+   "ens": [
+    "上海齐通国际货物运输代理有限公司青岛分公司"
+   ]
+  },
+  {
+   "code": "SHQSGYLGLYXGS",
+   "shorts": [
+    "SHQSGYLGLYXGS"
+   ],
+   "cns": [
+    "上海祁圣供应链管理有限公司"
+   ],
+   "ens": [
+    "上海祁圣供应链管理有限公司"
+   ]
+  },
+  {
+   "code": "QY",
+   "shorts": [
+    "QY"
+   ],
+   "cns": [
+    "上海千亚国际货物运输代理有限公司"
+   ],
+   "ens": [
+    "上海千亚国际货物运输代理有限公司"
+   ]
+  },
+  {
+   "code": "SHRZGYLGLYXGS",
+   "shorts": [
+    "SHRZGYLGLYXGS"
+   ],
+   "cns": [
+    "上海仁众供应链管理有限公司"
+   ],
+   "ens": [
+    "上海仁众供应链管理有限公司"
+   ]
+  },
+  {
+   "code": "SHYRDGJWLYXGS",
+   "shorts": [
+    "SHYRDGJWLYXGS"
+   ],
+   "cns": [
+    "上海融亿达国际物流有限公司"
+   ],
+   "ens": [
+    "上海融亿达国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHRKGJHYDLYXGS",
+   "shorts": [
+    "SHRKGJHYDLYXGS"
+   ],
+   "cns": [
+    "上海瑞珂国际货运代理有限公司"
+   ],
+   "ens": [
+    "SHANGHAI REXY INTERNATIONAL LOGISTICS CO., LTD"
+   ]
+  },
+  {
+   "code": "SHSRS",
+   "shorts": [
+    "SHSRS"
+   ],
+   "cns": [
+    "上海赛瑞丝国际物流有限公司"
+   ],
+   "ens": [
+    "上海赛瑞丝国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHSSGJWLYXGS",
+   "shorts": [
+    "SHSSGJWLYXGS"
+   ],
+   "cns": [
+    "上海生生国际物流有限公司"
+   ],
+   "ens": [
+    "上海生生国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHSX",
+   "shorts": [
+    "SHSX"
+   ],
+   "cns": [
+    "上海盛迅国际货物运输代理有限公司"
+   ],
+   "ens": [
+    "上海盛迅国际货物运输代理有限公司"
+   ]
+  },
+  {
+   "code": "SHSXGJHWYSDLYXGS",
+   "shorts": [
+    "SHSXGJHWYSDLYXGS"
+   ],
+   "cns": [
+    "上海双鑫国际货物运输代理有限公司"
+   ],
+   "ens": [
+    "上海双鑫国际货物运输代理有限公司"
+   ]
+  },
+  {
+   "code": "SHSQGJHWYSDLYXGS",
+   "shorts": [
+    "SHSQGJHWYSDLYXGS"
+   ],
+   "cns": [
+    "上海思其国际货物运输代理有限公司"
+   ],
+   "ens": [
+    "上海思其国际货物运输代理有限公司"
+   ]
+  },
+  {
+   "code": "SHTH",
+   "shorts": [
+    "SHTH",
+    "上海泰禾"
+   ],
+   "cns": [
+    "上海太和国际货物运输代理有限公司",
+    "上海泰禾国际贸易有限公司"
+   ],
+   "ens": [
+    "上海太和国际货物运输代理有限公司",
+    "上海泰禾国际贸易有限公司"
+   ]
+  },
+  {
+   "code": "SHTJWLYXGS",
+   "shorts": [
+    "SHTJWLYXGS"
+   ],
+   "cns": [
+    "上海泰俱物流有限公司"
+   ],
+   "ens": [
+    "上海泰俱物流有限公司"
+   ]
+  },
+  {
+   "code": "SHTMWLYXGS",
+   "shorts": [
+    "SHTMWLYXGS"
+   ],
+   "cns": [
+    "上海泰旻物流有限公司"
+   ],
+   "ens": [
+    "上海泰旻物流有限公司"
+   ]
+  },
+  {
+   "code": "SHTYWLYXGS",
+   "shorts": [
+    "SHTYWLYXGS"
+   ],
+   "cns": [
+    "上海统运物流有限公司"
+   ],
+   "ens": [
+    "上海统运物流有限公司"
+   ]
+  },
+  {
+   "code": "SHWLLH",
+   "shorts": [
+    "SHWLLH"
+   ],
+   "cns": [
+    "上海外轮理货有限公司"
+   ],
+   "ens": [
+    "上海外轮理货有限公司"
+   ]
+  },
+  {
+   "code": "SHWTBGYXGS",
+   "shorts": [
+    "SHWTBGYXGS"
+   ],
+   "cns": [
+    "上海万通报关有限公司"
+   ],
+   "ens": [
+    "上海万通报关有限公司"
+   ]
+  },
+  {
+   "code": "SHWGGJWLYXGS",
+   "shorts": [
+    "SHWGGJWLYXGS"
+   ],
+   "cns": [
+    "上海威罐国际物流有限公司"
+   ],
+   "ens": [
+    "SHANGHAI V-TANK INTERNATIONAL LOGISTICS CO.,LTD"
+   ]
+  },
+  {
+   "code": "SHXQ",
+   "shorts": [
+    "SHXQ"
+   ],
+   "cns": [
+    "上海晓祈国际货物运输代理有限公司"
+   ],
+   "ens": [
+    "上海晓祈国际货物运输代理有限公司"
+   ]
+  },
+  {
+   "code": "SHXDWGJWLYXGS",
+   "shorts": [
+    "SHXDWGJWLYXGS"
+   ],
+   "cns": [
+    "上海心丹唯国际物流有限公司"
+   ],
+   "ens": [
+    "上海心丹唯国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHXSYGYLGLYX",
+   "shorts": [
+    "SHXSYGYLGLYX"
+   ],
+   "cns": [
+    "上海欣晟源供应链管理有限公司"
+   ],
+   "ens": [
+    "SHANGHAI OCEAN-TOP SUPPLY CHAIN MANAGEMENT CO.,LTD."
+   ]
+  },
+  {
+   "code": "SHXSYGYLGLYXGS",
+   "shorts": [
+    "SHXSYGYLGLYXGS"
+   ],
+   "cns": [
+    "上海鑫杉禹供应链管理有限公司"
+   ],
+   "ens": [
+    "上海鑫杉禹供应链管理有限公司"
+   ]
+  },
+  {
+   "code": "SHXYGJWLYXGS",
+   "shorts": [
+    "SHXYGJWLYXGS"
+   ],
+   "cns": [
+    "上海鑫宜国际物流有限公司"
+   ],
+   "ens": [
+    "上海鑫宜国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHYXGJHWYSDLYXGS",
+   "shorts": [
+    "SHYXGJHWYSYXGS"
+   ],
+   "cns": [
+    "上海言熙国际货物运输代理有限公司"
+   ],
+   "ens": [
+    "上海言熙国际货物运输代理有限公司"
+   ]
+  },
+  {
+   "code": "SHYSX",
+   "shorts": [
+    "SHYSX"
+   ],
+   "cns": [
+    "上海怡世翔国际货物运输代理有限公司"
+   ],
+   "ens": [
+    "上海怡世翔国际货物运输代理有限公司"
+   ]
+  },
+  {
+   "code": "SHTYQZJXYXGS",
+   "shorts": [
+    "SHTYQZJXYXGS"
+   ],
+   "cns": [
+    "上海轶鹰起重机械有限公司"
+   ],
+   "ens": [
+    "上海轶鹰起重机械有限公司"
+   ]
+  },
+  {
+   "code": "SHYYGJWLYXSGS",
+   "shorts": [
+    "SHYYGJWLYXGS"
+   ],
+   "cns": [
+    "上海圆亚国际物流有限公司"
+   ],
+   "ens": [
+    "上海圆亚国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHRYWLYXGS",
+   "shorts": [
+    "SHRYWKTYXGS"
+   ],
+   "cns": [
+    "上海远任物流有限公司"
+   ],
+   "ens": [
+    "上海远任物流有限公司"
+   ]
+  },
+  {
+   "code": "YX",
+   "shorts": [
+    "YX"
+   ],
+   "cns": [
+    "上海越翔国际货物运输代理有限公司"
+   ],
+   "ens": [
+    "上海越翔国际货物运输代理有限公司"
+   ]
+  },
+  {
+   "code": "SHYK",
+   "shorts": [
+    "SHYK"
+   ],
+   "cns": [
+    "上海运凯国际物流有限公司"
+   ],
+   "ens": [
+    "上海运凯国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHZSGJ",
+   "shorts": [
+    "上海政硕"
+   ],
+   "cns": [
+    "上海政硕国际物流有限公司"
+   ],
+   "ens": [
+    "上海政硕国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SSGYL",
+   "shorts": [
+    "SSGYL"
+   ],
+   "cns": [
+    "上盛（上海）供应链管理有限公司"
+   ],
+   "ens": [
+    "上盛（上海）供应链管理有限公司"
+   ]
+  },
+  {
+   "code": "SZSXXSWLYXGS",
+   "shorts": [
+    "SZSXXSWLYUXGS"
+   ],
+   "cns": [
+    "深圳市鑫欣顺物流有限公司"
+   ],
+   "ens": [
+    "深圳市鑫欣顺物流有限公司"
+   ]
+  },
+  {
+   "code": "SZSYZGJ",
+   "shorts": [
+    "SZSYZGJ"
+   ],
+   "cns": [
+    "深圳市宇舟国际货运代理有限公司"
+   ],
+   "ens": [
+    "深圳市宇舟国际货运代理有限公司"
+   ]
+  },
+  {
+   "code": "SXGJHYDLSHYXGS",
+   "shorts": [
+    "SXGJHYDLSHYXGS"
+   ],
+   "cns": [
+    "时迅国际货运代理(上海)有限公司"
+   ],
+   "ens": [
+    "时迅国际货运代理(上海)有限公司"
+   ]
+  },
+  {
+   "code": "SKGJHYDLSHYXGS",
+   "shorts": [
+    "SKGJHYDLSHYXGS"
+   ],
+   "cns": [
+    "顺科国际货运代理（上海）有限公司"
+   ],
+   "ens": [
+    "顺科国际货运代理（上海）有限公司"
+   ]
+  },
+  {
+   "code": "SZBLDJGJHYDLYXGS",
+   "shorts": [
+    "SZBLDJGJHYDLYXGS"
+   ],
+   "cns": [
+    "苏州佰利迪捷国际货运代理有限公司"
+   ],
+   "ens": [
+    "苏州佰利迪捷国际货运代理有限公司"
+   ]
+  },
+  {
+   "code": "SZSSDMZPBZYXGS",
+   "shorts": [
+    "SZSSDMZPBZYXGS"
+   ],
+   "cns": [
+    "苏州顺士德木制品包装有限公司"
+   ],
+   "ens": [
+    "苏州顺士德木制品包装有限公司"
+   ]
+  },
+  {
+   "code": "TPWL",
+   "shorts": [
+    "TPWL"
+   ],
+   "cns": [
+    "太平物流（中国）有限公司"
+   ],
+   "ens": [
+    "PIL LOGISTICS (CHINA) CO LTD"
+   ]
+  },
+  {
+   "code": "TJSLXGYLFWYXGS",
+   "shorts": [
+    "TJSLXGYLFWYXGS"
+   ],
+   "cns": [
+    "天津市珞鑫供应链服务有限公司"
+   ],
+   "ens": [
+    "SENADOR FREIGHT & LOGISTICS (TIANJIN)CO.,LTD"
+   ]
+  },
+  {
+   "code": "CK",
+   "shorts": [
+    "CK"
+   ],
+   "cns": [
+    "天敬海运CK"
+   ],
+   "ens": [
+    "天敬海运CK"
+   ]
+  },
+  {
+   "code": "VASI",
+   "shorts": [
+    "VASI"
+   ],
+   "cns": [
+    "维萨航运"
+   ],
+   "ens": [
+    "VASI SHIPPING PTE LTD"
+   ]
+  },
+  {
+   "code": "WHYTDGJHYDLYXGS",
+   "shorts": [
+    "WHYTDGJHYDLYXGS"
+   ],
+   "cns": [
+    "武汉运通达国际货运代理有限公司"
+   ],
+   "ens": [
+    "武汉运通达国际货运代理有限公司"
+   ]
+  },
+  {
+   "code": "XWZ",
+   "shorts": [
+    "XWZ"
+   ],
+   "cns": [
+    "心无诤（上海）文化传媒有限公司"
+   ],
+   "ens": [
+    "心无诤（上海）文化传媒有限公司"
+   ]
+  },
+  {
+   "code": "XZTGJHY",
+   "shorts": [
+    "XZTGJHY"
+   ],
+   "cns": [
+    "新 中 通 国 际 海 运 有 限 公 司"
+   ],
+   "ens": [
+    "NEW CENTRANS INTERNATIONAL MARINE SHIPPING CO., LIMITED"
+   ]
+  },
+  {
+   "code": "XYJY",
+   "shorts": [
+    "XYJY"
+   ],
+   "cns": [
+    "鑫亚集运(深圳)国际物流有限公司"
+   ],
+   "ens": [
+    "Sunya(shenzhen)Global Logistics Co.,Ltd."
+   ]
+  },
+  {
+   "code": "HEUNG",
+   "shorts": [
+    "HEUNG"
+   ],
+   "cns": [
+    "兴亚船务（中国）有限公司"
+   ],
+   "ens": [
+    "HEUNG A LINE CO.,LTD."
+   ]
+  },
+  {
+   "code": "YCSHTYSYXGS",
+   "shorts": [
+    "YCSHTYSYXGS"
+   ],
+   "cns": [
+    "宜昌市宏泰运输有限公司"
+   ],
+   "ens": [
+    "宜昌市宏泰运输有限公司"
+   ]
+  },
+  {
+   "code": "YYZNKJ",
+   "shorts": [
+    "YYZNKJ"
+   ],
+   "cns": [
+    "云运智能科技（上海）有限公司"
+   ],
+   "ens": [
+    "Yun Yun Intelligent Sci-Tech (Shanghai) Co., Ltd."
+   ]
+  },
+  {
+   "code": "IAL",
+   "shorts": [
+    "IAL"
+   ],
+   "cns": [
+    "运达国际船舶代理有限公司"
+   ],
+   "ens": [
+    "INTERASIA LINE LTD"
+   ]
+  },
+  {
+   "code": "YQNSMGJWLSZYXGS",
+   "shorts": [
+    "YQNSMGJWLSZYXGS"
+   ],
+   "cns": [
+    "运去哪三麦国际物流（深圳）有限公司"
+   ],
+   "ens": [
+    "运去哪三麦国际物流（深圳）有限公司"
+   ]
+  },
+  {
+   "code": "SINOKOR",
+   "shorts": [
+    "SINOKOR"
+   ],
+   "cns": [
+    "长锦商船"
+   ],
+   "ens": [
+    "长锦商船"
+   ]
+  },
+  {
+   "code": "ZJXAWL",
+   "shorts": [
+    "ZJXAWL"
+   ],
+   "cns": [
+    "浙江新安物流有限公司"
+   ],
+   "ens": [
+    "浙江新安物流有限公司"
+   ]
+  },
+  {
+   "code": "CNC",
+   "shorts": [
+    "CNC"
+   ],
+   "cns": [
+    "正利航业有限公司"
+   ],
+   "ens": [
+    "CMA CGM ASIA SHIPPING PTE.LTD."
+   ]
+  },
+  {
+   "code": "ZGJYRZJTTJYXGS",
+   "shorts": [
+    "ZGJYRZJTTJYXGS"
+   ],
+   "cns": [
+    "中国检验认证集团天津有限公司"
+   ],
+   "ens": [
+    "中国检验认证集团天津有限公司"
+   ]
+  },
+  {
+   "code": "SHWLDL",
+   "shorts": [
+    "SHWLDL"
+   ],
+   "cns": [
+    "中国上海外轮代理有限公司"
+   ],
+   "ens": [
+    "中国上海外轮代理有限公司"
+   ]
+  },
+  {
+   "code": "SINOTRANS",
+   "shorts": [
+    "SINOTRANS"
+   ],
+   "cns": [
+    "中国外运股份有限公司"
+   ],
+   "ens": [
+    "SINOTRANS LIMITED"
+   ]
+  },
+  {
+   "code": "ZB",
+   "shorts": [
+    "ZB"
+   ],
+   "cns": [
+    "周彬"
+   ],
+   "ens": [
+    "周彬"
+   ]
+  },
+  {
+   "code": "Carol Mang",
+   "shorts": [
+    "Carol Mang"
+   ],
+   "cns": [
+    "Carol Mang"
+   ],
+   "ens": [
+    "Carol Mang"
+   ]
+  },
+  {
+   "code": "Christian Buck",
+   "shorts": [
+    "Christian Buck"
+   ],
+   "cns": [
+    "Christian Buck"
+   ],
+   "ens": [
+    "Christian Buck"
+   ]
+  },
+  {
+   "code": "DANIELJI",
+   "shorts": [
+    "DANIELJI"
+   ],
+   "cns": [
+    "DANIELJI"
+   ],
+   "ens": [
+    "DANIELJI"
+   ]
+  },
+  {
+   "code": "HEIKIKI",
+   "shorts": [
+    "HEIKIKI"
+   ],
+   "cns": [
+    "HEIKIKI"
+   ],
+   "ens": [
+    "HEIKIKI"
+   ]
+  },
+  {
+   "code": "HEIKKI CHEN",
+   "shorts": [
+    "HEIKKI CHEN"
+   ],
+   "cns": [
+    "HEIKKI CHEN"
+   ],
+   "ens": [
+    "HEIKKI CHEN"
+   ]
+  },
+  {
+   "code": "JINJING",
+   "shorts": [
+    "JINJING"
+   ],
+   "cns": [
+    "JINJING"
+   ],
+   "ens": [
+    "JINJING"
+   ]
+  },
+  {
+   "code": "KIMI",
+   "shorts": [
+    "KIMI"
+   ],
+   "cns": [
+    "KIMI"
+   ],
+   "ens": [
+    "KIMI"
+   ]
+  },
+  {
+   "code": "LEO LU",
+   "shorts": [
+    "LEO LU"
+   ],
+   "cns": [
+    "LEO LU"
+   ],
+   "ens": [
+    "LEO LU"
+   ]
+  },
+  {
+   "code": "Patricia Hines",
+   "shorts": [
+    "Patricia Hines"
+   ],
+   "cns": [
+    "Patricia Hines"
+   ],
+   "ens": [
+    "Patricia Hines"
+   ]
+  },
+  {
+   "code": "QHS",
+   "shorts": [
+    "QHS"
+   ],
+   "cns": [
+    "QUHENGSEN"
+   ],
+   "ens": [
+    "QUHENGSEN"
+   ]
+  },
+  {
+   "code": "SALLY",
+   "shorts": [
+    "SALLY"
+   ],
+   "cns": [
+    "SALLY"
+   ],
+   "ens": [
+    "SALLY"
+   ]
+  },
+  {
+   "code": "Shirly Wei",
+   "shorts": [
+    "Shirly Wei"
+   ],
+   "cns": [
+    "Shirly Wei"
+   ],
+   "ens": [
+    "Shirly Wei"
+   ]
+  },
+  {
+   "code": "WXY",
+   "shorts": [
+    "WXY"
+   ],
+   "cns": [
+    "WANGXINYA"
+   ],
+   "ens": [
+    "王馨雅"
+   ]
+  },
+  {
+   "code": "Warren Chien",
+   "shorts": [
+    "Warren Chien"
+   ],
+   "cns": [
+    "Warren Chien"
+   ],
+   "ens": [
+    "Warren Chien"
+   ]
+  },
+  {
+   "code": "Warren Qi",
+   "shorts": [
+    "Warren Qi"
+   ],
+   "cns": [
+    "Warren Qi"
+   ],
+   "ens": [
+    "Warren Qi"
+   ]
+  },
+  {
+   "code": "WENGKAIPENG",
+   "shorts": [
+    "WENGKAIPENG"
+   ],
+   "cns": [
+    "WENGKAIPENG"
+   ],
+   "ens": [
+    "WENGKAIPENG"
+   ]
+  },
+  {
+   "code": "WZJ",
+   "shorts": [
+    "WZJ"
+   ],
+   "cns": [
+    "WENGZHIJING"
+   ],
+   "ens": [
+    "WENGZHIJING"
+   ]
+  },
+  {
+   "code": "winston wang",
+   "shorts": [
+    "winston wang"
+   ],
+   "cns": [
+    "winston wang"
+   ],
+   "ens": [
+    "winston wang"
+   ]
+  },
+  {
+   "code": "XYX",
+   "shorts": [
+    "XYX"
+   ],
+   "cns": [
+    "XYX"
+   ],
+   "ens": [
+    "XYX"
+   ]
+  },
+  {
+   "code": "ZYB",
+   "shorts": [
+    "ZYB"
+   ],
+   "cns": [
+    "ZHAOYONGBO"
+   ],
+   "ens": [
+    "ZHAOYONGBO"
+   ]
+  },
+  {
+   "code": "ZCD",
+   "shorts": [
+    "ZCD"
+   ],
+   "cns": [
+    "ZHONGCHUANDAN"
+   ],
+   "ens": [
+    "ZHONGCHUANDAN"
+   ]
+  },
+  {
+   "code": "ZYS",
+   "shorts": [
+    "ZYS"
+   ],
+   "cns": [
+    "ZHOUYANSONG"
+   ],
+   "ens": [
+    "ZHOUYANSONG"
+   ]
+  },
+  {
+   "code": "ZZY",
+   "shorts": [
+    "ZZY"
+   ],
+   "cns": [
+    "ZHOUZHIYOU"
+   ],
+   "ens": [
+    "ZHOUZHIYOU"
+   ]
+  },
+  {
+   "code": "CYHR",
+   "shorts": [
+    "CYHR"
+   ],
+   "cns": [
+    "北京仓源华瑞寄卖行有限公司"
+   ],
+   "ens": [
+    "北京仓源华瑞寄卖行有限公司"
+   ]
+  },
+  {
+   "code": "CFY",
+   "shorts": [
+    "CFY"
+   ],
+   "cns": [
+    "陈方圆"
+   ],
+   "ens": [
+    "陈方圆"
+   ]
+  },
+  {
+   "code": "CLD",
+   "shorts": [
+    "CHENLIDA"
+   ],
+   "cns": [
+    "陈立达"
+   ],
+   "ens": [
+    "陈立达"
+   ]
+  },
+  {
+   "code": "HHSM",
+   "shorts": [
+    "HHSM"
+   ],
+   "cns": [
+    "杭州市钱塘区浩浩数码商行"
+   ],
+   "ens": [
+    "杭州市钱塘区浩浩数码商行"
+   ]
+  },
+  {
+   "code": "JSGTHTSYYXGS",
+   "shorts": [
+    "JSGTHTSYYXGS"
+   ],
+   "cns": [
+    "江苏国泰华泰实业有限公司"
+   ],
+   "ens": [
+    "江苏国泰华泰实业有限公司"
+   ]
+  },
+  {
+   "code": "KSSDL",
+   "shorts": [
+    "KSSDL"
+   ],
+   "cns": [
+    "昆山森德立装饰材料有限公司"
+   ],
+   "ens": [
+    "昆山森德立装饰材料有限公司"
+   ]
+  },
+  {
+   "code": "LZDLHGYXGS",
+   "shorts": [
+    "LZDLHGYXGS"
+   ],
+   "cns": [
+    "莱州迪龙化工有限公司"
+   ],
+   "ens": [
+    "莱州迪龙化工有限公司"
+   ]
+  },
+  {
+   "code": "LMD",
+   "shorts": [
+    "LMD"
+   ],
+   "cns": [
+    "刘梦蝶"
+   ],
+   "ens": [
+    "刘梦蝶"
+   ]
+  },
+  {
+   "code": "LIUYAN",
+   "shorts": [
+    "LY"
+   ],
+   "cns": [
+    "刘琰"
+   ],
+   "ens": [
+    "刘琰"
+   ]
+  },
+  {
+   "code": "QC",
+   "shorts": [
+    "QC"
+   ],
+   "cns": [
+    "钱岑"
+   ],
+   "ens": [
+    "钱岑"
+   ]
+  },
+  {
+   "code": "SHC",
+   "shorts": [
+    "SHC"
+   ],
+   "cns": [
+    "散货船"
+   ],
+   "ens": [
+    "散货船"
+   ]
+  },
+  {
+   "code": "SDKJHXKJYXGS",
+   "shorts": [
+    "SDKJHXKJYXGS"
+   ],
+   "cns": [
+    "山东开济化学科技有限公司"
+   ],
+   "ens": [
+    "山东开济化学科技有限公司"
+   ]
+  },
+  {
+   "code": "SHDKGJMYYXGS",
+   "shorts": [
+    "SHDKGJMYYXGS"
+   ],
+   "cns": [
+    "上海都客国际贸易有限公司"
+   ],
+   "ens": [
+    "上海都客国际贸易有限公司"
+   ]
+  },
+  {
+   "code": "SHJXYMY",
+   "shorts": [
+    "SHJXYMY"
+   ],
+   "cns": [
+    "上海爵小夜贸易有限公司"
+   ],
+   "ens": [
+    "上海爵小夜贸易有限公司"
+   ]
+  },
+  {
+   "code": "SHLDLS",
+   "shorts": [
+    "SHLDLS"
+   ],
+   "cns": [
+    "上海兰迪律师事务所"
+   ],
+   "ens": [
+    "上海兰迪律师事务所"
+   ]
+  },
+  {
+   "code": "SHWLGJWLYXGS",
+   "shorts": [
+    "SHWLGJWLYXGS"
+   ],
+   "cns": [
+    "上海旺禄国际物流有限公司"
+   ],
+   "ens": [
+    "上海旺禄国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHYHGK",
+   "shorts": [
+    "SHYHGK"
+   ],
+   "cns": [
+    "上海翔恒广告有限公司"
+   ],
+   "ens": [
+    "上海翔恒广告有限公司"
+   ]
+  },
+  {
+   "code": "SHXHYWHCBYXGS",
+   "shorts": [
+    "SHXHYWHCBYXGS"
+   ],
+   "cns": [
+    "上海馨亨韵文化传播有限公司"
+   ],
+   "ens": [
+    "上海馨亨韵文化传播有限公司"
+   ]
+  },
+  {
+   "code": "SHCYWYGLYXGS",
+   "shorts": [
+    "SHCYWYGLYXGS"
+   ],
+   "cns": [
+    "上海长宜物业管理有限公司启东分公司"
+   ],
+   "ens": [
+    "上海长宜物业管理有限公司启东分公司"
+   ]
+  },
+  {
+   "code": "SZZL",
+   "shorts": [
+    "SZZL"
+   ],
+   "cns": [
+    "深圳中联国际船务代理有限公司"
+   ],
+   "ens": [
+    "深圳中联国际船务代理有限公司"
+   ]
+  },
+  {
+   "code": "SZD",
+   "shorts": [
+    "SZD"
+   ],
+   "cns": [
+    "孙仲达"
+   ],
+   "ens": [
+    "孙仲达"
+   ]
+  },
+  {
+   "code": "TPLSSPSHYXGS",
+   "shorts": [
+    "TPLSSPSHYXGS"
+   ],
+   "cns": [
+    "天普乐食食品（上海）有限公司"
+   ],
+   "ens": [
+    "天普乐食食品（上海）有限公司"
+   ]
+  },
+  {
+   "code": "YANGQIN",
+   "shorts": [
+    "YQ"
+   ],
+   "cns": [
+    "杨琴"
+   ],
+   "ens": [
+    "杨琴"
+   ]
+  },
+  {
+   "code": "YJGLBHXPDJZX",
+   "shorts": [
+    "YJGLBHXPDJZX"
+   ],
+   "cns": [
+    "应急管理部化学品登记中心"
+   ],
+   "ens": [
+    "应急管理部化学品登记中心"
+   ]
+  },
+  {
+   "code": "YBSBGYS",
+   "shorts": [
+    "YBSBGYS"
+   ],
+   "cns": [
+    "优比速包裹运送（广东）有限公司上海分公司"
+   ],
+   "ens": [
+    "优比速包裹运送（广东）有限公司上海分公司"
+   ]
+  },
+  {
+   "code": "YUANGUOHANG",
+   "shorts": [
+    "YGH"
+   ],
+   "cns": [
+    "袁国行"
+   ],
+   "ens": [
+    "袁国行"
+   ]
+  },
+  {
+   "code": "JHSWKJGF",
+   "shorts": [
+    "金河生物"
+   ],
+   "cns": [
+    "金河生物科技股份有限公司"
+   ],
+   "ens": [
+    "金河生物"
+   ]
+  },
+  {
+   "code": "HuiYi",
+   "shorts": [
+    "上海汇贻"
+   ],
+   "cns": [
+    "上海汇贻国际货运有限公司"
+   ],
+   "ens": [
+    "上海汇贻"
+   ]
+  },
+  {
+   "code": "SDHTRSSW",
+   "shorts": [
+    "SDHTRS"
+   ],
+   "cns": [
+    "山东鸿泰润盛生物科技有限公司"
+   ],
+   "ens": [
+    "山东鸿泰润盛"
+   ]
+  },
+  {
+   "code": "SZYYTD",
+   "shorts": [
+    "深圳市越洋通达"
+   ],
+   "cns": [
+    "深圳市越洋通达货运代理有限公司"
+   ],
+   "ens": [
+    "深圳市越洋通达"
+   ]
+  },
+  {
+   "code": "ZJSY",
+   "shorts": [
+    "浙江舜跃"
+   ],
+   "cns": [
+    "浙江舜跃生物科技有限公司"
+   ],
+   "ens": [
+    "浙江舜跃"
+   ]
+  },
+  {
+   "code": "HZKH",
+   "shorts": [
+    "杭州科汇"
+   ],
+   "cns": [
+    "杭州科汇生物医药有限公司"
+   ],
+   "ens": [
+    "杭州科汇"
+   ]
+  },
+  {
+   "code": "HZHSSW",
+   "shorts": [
+    "杭州慧生"
+   ],
+   "cns": [
+    "杭州慧生生物医药科技有限公司"
+   ],
+   "ens": [
+    "杭州慧生"
+   ]
+  },
+  {
+   "code": "MTS",
+   "shorts": [
+    "MTS"
+   ],
+   "cns": [
+    "MTS（迈瑞特斯海运公司）"
+   ],
+   "ens": [
+    "MTS"
+   ]
+  },
+  {
+   "code": "KHZD",
+   "shorts": [
+    "客户指定"
+   ],
+   "cns": [
+    "客户指定"
+   ],
+   "ens": [
+    "客户指定"
+   ]
+  },
+  {
+   "code": "TBD",
+   "shorts": [
+    "TBD"
+   ],
+   "cns": [
+    "TBD(FOB - 船公司待定)"
+   ],
+   "ens": [
+    "TBD"
+   ]
+  },
+  {
+   "code": "Grimaldi",
+   "shorts": [
+    "格里马尔迪"
+   ],
+   "cns": [
+    "格里马尔迪"
+   ],
+   "ens": [
+    "Grimaldi"
+   ]
+  },
+  {
+   "code": "BZCZ",
+   "shorts": [
+    "诚众"
+   ],
+   "cns": [
+    "滨州市诚众生物科技有限公司"
+   ],
+   "ens": [
+    "诚众"
+   ]
+  },
+  {
+   "code": "SGLH",
+   "shorts": [
+    "上港联合"
+   ],
+   "cns": [
+    "上港联合"
+   ],
+   "ens": [
+    "上港联合"
+   ]
+  },
+  {
+   "code": "TMSHGYLG",
+   "shorts": [
+    "拓芈"
+   ],
+   "cns": [
+    "拓芈(上海)供应链管理有限公司"
+   ],
+   "ens": [
+    "TMT (Shanghai) Supply Chain Management Co.,Ltd"
+   ]
+  },
+  {
+   "code": "NBXJ",
+   "shorts": [
+    "宁波新景"
+   ],
+   "cns": [
+    "宁波新景国际物流有限公司"
+   ],
+   "ens": [
+    "宁波新景"
+   ]
+  },
+  {
+   "code": "ZGWL",
+   "shorts": [
+    "中谷物流"
+   ],
+   "cns": [
+    "中谷物流"
+   ],
+   "ens": [
+    "Zhonggu Logistics"
+   ]
+  },
+  {
+   "code": "HDCW",
+   "shorts": [
+    "合德船务"
+   ],
+   "cns": [
+    "合德(香港)国际航运有限公司"
+   ],
+   "ens": [
+    "HEDE (HONGKONG) INTERNATIONAL SHIPPING LIMITED"
+   ]
+  },
+  {
+   "code": "SHJS",
+   "shorts": [
+    "上海加思"
+   ],
+   "cns": [
+    "上海加思国际货运代理有限公司"
+   ],
+   "ens": [
+    "SHANGHAI GATH LOGISTICS CO.,LTD"
+   ]
+  },
+  {
+   "code": "ZJZWY",
+   "shorts": [
+    "浙江中外运"
+   ],
+   "cns": [
+    "浙江中外运有限公司杭州物流分公司"
+   ],
+   "ens": [
+    "ZheJiang Sino-trans"
+   ]
+  },
+  {
+   "code": "ZSGJ",
+   "shorts": [
+    "臻世国际"
+   ],
+   "cns": [
+    "臻世国际物流(深圳)有限公司上海分公司"
+   ],
+   "ens": [
+    "ZENITH LOGISTICS CO.,LTD SHANGHAI BRANCH"
+   ]
+  },
+  {
+   "code": "XZD",
+   "shorts": [
+    "先正达集团"
+   ],
+   "cns": [
+    "先正达集团"
+   ],
+   "ens": [
+    "先正达集团"
+   ]
+  },
+  {
+   "code": "HZQTJYLT",
+   "shorts": [
+    "吉羊灵豚"
+   ],
+   "cns": [
+    "杭州市钱塘区吉羊灵豚电子商行"
+   ],
+   "ens": [
+    "吉羊灵豚"
+   ]
+  },
+  {
+   "code": "DTHY",
+   "shorts": [
+    "达通航运"
+   ],
+   "cns": [
+    "达通航运"
+   ],
+   "ens": [
+    "EAS"
+   ]
+  },
+  {
+   "code": "DD",
+   "shorts": [
+    "待定(TBD)"
+   ],
+   "cns": [
+    "待定(TBD)"
+   ],
+   "ens": [
+    "待定(TBD)"
+   ]
+  },
+  {
+   "code": "AGRO-LEA",
+   "shorts": [
+    "AGRO-LEAD"
+   ],
+   "cns": [
+    "AGRO-LEAD CO., LIMITED"
+   ],
+   "ens": [
+    "AGRO-LEAD CO., LIMITED"
+   ]
+  },
+  {
+   "code": "Rex",
+   "shorts": [
+    "Rex"
+   ],
+   "cns": [
+    "Rex"
+   ],
+   "ens": [
+    "Rex"
+   ]
+  },
+  {
+   "code": "SHJSE",
+   "shorts": [
+    "上海杰士尔"
+   ],
+   "cns": [
+    "上海杰士尔国际物流有限公司"
+   ],
+   "ens": [
+    "上海杰士尔国际物流有限公司"
+   ]
+  },
+  {
+   "code": "AGENCIA MARITIMA INTERNACIONAL",
+   "shorts": [
+    "AGENCIA MARITIMA"
+   ],
+   "cns": [
+    "AGENCIA MARITIMA INTERNACIONAL S.A."
+   ],
+   "ens": [
+    "AGENCIA MARITIMA INTERNACIONAL S.A."
+   ]
+  },
+  {
+   "code": "BJZYSJGLZXYXGS",
+   "shorts": [
+    "北京中易世纪管理咨询有限公司"
+   ],
+   "cns": [
+    "北京中易世纪管理咨询有限公司"
+   ],
+   "ens": [
+    "北京中易世纪管理咨询有限公司"
+   ]
+  },
+  {
+   "code": "CHEMICAL ATOZ ENTRPRISES ADD G",
+   "shorts": [
+    "CHEMICAL ATOZ EN"
+   ],
+   "cns": [
+    "CHEMICAL ATOZ ENTRPRISES ADD G F LOOR C-27 SANWAL NAGAR,FIRST"
+   ],
+   "ens": [
+    "CHEMICAL ATOZ ENTRPRISES ADD G F LOOR C-27 SANWAL NAGAR,FIRST"
+   ]
+  },
+  {
+   "code": "CHIAO FENG SHIPPING LTD.",
+   "shorts": [
+    "CHIAO FENG SHIPP"
+   ],
+   "cns": [
+    "CHIAO FENG SHIPPING LTD."
+   ],
+   "ens": [
+    "CHIAO FENG SHIPPING LTD."
+   ]
+  },
+  {
+   "code": "CSYZSJZXYSYXGS",
+   "shorts": [
+    "常熟鸭嘴兽集装箱运输有限公司"
+   ],
+   "cns": [
+    "常熟鸭嘴兽集装箱运输有限公司"
+   ],
+   "ens": [
+    "常熟鸭嘴兽集装箱运输有限公司"
+   ]
+  },
+  {
+   "code": "DQMTJDGLYXGS",
+   "shorts": [
+    "德清缦田酒店管理有限公司"
+   ],
+   "cns": [
+    "德清缦田酒店管理有限公司"
+   ],
+   "ens": [
+    "德清缦田酒店管理有限公司"
+   ]
+  },
+  {
+   "code": "FLORENS ASSET MANAGEMENT COMPA",
+   "shorts": [
+    "FLORENS ASSET MA"
+   ],
+   "cns": [
+    "FLORENS ASSET MANAGEMENT COMPANY LIMITED"
+   ],
+   "ens": [
+    "FLORENS ASSET MANAGEMENT COMPANY LIMITED"
+   ]
+  },
+  {
+   "code": "FLWLKJSHYXGS",
+   "shorts": [
+    "福励物流科技"
+   ],
+   "cns": [
+    "福励物流科技（上海）有限公司"
+   ],
+   "ens": [
+    "福励物流科技（上海）有限公司"
+   ]
+  },
+  {
+   "code": "GHT（SH）GYLKJYXGS",
+   "shorts": [
+    "港汇通（上海）供应链科技有限公司",
+    "港荟通（上海）供应链科技有限公司"
+   ],
+   "cns": [
+    "港汇通（上海）供应链科技有限公司",
+    "港荟通（上海）供应链科技有限公司"
+   ],
+   "ens": [
+    "港汇通（上海）供应链科技有限公司",
+    "港荟通（上海）供应链科技有限公司"
+   ]
+  },
+  {
+   "code": "HFGJHYDL（SH）YXGS",
+   "shorts": [
+    "宏富国际货运代理（上海）有限公司"
+   ],
+   "cns": [
+    "宏富国际货运代理（上海）有限公司"
+   ],
+   "ens": [
+    "宏富国际货运代理（上海）有限公司"
+   ]
+  },
+  {
+   "code": "HFYXHYYXGS",
+   "shorts": [
+    "合肥远鑫货运有限公司"
+   ],
+   "cns": [
+    "合肥远鑫货运有限公司"
+   ],
+   "ens": [
+    "合肥远鑫货运有限公司"
+   ]
+  },
+  {
+   "code": "HGT（SH）GYLKJYXGS",
+   "shorts": [
+    "汇港通（上海）供应链科技有限公司"
+   ],
+   "cns": [
+    "汇港通（上海）供应链科技有限公司"
+   ],
+   "ens": [
+    "汇港通（上海）供应链科技有限公司"
+   ]
+  },
+  {
+   "code": "HNHHNDGJDFCSYXGS",
+   "shorts": [
+    "海南环海南岛国际大帆船赛有限公司"
+   ],
+   "cns": [
+    "海南环海南岛国际大帆船赛有限公司"
+   ],
+   "ens": [
+    "海南环海南岛国际大帆船赛有限公司"
+   ]
+  },
+  {
+   "code": "HYWLCW（ZG）YXGS",
+   "shorts": [
+    "海洋网联船务（中国）有限公司"
+   ],
+   "cns": [
+    "海洋网联船务（中国）有限公司"
+   ],
+   "ens": [
+    "海洋网联船务（中国）有限公司"
+   ]
+  },
+  {
+   "code": "HZGMBZZPYXGS",
+   "shorts": [
+    "杭州国贸包装制品有限公司"
+   ],
+   "cns": [
+    "杭州国贸包装制品有限公司"
+   ],
+   "ens": [
+    "杭州国贸包装制品有限公司"
+   ]
+  },
+  {
+   "code": "HZSQTQHYHHYFWB",
+   "shorts": [
+    "杭州市钱塘区合友惠货运服务部"
+   ],
+   "cns": [
+    "杭州市钱塘区合友惠货运服务部"
+   ],
+   "ens": [
+    "杭州市钱塘区合友惠货运服务部"
+   ]
+  },
+  {
+   "code": "HZSQTQQHHYFWB",
+   "shorts": [
+    "杭州市钱塘区全衡货运服务部"
+   ],
+   "cns": [
+    "杭州市钱塘区全衡货运服务部"
+   ],
+   "ens": [
+    "杭州市钱塘区全衡货运服务部"
+   ]
+  },
+  {
+   "code": "JJGJHYDL（SH）YXGS",
+   "shorts": [
+    "嘉瑾国际货运代理（上海）有限公司"
+   ],
+   "cns": [
+    "嘉瑾国际货运代理（上海）有限公司"
+   ],
+   "ens": [
+    "嘉瑾国际货运代理（上海）有限公司"
+   ]
+  },
+  {
+   "code": "JMGJWL（SH）YXGS",
+   "shorts": [
+    "锦茂国际物流（上海）有限公司"
+   ],
+   "cns": [
+    "锦茂国际物流（上海）有限公司"
+   ],
+   "ens": [
+    "锦茂国际物流（上海）有限公司"
+   ]
+  },
+  {
+   "code": "JQFYFW（SH）YXGS",
+   "shorts": [
+    "嘉泉翻译服务（上海）有限公司"
+   ],
+   "cns": [
+    "嘉泉翻译服务（上海）有限公司"
+   ],
+   "ens": [
+    "嘉泉翻译服务（上海）有限公司"
+   ]
+  },
+  {
+   "code": "KZGJLXS（SH）YXGSNJDLDYFGS",
+   "shorts": [
+    "酷怡国际旅行社（上海）有限公司南"
+   ],
+   "cns": [
+    "酷怡国际旅行社（上海）有限公司南京东路第一分公司"
+   ],
+   "ens": [
+    "酷怡国际旅行社（上海）有限公司南京东路第一分公司"
+   ]
+  },
+  {
+   "code": "LTWLYXGSSHFGS",
+   "shorts": [
+    "利通物流有限公司上海分公司"
+   ],
+   "cns": [
+    "利通物流有限公司上海分公司"
+   ],
+   "ens": [
+    "利通物流有限公司上海分公司"
+   ]
+  },
+  {
+   "code": "LYGSLDGJHWYSDLYXGS",
+   "shorts": [
+    "连云港市力达国际货物运输代理有限"
+   ],
+   "cns": [
+    "连云港市力达国际货物运输代理有限公司"
+   ],
+   "ens": [
+    "连云港市力达国际货物运输代理有限公司"
+   ]
+  },
+  {
+   "code": "MEGA INNOVATIVE CROPS PVT LTD",
+   "shorts": [
+    "MEGA INNOVATIVE"
+   ],
+   "cns": [
+    "MEGA INNOVATIVE CROPS PVT LTD"
+   ],
+   "ens": [
+    "MEGA INNOVATIVE CROPS PVT LTD"
+   ]
+  },
+  {
+   "code": "NBQFHYDLYXGS",
+   "shorts": [
+    "宁波侨丰货运代理有限公司"
+   ],
+   "cns": [
+    "宁波侨丰货运代理有限公司"
+   ],
+   "ens": [
+    "宁波侨丰货运代理有限公司"
+   ]
+  },
+  {
+   "code": "PKP",
+   "shorts": [
+    "彭可平"
+   ],
+   "cns": [
+    "彭可平"
+   ],
+   "ens": [
+    "彭可平"
+   ]
+  },
+  {
+   "code": "QCS",
+   "shorts": [
+    "期初数"
+   ],
+   "cns": [
+    "期初数"
+   ],
+   "ens": [
+    "期初数"
+   ]
+  },
+  {
+   "code": "QDBDTYGYLGLYXGS",
+   "shorts": [
+    "青岛邦达天原供应链管理有限公司"
+   ],
+   "cns": [
+    "青岛邦达天原供应链管理有限公司"
+   ],
+   "ens": [
+    "青岛邦达天原供应链管理有限公司"
+   ]
+  },
+  {
+   "code": "QHGJWL（SH）YXGS",
+   "shorts": [
+    "全和国际物流（上海）有限公司"
+   ],
+   "cns": [
+    "全和国际物流（上海）有限公司"
+   ],
+   "ens": [
+    "全和国际物流（上海）有限公司"
+   ]
+  },
+  {
+   "code": "QT",
+   "shorts": [
+    "其他"
+   ],
+   "cns": [
+    "其他"
+   ],
+   "ens": [
+    "其他"
+   ]
+  },
+  {
+   "code": "QZSZQWLYXGS",
+   "shorts": [
+    "衢州市奕青物流有限公司"
+   ],
+   "cns": [
+    "衢州市奕青物流有限公司"
+   ],
+   "ens": [
+    "衢州市奕青物流有限公司"
+   ]
+  },
+  {
+   "code": "RDZDWLYXGS",
+   "shorts": [
+    "如东众达物流有限公司"
+   ],
+   "cns": [
+    "如东众达物流有限公司"
+   ],
+   "ens": [
+    "如东众达物流有限公司"
+   ]
+  },
+  {
+   "code": "SHAPCSBZJSFWYXGS",
+   "shorts": [
+    "上海安谱璀世标准技术服务有限公司"
+   ],
+   "cns": [
+    "上海安谱璀世标准技术服务有限公司"
+   ],
+   "ens": [
+    "上海安谱璀世标准技术服务有限公司"
+   ]
+  },
+  {
+   "code": "SHBZSPYXGS",
+   "shorts": [
+    "上海焙炙食品有限公司"
+   ],
+   "cns": [
+    "上海焙炙食品有限公司"
+   ],
+   "ens": [
+    "上海焙炙食品有限公司"
+   ]
+  },
+  {
+   "code": "SHCXSWKJYXGS",
+   "shorts": [
+    "上海超芯生物科技有限公司"
+   ],
+   "cns": [
+    "上海超芯生物科技有限公司"
+   ],
+   "ens": [
+    "上海超芯生物科技有限公司"
+   ]
+  },
+  {
+   "code": "SHCYZLWHZXYXGS",
+   "shorts": [
+    "上海创远之路文化咨询有限公司"
+   ],
+   "cns": [
+    "上海创远之路文化咨询有限公司"
+   ],
+   "ens": [
+    "上海创远之路文化咨询有限公司"
+   ]
+  },
+  {
+   "code": "SHDHGYLGLYXGS",
+   "shorts": [
+    "上海丹豪供应链管理有限公司"
+   ],
+   "cns": [
+    "上海丹豪供应链管理有限公司"
+   ],
+   "ens": [
+    "上海丹豪供应链管理有限公司"
+   ]
+  },
+  {
+   "code": "SHDXWLYXGS",
+   "shorts": [
+    "上海氐星物流有限公司"
+   ],
+   "cns": [
+    "上海氐星物流有限公司"
+   ],
+   "ens": [
+    "上海氐星物流有限公司"
+   ]
+  },
+  {
+   "code": "SHDXGJHYDLYXGS",
+   "shorts": [
+    "上海德祥国际货运代理有限公司"
+   ],
+   "cns": [
+    "上海德祥国际货运代理有限公司"
+   ],
+   "ens": [
+    "上海德祥国际货运代理有限公司"
+   ]
+  },
+  {
+   "code": "SHFBWHCBYXGS",
+   "shorts": [
+    "上海奋步文化传播有限公司"
+   ],
+   "cns": [
+    "上海奋步文化传播有限公司"
+   ],
+   "ens": [
+    "上海奋步文化传播有限公司"
+   ]
+  },
+  {
+   "code": "SHFJJJYXGS",
+   "shorts": [
+    "上海飞爵家具有限公司"
+   ],
+   "cns": [
+    "上海飞爵家具有限公司"
+   ],
+   "ens": [
+    "上海飞爵家具有限公司"
+   ]
+  },
+  {
+   "code": "SHGJWLKJYXGS",
+   "shorts": [
+    "上海国经网络科技有限公司"
+   ],
+   "cns": [
+    "上海国经网络科技有限公司"
+   ],
+   "ens": [
+    "上海国经网络科技有限公司"
+   ]
+  },
+  {
+   "code": "SHGTSWKJYXGS",
+   "shorts": [
+    "上海冠彤生物科技有限公司"
+   ],
+   "cns": [
+    "上海冠彤生物科技有限公司"
+   ],
+   "ens": [
+    "上海冠彤生物科技有限公司"
+   ]
+  },
+  {
+   "code": "SHHXGJWLYXGS",
+   "shorts": [
+    "上海汇行国际物流有限公司"
+   ],
+   "cns": [
+    "上海汇行国际物流有限公司"
+   ],
+   "ens": [
+    "上海汇行国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHHXWLYXGS",
+   "shorts": [
+    "上海航轩物流有限公司"
+   ],
+   "cns": [
+    "上海航轩物流有限公司"
+   ],
+   "ens": [
+    "上海航轩物流有限公司"
+   ]
+  },
+  {
+   "code": "SHHYBJFWYXGS",
+   "shorts": [
+    "上海浩源保洁服务有限公司"
+   ],
+   "cns": [
+    "上海浩源保洁服务有限公司"
+   ],
+   "ens": [
+    "上海浩源保洁服务有限公司"
+   ]
+  },
+  {
+   "code": "SHHYGJWLYXGS",
+   "shorts": [
+    "上海华禹国际物流有限公司"
+   ],
+   "cns": [
+    "上海华禹国际物流有限公司"
+   ],
+   "ens": [
+    "上海华禹国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHJHGJYYYXGS",
+   "shorts": [
+    "上海嘉会国际医院有限公司"
+   ],
+   "cns": [
+    "上海嘉会国际医院有限公司"
+   ],
+   "ens": [
+    "上海嘉会国际医院有限公司"
+   ]
+  },
+  {
+   "code": "SHJYFYZXYXGS",
+   "shorts": [
+    "上海佳艺翻译咨询有限公司"
+   ],
+   "cns": [
+    "上海佳艺翻译咨询有限公司"
+   ],
+   "ens": [
+    "上海佳艺翻译咨询有限公司"
+   ]
+  },
+  {
+   "code": "SHKJHYDLYXGS",
+   "shorts": [
+    "上海可嘉货运代理有限公司"
+   ],
+   "cns": [
+    "上海可嘉货运代理有限公司"
+   ],
+   "ens": [
+    "上海可嘉货运代理有限公司"
+   ]
+  },
+  {
+   "code": "SHKWFYFWYXGS",
+   "shorts": [
+    "上海酷我翻译服务有限公司"
+   ],
+   "cns": [
+    "上海酷我翻译服务有限公司"
+   ],
+   "ens": [
+    "上海酷我翻译服务有限公司"
+   ]
+  },
+  {
+   "code": "SHLDWLYXGS",
+   "shorts": [
+    "上海隆达物流有限公司"
+   ],
+   "cns": [
+    "上海隆达物流有限公司"
+   ],
+   "ens": [
+    "上海隆达物流有限公司"
+   ]
+  },
+  {
+   "code": "SHLRJZFWYXGS",
+   "shorts": [
+    "上海乐冉家政服务有限公司"
+   ],
+   "cns": [
+    "上海乐冉家政服务有限公司"
+   ],
+   "ens": [
+    "上海乐冉家政服务有限公司"
+   ]
+  },
+  {
+   "code": "SHMEKWHGCCYXGS",
+   "shorts": [
+    "上海密尔克卫化工储存有限公司"
+   ],
+   "cns": [
+    "上海密尔克卫化工储存有限公司"
+   ],
+   "ens": [
+    "上海密尔克卫化工储存有限公司"
+   ]
+  },
+  {
+   "code": "SHRHJZZSSJGCYXGS",
+   "shorts": [
+    "上海荣欢建筑装饰设计工程有限公司"
+   ],
+   "cns": [
+    "上海荣欢建筑装饰设计工程有限公司"
+   ],
+   "ens": [
+    "上海荣欢建筑装饰设计工程有限公司"
+   ]
+  },
+  {
+   "code": "SHRYGJWLYXGS",
+   "shorts": [
+    "上海融亿国际物流有限公司"
+   ],
+   "cns": [
+    "上海融亿国际物流有限公司"
+   ],
+   "ens": [
+    "上海融亿国际物流有限公司"
+   ]
+  },
+  {
+   "code": "SHSCJDSBYXGS",
+   "shorts": [
+    "上海世澈机电设备有限公司"
+   ],
+   "cns": [
+    "上海世澈机电设备有限公司"
+   ],
+   "ens": [
+    "上海世澈机电设备有限公司"
+   ]
+  },
+  {
+   "code": "SHSZXWQYZCXRZDBJJGLZX",
+   "shorts": [
+    "上海市中小微企业政策性融资担保基"
+   ],
+   "cns": [
+    "上海市中小微企业政策性融资担保基金管理中心"
+   ],
+   "ens": [
+    "上海市中小微企业政策性融资担保基金管理中心"
+   ]
+  },
+  {
+   "code": "SHWQKJYXGS",
+   "shorts": [
+    "上海未奇科技有限公司"
+   ],
+   "cns": [
+    "上海未奇科技有限公司"
+   ],
+   "ens": [
+    "上海未奇科技有限公司"
+   ]
+  },
+  {
+   "code": "SHWRGYLGLYXGS",
+   "shorts": [
+    "上海万锐供应链管理有限公司"
+   ],
+   "cns": [
+    "上海万锐供应链管理有限公司"
+   ],
+   "ens": [
+    "上海万锐供应链管理有限公司"
+   ]
+  },
+  {
+   "code": "SHXYWHFZYXGS",
+   "shorts": [
+    "上海喜泳文化发展有限公司"
+   ],
+   "cns": [
+    "上海喜泳文化发展有限公司"
+   ],
+   "ens": [
+    "上海喜泳文化发展有限公司"
+   ]
+  },
+  {
+   "code": "SHYDGJMYYXGS",
+   "shorts": [
+    "上海远稻国际贸易有限公司"
+   ],
+   "cns": [
+    "上海远稻国际贸易有限公司"
+   ],
+   "ens": [
+    "上海远稻国际贸易有限公司"
+   ]
+  },
+  {
+   "code": "SHYKYSCRJFWYXGS",
+   "shorts": [
+    "上海英鲲因私出入境服务有限公司"
+   ],
+   "cns": [
+    "上海英鲲因私出入境服务有限公司"
+   ],
+   "ens": [
+    "上海英鲲因私出入境服务有限公司"
+   ]
+  },
+  {
+   "code": "SHYSJYPXYXGS",
+   "shorts": [
+    "上海云上教育培训有限公司"
+   ],
+   "cns": [
+    "上海云上教育培训有限公司"
+   ],
+   "ens": [
+    "上海云上教育培训有限公司"
+   ]
+  },
+  {
+   "code": "SHYZCYGLYXGS",
+   "shorts": [
+    "上海佑筵餐饮管理有限公司"
+   ],
+   "cns": [
+    "上海佑筵餐饮管理有限公司"
+   ],
+   "ens": [
+    "上海佑筵餐饮管理有限公司"
+   ]
+  },
+  {
+   "code": "SHZYHYJZXYSYXGS",
+   "shorts": [
+    "上海中远海运集装箱"
+   ],
+   "cns": [
+    "上海中远海运集装箱运输有限公司"
+   ],
+   "ens": [
+    "上海中远海运集装箱运输有限公司"
+   ]
+  },
+  {
+   "code": "SHZYHYWLGYLYXGS",
+   "shorts": [
+    "外代(CLS)"
+   ],
+   "cns": [
+    "上海中远海运物流供应链有限公司"
+   ],
+   "ens": [
+    "上海中远海运物流供应链有限公司"
+   ]
+  },
+  {
+   "code": "SZSFZTXTZZXFWYXGS",
+   "shorts": [
+    "深圳市方舟天下投资咨询服务有限公"
+   ],
+   "cns": [
+    "深圳市方舟天下投资咨询服务有限公司"
+   ],
+   "ens": [
+    "深圳市方舟天下投资咨询服务有限公司"
+   ]
+  },
+  {
+   "code": "SZSYXGJWLYXGS",
+   "shorts": [
+    "深圳市亚迅国际物流有限公司"
+   ],
+   "cns": [
+    "深圳市亚迅国际物流有限公司"
+   ],
+   "ens": [
+    "深圳市亚迅国际物流有限公司"
+   ]
+  },
+  {
+   "code": "TPWL(ZG)YXGS",
+   "shorts": [
+    "太平物流(中国)有限公司"
+   ],
+   "cns": [
+    "太平物流(中国)有限公司"
+   ],
+   "ens": [
+    "太平物流(中国)有限公司"
+   ]
+  },
+  {
+   "code": "WJZ",
+   "shorts": [
+    "王佳懿"
+   ],
+   "cns": [
+    "王佳懿"
+   ],
+   "ens": [
+    "王佳懿"
+   ]
+  },
+  {
+   "code": "XYJY（SZ）GJWLYXGS",
+   "shorts": [
+    "鑫亚集运（深圳）国际物流有限公司"
+   ],
+   "cns": [
+    "鑫亚集运（深圳）国际物流有限公司"
+   ],
+   "ens": [
+    "鑫亚集运（深圳）国际物流有限公司"
+   ]
+  },
+  {
+   "code": "ZJCCBXGFYXGSSHFGS",
+   "shorts": [
+    "紫金财产保险股份有限公司上海分公"
+   ],
+   "cns": [
+    "紫金财产保险股份有限公司上海分公司"
+   ],
+   "ens": [
+    "紫金财产保险股份有限公司上海分公司"
+   ]
+  },
+  {
+   "code": "AGROFORTUNE INDUSTRIAL CO.,LIM",
+   "shorts": [
+    "AGROFORTUNE INDU"
+   ],
+   "cns": [
+    "AGROFORTUNE INDUSTRIAL CO.,LIMITED"
+   ],
+   "ens": [
+    "AGROFORTUNE INDUSTRIAL CO.,LIMITED"
+   ]
+  },
+  {
+   "code": "AGROFUTURO PARAGUAY S.A.",
+   "shorts": [
+    "AGROFUTURO PARAG"
+   ],
+   "cns": [
+    "AGROFUTURO PARAGUAY S.A."
+   ],
+   "ens": [
+    "AGROFUTURO PARAGUAY S.A."
+   ]
+  },
+  {
+   "code": "AG（SH）SWKJYXGS",
+   "shorts": [
+    "爱格（上海）生物科技有限公司"
+   ],
+   "cns": [
+    "爱格（上海）生物科技有限公司"
+   ],
+   "ens": [
+    "爱格（上海）生物科技有限公司"
+   ]
+  },
+  {
+   "code": "AKTRA S.A.2/LOMAS VALETINAS 39",
+   "shorts": [
+    "AKTRA S.A.2/LOMA"
+   ],
+   "cns": [
+    "AKTRA S.A.2/LOMAS VALETINAS 3906-PARQUE IN 3/PY/VILLETA"
+   ],
+   "ens": [
+    "AKTRA S.A.2/LOMAS VALETINAS 3906-PARQUE IN 3/PY/VILLETA"
+   ]
+  },
+  {
+   "code": "BIO SANITAS SOCIEDAD ANONIMA R",
+   "shorts": [
+    "BIO SANITAS SOCI"
+   ],
+   "cns": [
+    "BIO SANITAS SOCIEDAD ANONIMA RUC"
+   ],
+   "ens": [
+    "BIO SANITAS SOCIEDAD ANONIMA RUC"
+   ]
+  },
+  {
+   "code": "DTJCKFW（HA）YXGS",
+   "shorts": [
+    "大泰进出口服务（淮安）有限公司"
+   ],
+   "cns": [
+    "大泰进出口服务（淮安）有限公司"
+   ],
+   "ens": [
+    "大泰进出口服务（淮安）有限公司"
+   ]
+  },
+  {
+   "code": "EASTCHEM CO.,LTD",
+   "shorts": [
+    "EASTCHEM CO.,LTD"
+   ],
+   "cns": [
+    "EASTCHEM CO.,LTD"
+   ],
+   "ens": [
+    "EASTCHEM CO.,LTD"
+   ]
+  },
+  {
+   "code": "GXTDSH",
+   "shorts": [
+    "广信通达（上海）"
+   ],
+   "cns": [
+    "广信通达（上海）进出口有限公司"
+   ],
+   "ens": [
+    "广信通达（上海）进出口有限公司"
+   ]
+  },
+  {
+   "code": "HONGKONG HENGTAI INTERNATIONAL",
+   "shorts": [
+    "HONGKONG HENGTAI"
+   ],
+   "cns": [
+    "HONGKONG HENGTAI INTERNATIONALTRADE CO.,LIMITED"
+   ],
+   "ens": [
+    "HONGKONG HENGTAI INTERNATIONALTRADE CO.,LIMITED"
+   ]
+  },
+  {
+   "code": "HZQFJCKYXGS",
+   "shorts": [
+    "杭州庆丰进出口有限公司"
+   ],
+   "cns": [
+    "杭州庆丰进出口有限公司"
+   ],
+   "ens": [
+    "杭州庆丰进出口有限公司"
+   ]
+  },
+  {
+   "code": "HZRYWLYXGS",
+   "shorts": [
+    "杭州瑞益物流有限公司"
+   ],
+   "cns": [
+    "杭州瑞益物流有限公司"
+   ],
+   "ens": [
+    "杭州瑞益物流有限公司"
+   ]
+  },
+  {
+   "code": "HZWHGJMYYXGS",
+   "shorts": [
+    "杭州望禾国际贸易有限公司"
+   ],
+   "cns": [
+    "杭州望禾国际贸易有限公司"
+   ],
+   "ens": [
+    "杭州望禾国际贸易有限公司"
+   ]
+  },
+  {
+   "code": "INTERAG S A PLAZA",
+   "shorts": [
+    "INTERAG S A PLAZ"
+   ],
+   "cns": [
+    "INTERAG S A PLAZA"
+   ],
+   "ens": [
+    "INTERAG S A PLAZA"
+   ]
+  },
+  {
+   "code": "JRSWKJJTYXGS",
+   "shorts": [
+    "锦瑞生物科技集团有限公司"
+   ],
+   "cns": [
+    "锦瑞生物科技集团有限公司"
+   ],
+   "ens": [
+    "锦瑞生物科技集团有限公司"
+   ]
+  },
+  {
+   "code": "LSSFHTDMYYXGS",
+   "shorts": [
+    "乐山市福华通达贸易有限公司"
+   ],
+   "cns": [
+    "乐山市福华通达贸易有限公司"
+   ],
+   "ens": [
+    "乐山市福华通达贸易有限公司"
+   ]
+  },
+  {
+   "code": "LSSWKJJTGFYXGS",
+   "shorts": [
+    "兰生生物科技集团股份有限公司"
+   ],
+   "cns": [
+    "兰生生物科技集团股份有限公司"
+   ],
+   "ens": [
+    "兰生生物科技集团股份有限公司"
+   ]
+  },
+  {
+   "code": "NBJZSWKJYXGS",
+   "shorts": [
+    "宁波金展生物科技有限公司"
+   ],
+   "cns": [
+    "宁波金展生物科技有限公司"
+   ],
+   "ens": [
+    "宁波金展生物科技有限公司"
+   ]
+  },
+  {
+   "code": "NBSDSHXYXGS",
+   "shorts": [
+    "宁波市迪盛化学有限公司"
+   ],
+   "cns": [
+    "宁波市迪盛化学有限公司"
+   ],
+   "ens": [
+    "宁波市迪盛化学有限公司"
+   ]
+  },
+  {
+   "code": "NJLSHGYXGS",
+   "shorts": [
+    "南京罗森化工有限公司"
+   ],
+   "cns": [
+    "南京罗森化工有限公司"
+   ],
+   "ens": [
+    "南京罗森化工有限公司"
+   ]
+  },
+  {
+   "code": "QDSSZGJMYYXGS",
+   "shorts": [
+    "青岛盛世嬴国际贸易有限公司"
+   ],
+   "cns": [
+    "青岛盛世嬴国际贸易有限公司"
+   ],
+   "ens": [
+    "青岛盛世嬴国际贸易有限公司"
+   ]
+  },
+  {
+   "code": "R-A-N-K-O INTERNATIONAL CO.,LIMITE",
+   "shorts": [
+    "R-A-N-K-O INTERNATIO"
+   ],
+   "cns": [
+    "R-A-N-K-O INTERNATIONAL CO.,LIMITED"
+   ],
+   "ens": [
+    "R-A-N-K-O INTERNATIONAL CO.,LIMITED"
+   ]
+  },
+  {
+   "code": "SHBDGJMYYXGS",
+   "shorts": [
+    "上海博登国际贸易有限公司"
+   ],
+   "cns": [
+    "上海博登国际贸易有限公司"
+   ],
+   "ens": [
+    "上海博登国际贸易有限公司"
+   ]
+  },
+  {
+   "code": "SHFKLQYFWYXGS",
+   "shorts": [
+    "上海奉康联企业服务有限公司"
+   ],
+   "cns": [
+    "上海奉康联企业服务有限公司"
+   ],
+   "ens": [
+    "上海奉康联企业服务有限公司"
+   ]
+  },
+  {
+   "code": "SHFLXQYFWYXGS",
+   "shorts": [
+    "上海奉联新企业服务有限公司"
+   ],
+   "cns": [
+    "上海奉联新企业服务有限公司"
+   ],
+   "ens": [
+    "上海奉联新企业服务有限公司"
+   ]
+  },
+  {
+   "code": "SHMXHZFWYXGS",
+   "shorts": [
+    "上海盟享会展服务有限公司"
+   ],
+   "cns": [
+    "上海盟享会展服务有限公司"
+   ],
+   "ens": [
+    "上海盟享会展服务有限公司"
+   ]
+  },
+  {
+   "code": "SHXTZDHZBYXGS",
+   "shorts": [
+    "上海宵腾自动化装备有限公司"
+   ],
+   "cns": [
+    "上海宵腾自动化装备有限公司"
+   ],
+   "ens": [
+    "上海宵腾自动化装备有限公司"
+   ]
+  },
+  {
+   "code": "SJKYYXGS",
+   "shorts": [
+    "三江开源有限公司"
+   ],
+   "cns": [
+    "三江开源有限公司"
+   ],
+   "ens": [
+    "三江开源有限公司"
+   ]
+  },
+  {
+   "code": "SULCHEM CO.,LIMITED",
+   "shorts": [
+    "SULCHEM CO.,LIMI"
+   ],
+   "cns": [
+    "SULCHEM CO.,LIMITED"
+   ],
+   "ens": [
+    "SULCHEM CO.,LIMITED"
+   ]
+  },
+  {
+   "code": "SZGJWL（SZ）YXGS",
+   "shorts": [
+    "神州国际物流（深圳）有限公司"
+   ],
+   "cns": [
+    "神州国际物流（深圳）有限公司"
+   ],
+   "ens": [
+    "神州国际物流（深圳）有限公司"
+   ]
+  },
+  {
+   "code": "SZKBXCLKJYXGS",
+   "shorts": [
+    "苏州阔本新材料科技有限公司"
+   ],
+   "cns": [
+    "苏州阔本新材料科技有限公司"
+   ],
+   "ens": [
+    "苏州阔本新材料科技有限公司"
+   ]
+  },
+  {
+   "code": "U-L-O-G SOLUCIONES",
+   "shorts": [
+    "U-L-O-G SOLUCIONES"
+   ],
+   "cns": [
+    "U-L-O-G SOLUCIONES"
+   ],
+   "ens": [
+    "U-L-O-G SOLUCIONES"
+   ]
+  },
+  {
+   "code": "WDHKH",
+   "shorts": [
+    "微订货客户"
+   ],
+   "cns": [
+    "微订货客户"
+   ],
+   "ens": [
+    "微订货客户"
+   ]
+  },
+  {
+   "code": "XJSSDYYSYXGS",
+   "shorts": [
+    "辛集市胜德亿运输有限公司"
+   ],
+   "cns": [
+    "辛集市胜德亿运输有限公司"
+   ],
+   "ens": [
+    "辛集市胜德亿运输有限公司"
+   ]
+  },
+  {
+   "code": "ZKLSWKJ（JT）GFYXGS",
+   "shorts": [
+    "弈柯莱生物科技（集团）股份有限公"
+   ],
+   "cns": [
+    "弈柯莱生物科技（集团）股份有限公司"
+   ],
+   "ens": [
+    "弈柯莱生物科技（集团）股份有限公司"
+   ]
+  },
+  {
+   "code": "ZJKFHGYXGS",
+   "shorts": [
+    "浙江康峰化工有限公司"
+   ],
+   "cns": [
+    "浙江康峰化工有限公司"
+   ],
+   "ens": [
+    "浙江康峰化工有限公司"
+   ]
+  },
+  {
+   "code": "ZJSZJHWJCKYXGS",
+   "shorts": [
+    "浙江省中江海外进出口有限公司"
+   ],
+   "cns": [
+    "浙江省中江海外进出口有限公司"
+   ],
+   "ens": [
+    "浙江省中江海外进出口有限公司"
+   ]
+  },
+  {
+   "code": "ZJYYGFYXGS",
+   "shorts": [
+    "浙江医药股份有限公司"
+   ],
+   "cns": [
+    "浙江医药股份有限公司"
+   ],
+   "ens": [
+    "浙江医药股份有限公司"
+   ]
+  },
+  {
+   "code": "WSL",
+   "shorts": [
+    "WSL"
+   ],
+   "cns": [
+    "WSL Digital Solutions"
+   ],
+   "ens": [
+    "WSL Digital Solutions"
+   ]
+  },
+  {
+   "code": "QDCY",
+   "shorts": [
+    "程圆"
+   ],
+   "cns": [
+    "青岛程圆高端国际供应链有限公司"
+   ],
+   "ens": [
+    "青岛程圆"
+   ]
+  },
+  {
+   "code": "QDGW",
+   "shorts": [
+    "青岛港威"
+   ],
+   "cns": [
+    "青岛港威国际物流有限公司"
+   ],
+   "ens": [
+    "青岛港威国际物流有限公司"
+   ]
+  },
+  {
+   "code": "QDJY",
+   "shorts": [
+    "青岛玖盈"
+   ],
+   "cns": [
+    "青岛玖盈化工有限公司"
+   ],
+   "ens": [
+    "青岛玖盈"
+   ]
+  },
+  {
+   "code": "NZL",
+   "shorts": [
+    "新西兰航运"
+   ],
+   "cns": [
+    "新西兰航运有限公司"
+   ],
+   "ens": [
+    "NZL"
+   ]
+  },
+  {
+   "code": "SHDQ",
+   "shorts": [
+    "上海德擎"
+   ],
+   "cns": [
+    "上海德擎国际物流有限公司"
+   ],
+   "ens": [
+    "上海德擎国际物流有限公司"
+   ]
+  },
+  {
+   "code": "Cici",
+   "shorts": [
+    "程岑"
+   ],
+   "cns": [
+    "程岑"
+   ],
+   "ens": [
+    "Cici Cheng"
+   ]
+  },
+  {
+   "code": "TED",
+   "shorts": [
+    "太尔敦"
+   ],
+   "cns": [
+    "太尔敦航务(上海)有限公司"
+   ],
+   "ens": [
+    "太尔敦航务(上海)有限公司"
+   ]
+  },
+  {
+   "code": "JSLK",
+   "shorts": [
+    "江苏莱科"
+   ],
+   "cns": [
+    "江苏莱科作物保护有限公司"
+   ],
+   "ens": [
+    "江苏莱科作物保护有限公司"
+   ]
+  },
+  {
+   "code": "NBYG",
+   "shorts": [
+    "宁波雅舸"
+   ],
+   "cns": [
+    "宁波雅舸国际贸易运输有限公司"
+   ],
+   "ens": [
+    "NINGBO YOUNGOR INTERNATIONAL TRADE AND TRANSPORTATION CO., LTD"
+   ]
+  },
+  {
+   "code": "AHJSSTNY",
+   "shorts": [
+    "安徽捷胜生态农业科技"
+   ],
+   "cns": [
+    "安徽捷胜生态农业科技有限公司"
+   ],
+   "ens": [
+    "安徽捷胜生态农业科技有限公司"
+   ]
+  },
+  {
+   "code": "AHJTNY",
+   "shorts": [
+    "安徽金泰农药"
+   ],
+   "cns": [
+    "安徽金泰农药化工有限公司"
+   ],
+   "ens": [
+    "安徽金泰农药化工有限公司"
+   ]
+  },
+  {
+   "code": "SDDYHY",
+   "shorts": [
+    "山东东盈海远"
+   ],
+   "cns": [
+    "山东东盈海远国际物流有限公司"
+   ],
+   "ens": [
+    "山东东盈海远国际物流有限公司"
+   ]
+  },
+  {
+   "code": "MCL",
+   "shorts": [
+    "MCL"
+   ],
+   "cns": [
+    "MCL"
+   ],
+   "ens": [
+    "MCL"
+   ]
+  },
+  {
+   "code": "KLR",
+   "shorts": [
+    "科里瑞"
+   ],
+   "cns": [
+    "科里瑞（上海）国际物流有限公司"
+   ],
+   "ens": [
+    "科里瑞（上海）国际物流有限公司"
+   ]
+  },
+  {
+   "code": "GZYZF",
+   "shorts": [
+    "广州市银之丰"
+   ],
+   "cns": [
+    "广州市银之丰贸易有限公司"
+   ],
+   "ens": [
+    "广州市银之丰贸易有限公司"
+   ]
+  },
+  {
+   "code": "I TAK GROUP",
+   "shorts": [
+    "I TAK GROUP"
+   ],
+   "cns": [
+    "I TAK GROUP HOLDINGS LIMITED"
+   ],
+   "ens": [
+    "I TAK GROUP HOLDINGS LIMITED"
+   ]
+  },
+  {
+   "code": "SWY",
+   "shorts": [
+    "邵武永和金塘新材料有限公司"
+   ],
+   "cns": [
+    "邵武永和金塘新材料有限公司"
+   ],
+   "ens": [
+    "邵武永和金塘新材料有限公司"
+   ]
+  },
+  {
+   "code": "SN",
+   "shorts": [
+    "胜农(宁波)"
+   ],
+   "cns": [
+    "胜农(宁波)生物科技有限公司"
+   ],
+   "ens": [
+    "胜农(宁波)生物科技有限公司"
+   ]
+  },
+  {
+   "code": "QDHYHoyo",
+   "shorts": [
+    "青岛鸿悦"
+   ],
+   "cns": [
+    "青岛鸿悦国际物流有限公司"
+   ],
+   "ens": [
+    "Qingdao Hoyo International Logistics Co., Ltd"
+   ]
+  },
+  {
+   "code": "JJTC",
+   "shorts": [
+    "九江天赐"
+   ],
+   "cns": [
+    "九江天赐高新材料有限公司"
+   ],
+   "ens": [
+    "九江天赐高新材料有限公司"
+   ]
+  },
+  {
+   "code": "JJTCXDL",
+   "shorts": [
+    "九江天赐新动力"
+   ],
+   "cns": [
+    "九江天赐新动力材料科技有限公司"
+   ],
+   "ens": [
+    "九江天赐新动力材料科技有限公司"
+   ]
+  },
+  {
+   "code": "Alan",
+   "shorts": [
+    "Alan"
+   ],
+   "cns": [
+    "Alan"
+   ],
+   "ens": [
+    "Alan"
+   ]
+  },
+  {
+   "code": "YFS",
+   "shorts": [
+    "云浮顺"
+   ],
+   "cns": [
+    "云浮顺天然生物科技有限公司"
+   ],
+   "ens": [
+    "云浮顺天然生物科技有限公司"
+   ]
+  },
+  {
+   "code": "NJRKJ",
+   "shorts": [
+    "南京瑞康佳"
+   ],
+   "cns": [
+    "南京瑞康佳化工有限公司"
+   ],
+   "ens": [
+    "南京瑞康佳化工有限公司"
+   ]
+  },
+  {
+   "code": "CUL",
+   "shorts": [
+    "CUL"
+   ],
+   "cns": [
+    "中联航运股份有限公司"
+   ],
+   "ens": [
+    "CU LINES/CHINA UNITED LINES LTD."
+   ]
+  },
+  {
+   "code": "SML",
+   "shorts": [
+    "SML"
+   ],
+   "cns": [
+    "韩国森罗商船株式会社"
+   ],
+   "ens": [
+    "SM Line Corp"
+   ]
+  },
+  {
+   "code": "SHRD",
+   "shorts": [
+    "上海任笃"
+   ],
+   "cns": [
+    "上海任笃报关有限公司"
+   ],
+   "ens": [
+    "上海任笃报关有限公司"
+   ]
+  },
+  {
+   "code": "TJDS",
+   "shorts": [
+    "天津东时"
+   ],
+   "cns": [
+    "天津东时供应链管理有限公司"
+   ],
+   "ens": [
+    "天津东时供应链管理有限公司"
+   ]
+  },
+  {
+   "code": "FJTJ",
+   "shorts": [
+    "飞集天津"
+   ],
+   "cns": [
+    "上海飞集货运代理有限公司天津分公司"
+   ],
+   "ens": [
+    "Fastic Shipping CO.,LTD Tianjin Branch"
+   ]
+  },
+  {
+   "code": "HLSTHYDL",
+   "shorts": [
+    "海联顺通辽宁"
+   ],
+   "cns": [
+    "海联顺通货运代理服务（辽宁）有限公司"
+   ],
+   "ens": [
+    "LEANIN TRANSPORTATION CO., LTD."
+   ]
+  },
+  {
+   "code": "SDJF",
+   "shorts": [
+    "山东捷丰"
+   ],
+   "cns": [
+    "山东捷丰国际储运有限公司"
+   ],
+   "ens": [
+    "山东捷丰国际储运有限公司"
+   ]
+  },
+  {
+   "code": "SDZC",
+   "shorts": [
+    "山东中辰"
+   ],
+   "cns": [
+    "山东中辰国际物流有限公司"
+   ],
+   "ens": [
+    "SHANDONG ZHONGCHEN INTERNATIONAL LOGISTICS CO., LTD"
+   ]
+  },
+  {
+   "code": "GDCCJS",
+   "shorts": [
+    "广东潮成建设"
+   ],
+   "cns": [
+    "广东潮成建设工程有限公司"
+   ],
+   "ens": [
+    "广东潮成建设工程有限公司"
+   ]
+  },
+  {
+   "code": "HNDFH",
+   "shorts": [
+    "河南红东方"
+   ],
+   "cns": [
+    "河南红东方化工股份有限公司"
+   ],
+   "ens": [
+    "河南红东方化工股份有限公司"
+   ]
+  }
+ ],
+ "disabled_list": [
+  {
+   "code": "YMHYJT",
+   "short": "YML-Do not use",
+   "cn": "不再使用的-阳明海运集团"
+  },
+  {
+   "code": "G-LHYZSHS",
+   "short": "G-Li",
+   "cn": "(重复/禁用)高-丽海运株式会社"
+  },
+  {
+   "code": "(禁用的)韩-新",
+   "short": "(禁用的)韩-新",
+   "cn": "(禁用的)韩-新海运（上海）有限公司"
+  },
+  {
+   "code": "R-C-L",
+   "short": "重复的-宏-海",
+   "cn": "重复/禁用的-宏-海箱运船务有限公司"
+  },
+  {
+   "code": "SHZY",
+   "short": "(禁用名称)外-代(CLS)",
+   "cn": "(此名称已禁用)上海中-运海运物流供应链有限公司"
+  },
+  {
+   "code": "H-B-L-TCW(ZG)YXGS",
+   "short": "重复/禁用的-赫-伯-罗-特-",
+   "cn": "重复/禁用的-赫-伯-罗-特-船务(中国)有限公司"
+  },
+  {
+   "code": "SHD-NWLYXGS",
+   "short": "（禁用的重复创建账号）上海德-纽物流有限公司",
+   "cn": "（禁用的重复创建账号）上海德-纽物流有限公司"
+  },
+  {
+   "code": "SHZYHYWLYXGS",
+   "short": "(此名称禁用)上海中-远海运物流有限公司",
+   "cn": "(此名称禁用)上海中-远海运物流有限公司"
+  },
+  {
+   "code": "L-S（JN）GJMYYXGS",
+   "short": "兰-升(济南)",
+   "cn": "（此名称禁用）兰-升(济南)国际贸易有限公司"
+  },
+  {
+   "code": "duplicate account",
+   "short": "重复/禁用的",
+   "cn": "(重复/禁用的)苏-农-（广-德）生物科技有限公司"
+  },
+  {
+   "code": "ZJSX-AHGJTGFYXGS",
+   "short": "（禁用）浙江-省-新-安",
+   "cn": "（禁用）浙江-省-新-安化工集团股份有限公司"
+  }
+ ],
+ "ambiguous_codes": [
+  "HBHY",
+  "SITC",
+  "AMHKGS"
+ ],
+ "ambiguous_note": "多客商共用代码: HBHY(汉堡航运/河北胡杨), SITC(新海丰物流/山东海丰), AMHKGS(阿曼航空/澳门航空) - 匹配到需业务确认"
+}
