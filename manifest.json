@@ -1,0 +1,43 @@
+﻿{
+  "name": "dg-rate-query",
+  "version": "1.3.2",
+  "manifest_version": 1,
+  "permissions": {
+    "network": {
+      "allow": [
+        "mineru.net",
+        "open.feishu.cn",
+        "openxlab.org.cn"
+      ],
+      "deny": [
+        "*"
+      ]
+    },
+    "filesystem": {
+      "read": [
+        "skills/dg-rate-query/assets/",
+        "media/inbound/"
+      ],
+      "write": [
+        "/tmp/dg-rate-query/",
+        "media/inbound/"
+      ],
+      "deny": [
+        "/etc/",
+        "/root/.ssh"
+      ]
+    },
+    "shell": {
+      "allowCommands": [
+        "dg-rate-query",
+        "mineru-open-api",
+        "python3"
+      ],
+      "denyAllOthers": true
+    }
+  },
+  "sandbox": {
+    "isolateProcess": true,
+    "maxMemoryMb": 1024
+  }
+}
