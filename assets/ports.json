@@ -1,0 +1,8902 @@
+[
+ {
+  "en_name": "PUERTO SEGURO FLUVIAL",
+  "code": "PYPSO",
+  "cn_name": "普埃尔托塞古罗",
+  "country": "巴拉圭",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "PYPSO",
+  "iso_code": "PYPSO"
+ },
+ {
+  "en_name": "PUERTO SEGURO",
+  "code": "PYPSE",
+  "cn_name": "",
+  "country": "巴拉圭",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "PYPSE",
+  "iso_code": "PYPSE"
+ },
+ {
+  "en_name": "SHANGHAI",
+  "code": "CNSHA",
+  "cn_name": "上海",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "XINGANG, TIANJIN",
+  "code": "XINGA",
+  "cn_name": "天津新港",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "XINGA",
+  "iso_code": "XINGA"
+ },
+ {
+  "en_name": "TANDJANG, Indonesia",
+  "code": "IDPDJ",
+  "cn_name": "丹戎",
+  "country": "印尼",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TANDJUNG PRIOK, Indonesia",
+  "code": "IDTPP",
+  "cn_name": "丹戎不碌",
+  "country": "印尼",
+  "region": "印巴",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CHATTOGRAM",
+  "code": "BDCGG",
+  "cn_name": "CHATTOGRAM, BANGLADESH",
+  "country": "孟加拉",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "BDCGG",
+  "iso_code": "BDCGG"
+ },
+ {
+  "en_name": "KRIBI",
+  "code": "CMKRI",
+  "cn_name": "克里比",
+  "country": "喀麦隆",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "CMKRI",
+  "iso_code": "CMKRI"
+ },
+ {
+  "en_name": "NANJING",
+  "code": "CNNJG",
+  "cn_name": "",
+  "country": "中国",
+  "region": "亚洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "VILLETA",
+  "code": "PYVLL",
+  "cn_name": "",
+  "country": "巴拉圭",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TAIWAN",
+  "code": "TAIWA",
+  "cn_name": "台湾",
+  "country": "台湾",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "TAIWA",
+  "iso_code": "TAIWA"
+ },
+ {
+  "en_name": "NORTH HIGHLANDS",
+  "code": "USNDC",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美西",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "APIA",
+  "code": "WSAPW",
+  "cn_name": "",
+  "country": "萨摩亚",
+  "region": "中美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BASSETERRE",
+  "code": "KNBAS",
+  "cn_name": "",
+  "country": "圣基茨和尼维斯",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BANJUL",
+  "code": "GMBJL",
+  "cn_name": "",
+  "country": "冈比亚",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MALTA",
+  "code": "MTMLA",
+  "cn_name": "",
+  "country": "马耳他",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PORT EVERGLADES,FL",
+  "code": "USPEF",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MANGALORE",
+  "code": "INIXE",
+  "cn_name": "",
+  "country": "印度",
+  "region": "印巴",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "UMM AL QAIWAIN",
+  "code": "AEQIW",
+  "cn_name": "",
+  "country": "阿联酋",
+  "region": "中东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ANCONA",
+  "code": "ITANC",
+  "cn_name": "",
+  "country": "意大利",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "DETROIT,MI",
+  "code": "USDET",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "LELIU",
+  "code": "CNLUU",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "LISBOA",
+  "code": "PTLIS",
+  "cn_name": "",
+  "country": "葡萄牙",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ROSARIO",
+  "code": "ARROS",
+  "cn_name": "",
+  "country": "阿根廷",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "HOPKINSVILLE,KY",
+  "code": "USHOP",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "AMBARLI",
+  "code": "TRAMB",
+  "cn_name": "",
+  "country": "土耳其",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MULUND",
+  "code": "INMUU",
+  "cn_name": "",
+  "country": "印度",
+  "region": "印巴",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SMYRNA",
+  "code": "USMQY",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "HONOLULU",
+  "code": "USHNL",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美西",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BOSTON",
+  "code": "USBOS",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "DAVAO",
+  "code": "PHDVO",
+  "cn_name": "",
+  "country": "菲律宾",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "NEW ORLEANS,LA",
+  "code": "USNEW",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ANTWERP",
+  "code": "BEANR",
+  "cn_name": "",
+  "country": "比利时",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "HOBART",
+  "code": "AUHBA",
+  "cn_name": "",
+  "country": "澳大利亚",
+  "region": "澳新",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BINGHAMTON",
+  "code": "USBIO",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "LONDON",
+  "code": "GBLON",
+  "cn_name": "",
+  "country": "英国",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "HOMESTEAD",
+  "code": "USHST",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美西",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SANTO DOMINGO",
+  "code": "DOSDQ",
+  "cn_name": "",
+  "country": "多米尼加",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BERGEN",
+  "code": "NOBGN",
+  "cn_name": "卑尔根",
+  "country": "挪威",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "GEBZE",
+  "code": "TRGEB",
+  "cn_name": "",
+  "country": "土耳其",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "LUANDA",
+  "code": "AOLAD",
+  "cn_name": "",
+  "country": "安哥拉",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "LIVORNO",
+  "code": "ITLIV",
+  "cn_name": "",
+  "country": "意大利",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "RUSSELLVILLE",
+  "code": "USRUV",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PUERTO CORTES",
+  "code": "HNPCR",
+  "cn_name": "",
+  "country": "洪都拉斯",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "DALIAN",
+  "code": "CNDAL",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "LIMASSOL",
+  "code": "CYLMS",
+  "cn_name": "",
+  "country": "塞浦路斯",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BELFAST",
+  "code": "GBBEL",
+  "cn_name": "",
+  "country": "英国",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CHANGSHU",
+  "code": "CNCGU",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "DJBOUTI",
+  "code": "DJJIB",
+  "cn_name": "",
+  "country": "吉布提",
+  "region": "红海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "KENNESAW",
+  "code": "USKSW",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美西",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SAN ANTONIO, TX",
+  "code": "USSJT",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BOMBAY",
+  "code": "INBOM",
+  "cn_name": "",
+  "country": "印度",
+  "region": "印巴",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SHIMIZU",
+  "code": "JPSMZ",
+  "cn_name": "",
+  "country": "日本",
+  "region": "日本偏港",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "HALMSTAD",
+  "code": "SEHAD",
+  "cn_name": "",
+  "country": "瑞典",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "XINGANG",
+  "code": "CNXGG",
+  "cn_name": "XINGANG",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "IQUIQUE",
+  "code": "CLIQQ",
+  "cn_name": "",
+  "country": "智利",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ZHAOQING",
+  "code": "CNZQG",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ZHONGSHAN",
+  "code": "CNZSN",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TILBURY",
+  "code": "GBTIL",
+  "cn_name": "",
+  "country": "英国",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MESQUITE,TX",
+  "code": "USMSQ",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SAN PEDRO SULA",
+  "code": "HNSAP",
+  "cn_name": "",
+  "country": "洪都拉斯",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BILBAO",
+  "code": "ESBIO",
+  "cn_name": "",
+  "country": "西班牙",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TAIPEI",
+  "code": "TWTPE",
+  "cn_name": "",
+  "country": "台湾",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "WORCESTER, MA",
+  "code": "USORH",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美西",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "GREENSBORO,NC",
+  "code": "USGBO",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "AMITYVILLE",
+  "code": "USAYZ",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "WEIHAI",
+  "code": "CNWEI",
+  "cn_name": "威海",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ST LOUIS,MO",
+  "code": "USSTL",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "VOSTOCHNY",
+  "code": "RUVOS",
+  "cn_name": "东方港",
+  "country": "俄罗斯",
+  "region": "波罗的海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "FUZHOU",
+  "code": "CNFOC",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BUENOS AIRES",
+  "code": "ARBUE",
+  "cn_name": "",
+  "country": "阿根廷",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "FORTALEZA",
+  "code": "BRFOR",
+  "cn_name": "",
+  "country": "巴西",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "POCAHONTAS",
+  "code": "USQPH",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "AKITA",
+  "code": "JPAKI",
+  "cn_name": "",
+  "country": "日本",
+  "region": "日本偏港",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ASHDOD",
+  "code": "ILASH",
+  "cn_name": "",
+  "country": "以色列",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "HAIKOU",
+  "code": "CNHAK",
+  "cn_name": "HAIKOU",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "FREETOWN",
+  "code": "SLFNA",
+  "cn_name": "",
+  "country": "塞拉利昂",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SZCZECIN",
+  "code": "PLSZZ",
+  "cn_name": "",
+  "country": "波兰",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "VIENTIANE",
+  "code": "LAVTE",
+  "cn_name": "",
+  "country": "老挝",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "AQABA",
+  "code": "JOAQJ",
+  "cn_name": "",
+  "country": "约旦",
+  "region": "红海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "GUADALAJARA",
+  "code": "GUADA",
+  "cn_name": "",
+  "country": "墨西哥",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ELLWOOD CITY",
+  "code": "USXFH",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "GUARANAO",
+  "code": "VEGUA",
+  "cn_name": "",
+  "country": "委内瑞拉",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SAN LORENZO",
+  "code": "HNSLO",
+  "cn_name": "",
+  "country": "洪都拉斯",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PUERTO ANGAMOS",
+  "code": "CLPAG",
+  "cn_name": "",
+  "country": "智利",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TARTOUS",
+  "code": "SYTTS",
+  "cn_name": "",
+  "country": "叙利亚",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BLUEFIELD",
+  "code": "USVBS",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "RIJEKA",
+  "code": "CRRIJ",
+  "cn_name": "",
+  "country": "哥斯达黎加",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SNOHOMISH",
+  "code": "USSNI",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "HIROSHIMA",
+  "code": "JPHIJ",
+  "cn_name": "广岛",
+  "country": "日本",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "JACKSONVILLE,FL",
+  "code": "USJAX",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ICD LUDHIANA",
+  "code": "INLUH",
+  "cn_name": "",
+  "country": "印度",
+  "region": "印巴",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ALTAMIRA",
+  "code": "MXATM",
+  "cn_name": "",
+  "country": "墨西哥",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TUTICORIN",
+  "code": "INTUT",
+  "cn_name": "",
+  "country": "印度",
+  "region": "印巴",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "OSLO",
+  "code": "NOOSL",
+  "cn_name": "",
+  "country": "挪威",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "IMMINGHAM",
+  "code": "GBIMM",
+  "cn_name": "",
+  "country": "英国",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "HODEIDAH",
+  "code": "YEHOD",
+  "cn_name": "",
+  "country": "也门",
+  "region": "红海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "HACHINOHE",
+  "code": "JPHHE",
+  "cn_name": "",
+  "country": "日本",
+  "region": "日本偏港",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TAMATAVE",
+  "code": "MGTMM",
+  "cn_name": "",
+  "country": "马达加斯加",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "GENOVA",
+  "code": "ITGOA",
+  "cn_name": "",
+  "country": "意大利",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "DAR ES SALAAM",
+  "code": "TADES",
+  "cn_name": "",
+  "country": "坦桑尼亚",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "YOKOHAMA",
+  "code": "JPYOK",
+  "cn_name": "横滨",
+  "country": "日本",
+  "region": "日本基本港",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "STOCKHOLM",
+  "code": "SESTO",
+  "cn_name": "",
+  "country": "瑞典",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "VISALIA",
+  "code": "USVIS",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美西",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MOUNT HOPE",
+  "code": "CAMOU",
+  "cn_name": "",
+  "country": "加拿大",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MIRI",
+  "code": "MYMYY",
+  "cn_name": "",
+  "country": "马来西亚",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PORT ELIZABETH,NJ",
+  "code": "USPEB",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MANZANILLO,MEXICO",
+  "code": "MXZLO",
+  "cn_name": "",
+  "country": "墨西哥",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CERHENICE",
+  "code": "CZCRH",
+  "cn_name": "",
+  "country": "捷克",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "AJMAN",
+  "code": "AEAJM",
+  "cn_name": "",
+  "country": "阿联酋",
+  "region": "中东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MEXICO CITY",
+  "code": "MXMEX",
+  "cn_name": "",
+  "country": "墨西哥",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SUEZ",
+  "code": "EGSUE",
+  "cn_name": "",
+  "country": "埃及",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "HUNTINGTON",
+  "code": "USHUN",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美西",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SAN JUAN",
+  "code": "PRSJU",
+  "cn_name": "",
+  "country": "波多黎各",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PIRAEUS",
+  "code": "GRPIR",
+  "cn_name": "",
+  "country": "希腊",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "EVYAP PT",
+  "code": "TREYP",
+  "cn_name": "",
+  "country": "土耳其",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BELGRADE",
+  "code": "RSBEL",
+  "cn_name": "",
+  "country": "塞尔维亚",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "HEBRON, KY",
+  "code": "USHBN",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "RIO GRANDE",
+  "code": "BRRIG",
+  "cn_name": "",
+  "country": "巴西",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TRUSSVILLE",
+  "code": "USTRU",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SAO PAULO",
+  "code": "BRSPA",
+  "cn_name": "",
+  "country": "巴西",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "NOVOROSSIYSK",
+  "code": "RUNVS",
+  "cn_name": "",
+  "country": "俄罗斯",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "LAS VEGAS",
+  "code": "USLAS",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MARSEILLETTE",
+  "code": "FRMET",
+  "cn_name": "",
+  "country": "法国",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TEMA",
+  "code": "GHTEM",
+  "cn_name": "",
+  "country": "加纳",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BALTIMORE,MD",
+  "code": "USBAL",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BEIRA",
+  "code": "MZBEW",
+  "cn_name": "",
+  "country": "莫桑比克",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "KAOHSIUNG",
+  "code": "TWKHH",
+  "cn_name": "",
+  "country": "台湾",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "VITORIA",
+  "code": "BRVIX",
+  "cn_name": "",
+  "country": "巴西",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PHOENIX",
+  "code": "USPHO",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TUNIS",
+  "code": "TNTUN",
+  "cn_name": "",
+  "country": "突尼斯",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CEBU",
+  "code": "PHCEB",
+  "cn_name": "",
+  "country": "菲律宾",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "AMSTERDAM",
+  "code": "NLAMS",
+  "cn_name": "",
+  "country": "荷兰",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PORT MORESBY",
+  "code": "PGPOM",
+  "cn_name": "",
+  "country": "巴布亚新几内亚",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SUVA",
+  "code": "FJSUV",
+  "cn_name": "萨瓦",
+  "country": "斐济群岛",
+  "region": "澳新",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BARI",
+  "code": "ITBRI",
+  "cn_name": "",
+  "country": "意大利",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PORT ADELAIDE",
+  "code": "AUPAE",
+  "cn_name": "",
+  "country": "澳大利亚",
+  "region": "澳新",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SAN DIEGO",
+  "code": "USSAN",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BUFFALO",
+  "code": "USBUF",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "DARWIN",
+  "code": "AUDRW",
+  "cn_name": "",
+  "country": "澳大利亚",
+  "region": "澳新",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MELBOURNE",
+  "code": "AUMEL",
+  "cn_name": "",
+  "country": "澳大利亚",
+  "region": "澳新",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "DUNKIRK",
+  "code": "FRDKK",
+  "cn_name": "敦刻尔克",
+  "country": "法国",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ZHAPU",
+  "code": "CNZPU",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PHILADELPHIA,PA",
+  "code": "USPHL",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "COLON FREE ZONE",
+  "code": "PACFZ",
+  "cn_name": "",
+  "country": "巴拿马",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "NORRKOPING",
+  "code": "SENRK",
+  "cn_name": "",
+  "country": "瑞典",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MOBILE,AL",
+  "code": "USMOB",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "JOHANNESBURG",
+  "code": "ZAJBG",
+  "cn_name": "",
+  "country": "南非",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MANAUS",
+  "code": "BRMAO",
+  "cn_name": "",
+  "country": "巴西",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "LAREDO,TX",
+  "code": "USLRD",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ITAGUAI",
+  "code": "BRIGI",
+  "cn_name": "",
+  "country": "巴西",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BLUEFIELD",
+  "code": "USAFL",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "LA SPEZIA",
+  "code": "ITSPE",
+  "cn_name": "",
+  "country": "意大利",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "XIAMEN",
+  "code": "CNXMN",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "NASSAU",
+  "code": "BSNAS",
+  "cn_name": "",
+  "country": "巴哈马",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "LONG BEACH,CA",
+  "code": "USLGB",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美西",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "LINZ",
+  "code": "ATLNZ",
+  "cn_name": "",
+  "country": "奥地利",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "LATTAKIA",
+  "code": "SYLTK",
+  "cn_name": "",
+  "country": "叙利亚",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "IRONDALE",
+  "code": "USIRO",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "KOPER",
+  "code": "SIKOP",
+  "cn_name": "",
+  "country": "斯洛文尼亚",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "NAPLES",
+  "code": "ITNAP",
+  "cn_name": "",
+  "country": "意大利",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "GUATEMALA CITY",
+  "code": "GTGUA",
+  "cn_name": "",
+  "country": "危地马拉",
+  "region": "中美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "POINTE DES GALETS",
+  "code": "REGAL",
+  "cn_name": "",
+  "country": "留尼汪",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MONGLA",
+  "code": "BDMGL",
+  "cn_name": "",
+  "country": "孟加拉",
+  "region": "印巴",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TALLINN",
+  "code": "EETLL",
+  "cn_name": "",
+  "country": "爱沙尼亚",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MUNDRA",
+  "code": "INMUN",
+  "cn_name": "",
+  "country": "印度",
+  "region": "印巴",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "LAGOS",
+  "code": "NGLOS",
+  "cn_name": "",
+  "country": "尼日利亚",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SAN SALVADOR, EL SALVADOR",
+  "code": "SVSAL",
+  "cn_name": "",
+  "country": "萨尔瓦多",
+  "region": "中美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SHERMANS DALE",
+  "code": "USSML",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BRAMPTON",
+  "code": "CABRP",
+  "cn_name": "",
+  "country": "加拿大",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ALEXANDRIA",
+  "code": "EGALY",
+  "cn_name": "",
+  "country": "埃及",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "KAIPUR",
+  "code": "INJPU",
+  "cn_name": "",
+  "country": "印度",
+  "region": "印巴",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CHENNAI",
+  "code": "INMAA",
+  "cn_name": "",
+  "country": "印度",
+  "region": "印巴",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TALCAHUANO",
+  "code": "CLTAL",
+  "cn_name": "",
+  "country": "智利",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "NEW YORK,NY",
+  "code": "USNYC",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PYONGTAEK",
+  "code": "KRPYO",
+  "cn_name": "",
+  "country": "韩国",
+  "region": "韩国线",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "HELSINGBORG",
+  "code": "SEHEL",
+  "cn_name": "",
+  "country": "瑞典",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "POCAHONTAS",
+  "code": "USPXH",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "RIYADH",
+  "code": "SARUH",
+  "cn_name": "",
+  "country": "沙特阿拉伯",
+  "region": "中东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TACOMA,WA",
+  "code": "USTAC",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美西",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CALDERA",
+  "code": "CRCAL",
+  "cn_name": "",
+  "country": "哥斯达黎加",
+  "region": "中美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BASEL",
+  "code": "CHBSL",
+  "cn_name": "",
+  "country": "瑞士",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "COIMBATORE",
+  "code": "INCJB",
+  "cn_name": "",
+  "country": "印度",
+  "region": "印巴",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "KHALIFA",
+  "code": "KHALI",
+  "cn_name": "",
+  "country": "阿联酋",
+  "region": "中东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ST. GEORGE'S",
+  "code": "BMSGE",
+  "cn_name": "",
+  "country": "百慕大",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BEIRUT",
+  "code": "LBBEY",
+  "cn_name": "",
+  "country": "黎巴嫩",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MUARA",
+  "code": "BNMUH",
+  "cn_name": "",
+  "country": "文莱",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SAMSUN",
+  "code": "TRSSX",
+  "cn_name": "",
+  "country": "土耳其",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ABBOTSFORD",
+  "code": "CAABD",
+  "cn_name": "ABBOTSFORD",
+  "country": "加拿大",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "GABORONE",
+  "code": "BWGBE",
+  "cn_name": "",
+  "country": "博茨瓦纳",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "NAIROBI",
+  "code": "KENBO",
+  "cn_name": "",
+  "country": "肯尼亚",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "QASIM INTERNATIONAL  CONTAINER TERMINAL/KARACHI",
+  "code": "PKQCT",
+  "cn_name": "",
+  "country": "巴基斯坦",
+  "region": "中东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "DOHA",
+  "code": "QADOH",
+  "cn_name": "",
+  "country": "卡塔尔",
+  "region": "中东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "NHAVA SHEVA",
+  "code": "INNSA",
+  "cn_name": "那瓦什瓦",
+  "country": "印度",
+  "region": "印巴",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "EDMONTON",
+  "code": "CAEDM",
+  "cn_name": "",
+  "country": "加拿大",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "HUANGPU",
+  "code": "CNHUA",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "NITRO",
+  "code": "USNIT",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美西",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ORAN",
+  "code": "DZORN",
+  "cn_name": "",
+  "country": "阿尔及利亚",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "INVERCARGILL",
+  "code": "NZINV",
+  "cn_name": "",
+  "country": "新西兰",
+  "region": "澳新",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "KUCHING",
+  "code": "MYKCH",
+  "cn_name": "",
+  "country": "马来西亚",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "FREDRIKSTAD",
+  "code": "NOFRK",
+  "cn_name": "",
+  "country": "挪威",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "EL GUAMACHE",
+  "code": "VEEGU",
+  "cn_name": "",
+  "country": "委内瑞拉",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BANGALORE",
+  "code": "INBLR",
+  "cn_name": "",
+  "country": "印度",
+  "region": "印巴",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "KATOWICE",
+  "code": "PLKTW",
+  "cn_name": "",
+  "country": "波兰",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MUUGA",
+  "code": "MUUGA",
+  "cn_name": "",
+  "country": "毛里求斯",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BRISBANE",
+  "code": "AUBNE",
+  "cn_name": "",
+  "country": "澳大利亚",
+  "region": "澳新",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "FUKUYAMA",
+  "code": "JPFUK",
+  "cn_name": "",
+  "country": "日本",
+  "region": "日本偏港",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "HAMBURG",
+  "code": "DEHAM",
+  "cn_name": "",
+  "country": "德国",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SOUTH GATE",
+  "code": "USSGC",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美西",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "WAUSAU",
+  "code": "USAUW",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美西",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "KOBE",
+  "code": "JPKOB",
+  "cn_name": "",
+  "country": "日本",
+  "region": "日本基本港",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "THORNTON",
+  "code": "USTHN",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PALEMBANG",
+  "code": "IDPAL",
+  "cn_name": "巨港",
+  "country": "印尼",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TOMAKOMAI",
+  "code": "JPTMK",
+  "cn_name": "",
+  "country": "日本",
+  "region": "日本偏港",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MANILA NORTH HARBOR",
+  "code": "PHMNN",
+  "cn_name": "",
+  "country": "菲律宾",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SOUTHAMPTON",
+  "code": "GBSOU",
+  "cn_name": "",
+  "country": "英国",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CHANGSHA",
+  "code": "CNCSX",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PANAMA CITY,FL",
+  "code": "USPEN",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "FENIX",
+  "code": "PY004",
+  "cn_name": "",
+  "country": "巴拉圭",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PORT KLANG",
+  "code": "MYPKG",
+  "cn_name": "",
+  "country": "马来西亚",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SALERNO",
+  "code": "ITSAL",
+  "cn_name": "",
+  "country": "意大利",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SHERMAN OAKS",
+  "code": "USSJJ",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MILWAUKEE,WI",
+  "code": "USMKE",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ANNABA",
+  "code": "DZAAE",
+  "cn_name": "ANNABA",
+  "country": "阿尔及利亚",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "DOUMEN",
+  "code": "CNDOU",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "WEST HOMESTEAD",
+  "code": "USYWE",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美西",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "WABASSO",
+  "code": "USWBA",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PECEM",
+  "code": "BRPEC",
+  "cn_name": "",
+  "country": "巴西",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BAKERSFIELD",
+  "code": "USBFL",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美西",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TULARE",
+  "code": "USTLR",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PRAIA",
+  "code": "ACPRA",
+  "cn_name": "普拉亚",
+  "country": "佛得角",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BIRMINGHAM,AL",
+  "code": "USBHM",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BEROUN",
+  "code": "CZBER",
+  "cn_name": "",
+  "country": "捷克",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SCRANTON,PA",
+  "code": "USSCR",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "LUDWIGSHAFEN",
+  "code": "DELWH",
+  "cn_name": "",
+  "country": "德国",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "KOTKA",
+  "code": "FIKTK",
+  "cn_name": "",
+  "country": "芬兰",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "HAIPHONG",
+  "code": "SBHHG",
+  "cn_name": "",
+  "country": "所罗门群岛",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MALMO",
+  "code": "SEMMA",
+  "cn_name": "",
+  "country": "瑞典",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "HAIFA",
+  "code": "ILHFA",
+  "cn_name": "",
+  "country": "以色列",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "HATFIELD,PA",
+  "code": "USHAT",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "DRAMMEN",
+  "code": "NODRM",
+  "cn_name": "",
+  "country": "挪威",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MARMAGAO (MARMUGAO)",
+  "code": "INMRM",
+  "cn_name": "",
+  "country": "印度",
+  "region": "印巴",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "WEST CONSHOHOCKEN",
+  "code": "USWCK",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "STEUBENVILLE, OH",
+  "code": "USUYJ",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CONAKRY",
+  "code": "GNCKY",
+  "cn_name": "",
+  "country": "几内亚",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ENSENADA",
+  "code": "MXESE",
+  "cn_name": "",
+  "country": "墨西哥",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PASIR GUDANG",
+  "code": "MYPGG",
+  "cn_name": "",
+  "country": "马来西亚",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "LEIXOES",
+  "code": "PTLEI",
+  "cn_name": "",
+  "country": "葡萄牙",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SIAM CONTAINER TERMINAL",
+  "code": "THSCT",
+  "cn_name": "",
+  "country": "泰国",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "WILLEMSTAD",
+  "code": "ANWIL",
+  "cn_name": "",
+  "country": "AN",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CAACUPE MI",
+  "code": "PY001",
+  "cn_name": "",
+  "country": "巴拉圭",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MERIDIAN",
+  "code": "USMJA",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TERPORT",
+  "code": "PYTER",
+  "cn_name": "",
+  "country": "巴拉圭",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "KOLKATA",
+  "code": "INCCU",
+  "cn_name": "",
+  "country": "印度",
+  "region": "印巴",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "JEDDAH",
+  "code": "SAJED",
+  "cn_name": "",
+  "country": "沙特阿拉伯",
+  "region": "红海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "DA NANG",
+  "code": "VNDAD",
+  "cn_name": "",
+  "country": "越南",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BUSHEHR",
+  "code": "IRBUZ",
+  "cn_name": "",
+  "country": "伊朗",
+  "region": "中东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MANILA SOUTH HARBOR",
+  "code": "PHMNS",
+  "cn_name": "",
+  "country": "菲律宾",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "NAPIER",
+  "code": "NZNAP",
+  "cn_name": "",
+  "country": "新西兰",
+  "region": "澳新",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "DALLAS,TX",
+  "code": "USDAL",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "NINGBO",
+  "code": "CNNGB",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SHUAIBA",
+  "code": "KWSAA",
+  "cn_name": "",
+  "country": "科威特",
+  "region": "中东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "WUHU",
+  "code": "CNWHI",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MAPUTO",
+  "code": "MZMAP",
+  "cn_name": "马普托",
+  "country": "莫桑比克",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "DUSSELDORF",
+  "code": "DEDLD",
+  "cn_name": "",
+  "country": "德国",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "KABWE",
+  "code": "ZMKAB",
+  "cn_name": "",
+  "country": "赞比亚",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "GIJON",
+  "code": "ESGIJ",
+  "cn_name": "",
+  "country": "西班牙",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MARSAXLOKK",
+  "code": "MTMAR",
+  "cn_name": "",
+  "country": "马耳他",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ALGECIRAS",
+  "code": "ESALG",
+  "cn_name": "",
+  "country": "西班牙",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CZECH REPUBLIC",
+  "code": "CZCZE",
+  "cn_name": "",
+  "country": "捷克",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BOGOTÁ",
+  "code": "COBOG",
+  "cn_name": "",
+  "country": "哥伦比亚",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "KALININGRAD",
+  "code": "RUKAL",
+  "cn_name": "加里宁格勒",
+  "country": "俄罗斯",
+  "region": "波罗的海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MALE",
+  "code": "MVMLE",
+  "cn_name": "",
+  "country": "马尔代夫",
+  "region": "中东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SAN PEDRO",
+  "code": "USSPQ",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美西",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PLAINFIELD,IN",
+  "code": "USPLF",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "JEBEL ALI FREE ZONE",
+  "code": "AEJAF",
+  "cn_name": "",
+  "country": "阿联酋",
+  "region": "中东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "JIANGMEN",
+  "code": "CNJMN",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "FREE PORT",
+  "code": "BSFPO",
+  "cn_name": "",
+  "country": "巴哈马",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ONNE",
+  "code": "NGONN",
+  "cn_name": "",
+  "country": "尼日利亚",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PATPARGANJ",
+  "code": "INPPG",
+  "cn_name": "",
+  "country": "印度",
+  "region": "印巴",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PUERTO QUETZAL",
+  "code": "GTPQL",
+  "cn_name": "",
+  "country": "危地马拉",
+  "region": "中美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ST BARTH",
+  "code": "CASBR",
+  "cn_name": "",
+  "country": "加拿大",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "LABUAN",
+  "code": "MYLBU",
+  "cn_name": "",
+  "country": "马来西亚",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PORTLAND,OR",
+  "code": "USPDX",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美西",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "KANDLA",
+  "code": "INIXY",
+  "cn_name": "",
+  "country": "印度",
+  "region": "印巴",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ZANZIBAR",
+  "code": "TZZAI",
+  "cn_name": "桑给巴尔",
+  "country": "坦桑尼亚",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "APAPA",
+  "code": "NGAPP",
+  "cn_name": "",
+  "country": "尼日利亚",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "QASIMABAD",
+  "code": "PKQSM",
+  "cn_name": "",
+  "country": "巴基斯坦",
+  "region": "中东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "GUAM",
+  "code": "GUGUM",
+  "cn_name": "",
+  "country": "美国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "VILNIUS",
+  "code": "LTVIL",
+  "cn_name": "",
+  "country": "立陶宛",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "HAMINA",
+  "code": "FIHMN",
+  "cn_name": "",
+  "country": "芬兰",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "LIANYUNGANG",
+  "code": "CNLYG",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BELAWAN",
+  "code": "IDBLW",
+  "cn_name": "",
+  "country": "印尼",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "COMPTON",
+  "code": "USCOM",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MONTERREY",
+  "code": "MXMTY",
+  "cn_name": "蒙特雷",
+  "country": "墨西哥",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "VLADIVOSTOK",
+  "code": "RUVVO",
+  "cn_name": "海参崴",
+  "country": "俄罗斯",
+  "region": "波罗的海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SODERTALJE",
+  "code": "SESOE",
+  "cn_name": "",
+  "country": "瑞典",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "YANTIAN",
+  "code": "CNYTN",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "KANSAS CITY,MO",
+  "code": "USMKC",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PLOCE",
+  "code": "HRPLE",
+  "cn_name": "",
+  "country": "克罗地亚",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SANTOS",
+  "code": "BRSSZ",
+  "cn_name": "",
+  "country": "巴西",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PAPEETE",
+  "code": "PFPAP",
+  "cn_name": "",
+  "country": "法属波利尼西亚",
+  "region": "南太平洋",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "LAT KRABANG",
+  "code": "THLKR",
+  "cn_name": "",
+  "country": "泰国",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "HOUSTON,TX",
+  "code": "USHOU",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "HO CHI MINH CITY",
+  "code": "VNSGN",
+  "cn_name": "",
+  "country": "越南",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "AHUS",
+  "code": "SEAHU",
+  "cn_name": "",
+  "country": "瑞典",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "VIGO",
+  "code": "ESVGO",
+  "cn_name": "",
+  "country": "西班牙",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MINNEAPOLIS,MN",
+  "code": "USMES",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "GUANGZHOU",
+  "code": "CNCAN",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "OTAKE",
+  "code": "OTAKE",
+  "cn_name": "大竹",
+  "country": "日本",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PONTOTOC",
+  "code": "USPOK",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "OMAHA,NE",
+  "code": "USOMA",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SINGAPORE",
+  "code": "SGSIN",
+  "cn_name": "",
+  "country": "新加坡",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "COPENHAGEN",
+  "code": "DKCPH",
+  "cn_name": "",
+  "country": "丹麦",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "NEWARK,NJ",
+  "code": "USNWK",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CASTRIES,ST.LUCIA",
+  "code": "LCCSS",
+  "cn_name": "",
+  "country": "多米尼加",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "WELLINGTON",
+  "code": "NZWLG",
+  "cn_name": "",
+  "country": "新西兰",
+  "region": "澳新",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "AUSTIN",
+  "code": "USASQ",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美西",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "NANSHA",
+  "code": "CNNSA",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "WAUSAUKEE",
+  "code": "USUSU",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美西",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "WARSAW",
+  "code": "PLWAR",
+  "cn_name": "",
+  "country": "波兰",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BEJAIA",
+  "code": "DZBJA",
+  "cn_name": "",
+  "country": "阿尔及利亚",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PARAMARIBO",
+  "code": "SRPBO",
+  "cn_name": "",
+  "country": "苏里南",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SAO FRANCISCO DO SUL",
+  "code": "BRSFS",
+  "cn_name": "",
+  "country": "巴西",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "DENVER, CO",
+  "code": "USDEN",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "IZMIR",
+  "code": "TRIZM",
+  "cn_name": "",
+  "country": "土耳其",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MODRICE",
+  "code": "CZMOD",
+  "cn_name": "",
+  "country": "捷克",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "USHUAIA",
+  "code": "ARUSH",
+  "cn_name": "",
+  "country": "阿根廷",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PRAIA",
+  "code": "CVRAI",
+  "cn_name": "",
+  "country": "佛得角",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ZARATE",
+  "code": "ARZAE",
+  "cn_name": "",
+  "country": "阿根廷",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TSURUGA",
+  "code": "JPTGA",
+  "cn_name": "敦贺",
+  "country": "日本",
+  "region": "日本偏港",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ADEN",
+  "code": "YEADE",
+  "cn_name": "",
+  "country": "也门",
+  "region": "红海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "OSAKA",
+  "code": "JPOSA",
+  "cn_name": "",
+  "country": "日本",
+  "region": "日本基本港",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "XIAOLAN",
+  "code": "CNXIL",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CUDAHY,CA",
+  "code": "USCUY",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "VARNA",
+  "code": "BGVAR",
+  "cn_name": "",
+  "country": "保加利亚",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "VERACRUZ",
+  "code": "MXVER",
+  "cn_name": "",
+  "country": "墨西哥",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "WINSTON SALEM",
+  "code": "USINT",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CLEVELAND,OH",
+  "code": "USCLE",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BARCELONA",
+  "code": "ESBCN",
+  "cn_name": "",
+  "country": "西班牙",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "FALL RIVER",
+  "code": "USFAZ",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美西",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "NANCHANG",
+  "code": "CNKHN",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "JIANGYING",
+  "code": "CNJIA",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TARANTO",
+  "code": "ITTAR",
+  "cn_name": "",
+  "country": "意大利",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PUERTO DE ROSARION",
+  "code": "PTDRO",
+  "cn_name": "",
+  "country": "阿根廷",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BUSAN",
+  "code": "KRBUS",
+  "cn_name": "",
+  "country": "韩国",
+  "region": "韩国线",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "COLUMBIA,SC",
+  "code": "USCAE",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MIAMI,FL",
+  "code": "USMIA",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "NEW DELHI",
+  "code": "INZDE",
+  "cn_name": "",
+  "country": "印度",
+  "region": "印巴",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "DURBAN",
+  "code": "ZADUR",
+  "cn_name": "",
+  "country": "南非",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "HO CHI MINH (NEW PORT)",
+  "code": "VNHCM",
+  "cn_name": "",
+  "country": "越南",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SANDAKAN",
+  "code": "MYSDK",
+  "cn_name": "",
+  "country": "马来西亚",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MANAGUA",
+  "code": "NIMGA",
+  "cn_name": "",
+  "country": "尼加拉瓜",
+  "region": "中美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "COCHIN",
+  "code": "INCOC",
+  "cn_name": "",
+  "country": "印度",
+  "region": "印巴",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "YICHANG PORT",
+  "code": "YCHPT",
+  "cn_name": "宜昌",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BANJARMASIN",
+  "code": "IDBAJ",
+  "cn_name": "马辰",
+  "country": "印尼",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "LYTTLETON",
+  "code": "NZLYL",
+  "cn_name": "",
+  "country": "新西兰",
+  "region": "澳新",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "HO CHI MINH (V.I.C.T)",
+  "code": "VNVIC",
+  "cn_name": "",
+  "country": "越南",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TAMPA,FL",
+  "code": "USTPA",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SPRINGFIELD, TN",
+  "code": "USSRG",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SFAX",
+  "code": "TNSFA",
+  "cn_name": "",
+  "country": "突尼斯",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MUHAMMAD BIN QASIM/KARACHI",
+  "code": "PKBQM",
+  "cn_name": "",
+  "country": "巴基斯坦",
+  "region": "中东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "UST LUGA",
+  "code": "RUUST",
+  "cn_name": "",
+  "country": "俄罗斯",
+  "region": "波罗的海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "YANGON",
+  "code": "MMRGN",
+  "cn_name": "",
+  "country": "缅甸",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "THESSALONIKI",
+  "code": "GRSKG",
+  "cn_name": "",
+  "country": "希腊",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TIZAYUCA",
+  "code": "MXTIZ",
+  "cn_name": "",
+  "country": "墨西哥",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "THOMASVILLE,GA",
+  "code": "USTVI",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "VISAKHAPATNAM",
+  "code": "INVTZ",
+  "cn_name": "",
+  "country": "印度",
+  "region": "印巴",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BRNO",
+  "code": "CZBRQ",
+  "cn_name": "",
+  "country": "捷克",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TANGA",
+  "code": "TZTAN",
+  "cn_name": "",
+  "country": "坦桑尼亚",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "JAWAHARLAL NEHRU",
+  "code": "JAWAH",
+  "cn_name": "杰瓦哈瑞尔纳布",
+  "country": "印度",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PARANAGUA",
+  "code": "BRPNG",
+  "cn_name": "",
+  "country": "巴西",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CORONEL",
+  "code": "CLCNL",
+  "cn_name": "",
+  "country": "智利",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CHARLOTTE,NC",
+  "code": "USCLT",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "AL KOMS",
+  "code": "LYKHO",
+  "cn_name": "",
+  "country": "利比亚",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "INDIANAPOLIS",
+  "code": "USIND",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "AUSTIN",
+  "code": "USXBJ",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美西",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "KHOR AL FAKKAN",
+  "code": "AEKLF",
+  "cn_name": "",
+  "country": "阿联酋",
+  "region": "中东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "KINGSTON",
+  "code": "JMKIN",
+  "cn_name": "",
+  "country": "牙买加",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "LAUNCESTON",
+  "code": "AULST",
+  "cn_name": "",
+  "country": "澳大利亚",
+  "region": "澳新",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "KARACHI",
+  "code": "PKKHI",
+  "cn_name": "",
+  "country": "巴基斯坦",
+  "region": "印巴",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "UMM QASR",
+  "code": "IQUQR",
+  "cn_name": "",
+  "country": "伊拉克",
+  "region": "中东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PORT LOUIS",
+  "code": "MUPLO",
+  "cn_name": "",
+  "country": "毛里求斯",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ANTOFAGASTA",
+  "code": "CLANF",
+  "cn_name": "",
+  "country": "智利",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "RIGA",
+  "code": "LVRIX",
+  "cn_name": "",
+  "country": "拉脱维亚",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SEMARANG",
+  "code": "IDSEM",
+  "cn_name": "",
+  "country": "印尼",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "YANGZHOU",
+  "code": "CNYZH",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CATANIA",
+  "code": "ITCTA",
+  "cn_name": "",
+  "country": "意大利",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "VALENCIA",
+  "code": "ESVLC",
+  "cn_name": "",
+  "country": "西班牙",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "HAKATA",
+  "code": "FPHKA",
+  "cn_name": "",
+  "country": "日本",
+  "region": "东南亚线",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "JAKARTA",
+  "code": "IDJAK",
+  "cn_name": "",
+  "country": "印尼",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ELK GROVE VILLAGE",
+  "code": "USEVI",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "LOME",
+  "code": "TGLOM",
+  "cn_name": "",
+  "country": "多哥",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "STAVANGER",
+  "code": "NOSVG",
+  "cn_name": "",
+  "country": "挪威",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "KHOR FAKKAN",
+  "code": "AEKFA",
+  "cn_name": "法坎",
+  "country": "阿联酋",
+  "region": "中东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "LAEM CHABANG",
+  "code": "THLCH",
+  "cn_name": "",
+  "country": "泰国",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TIMARU",
+  "code": "NZTIM",
+  "cn_name": "",
+  "country": "新西兰",
+  "region": "澳新",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "KIGALI",
+  "code": "RWKGL",
+  "cn_name": "",
+  "country": "卢旺达",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "DAMMAN",
+  "code": "SADAM",
+  "cn_name": "",
+  "country": "沙特阿拉伯",
+  "region": "中东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "WUHAN",
+  "code": "CNWHN",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "NORFOLK,VA",
+  "code": "USORF",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BENGHAZI",
+  "code": "BGHAZ",
+  "cn_name": "",
+  "country": "利比亚",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TAWAU",
+  "code": "MYTWU",
+  "cn_name": "",
+  "country": "马来西亚",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PORT REUNION",
+  "code": "RERUN",
+  "cn_name": "",
+  "country": "",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "FALL RIVER-NEW BEDFORD APT",
+  "code": "USEWB",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美西",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BANDAR IMAM KHOMEINI",
+  "code": "IRBKH",
+  "cn_name": "",
+  "country": "伊朗",
+  "region": "中东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "DAMIETTA",
+  "code": "EGDAM",
+  "cn_name": "",
+  "country": "埃及",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "EL PASO,TX",
+  "code": "USELP",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CHIPPEWA FALLS",
+  "code": "USCPF",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美西",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CHARLESTON,SC",
+  "code": "USCHS",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MOJI",
+  "code": "JPMOJ",
+  "cn_name": "门司",
+  "country": "日本",
+  "region": "日本基本港",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "RICHIBUCTO",
+  "code": "CARBT",
+  "cn_name": "",
+  "country": "加拿大",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SHENWAN",
+  "code": "CHSHW",
+  "cn_name": "神湾",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TURKU",
+  "code": "FITKU",
+  "cn_name": "",
+  "country": "芬兰",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "NASHVILLE,TN",
+  "code": "USBNA",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TAISHAN",
+  "code": "CNTIS",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "VANCOUVER,CANADA",
+  "code": "CAVAN",
+  "cn_name": "",
+  "country": "加拿大",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "IZMIT",
+  "code": "TRIZT",
+  "cn_name": "",
+  "country": "土耳其",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ANTALYA",
+  "code": "TRAYT",
+  "cn_name": "",
+  "country": "土耳其",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BALBAO",
+  "code": "INBBA",
+  "cn_name": "",
+  "country": "印度",
+  "region": "印巴",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "WINTER PARK,FL",
+  "code": "USWPK",
+  "cn_name": "WINTER PARK,FL",
+  "country": "美国",
+  "region": "美东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MARSEILLE",
+  "code": "FRMRS",
+  "cn_name": "",
+  "country": "法国",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MOSCOW",
+  "code": "RUMOW",
+  "cn_name": "",
+  "country": "俄罗斯",
+  "region": "波罗的海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CORK",
+  "code": "IEORK",
+  "cn_name": "",
+  "country": "爱尔兰",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SAN VICENTE",
+  "code": "CLSVE",
+  "cn_name": "",
+  "country": "智利",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "DEVONPORT",
+  "code": "AUDPO",
+  "cn_name": "",
+  "country": "澳大利亚",
+  "region": "澳新",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PANTACO",
+  "code": "MXPAN",
+  "cn_name": "",
+  "country": "墨西哥",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "WENZHOU",
+  "code": "CNWNZ",
+  "cn_name": "温州",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "KEELUNG",
+  "code": "TWKEE",
+  "cn_name": "",
+  "country": "台湾",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PORT SAID",
+  "code": "EGPSD",
+  "cn_name": "",
+  "country": "埃及",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ESMERALDAS",
+  "code": "ECESM",
+  "cn_name": "",
+  "country": "厄瓜多尔",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SHENZHEN",
+  "code": "CNSZN",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BELÉM",
+  "code": "PTBML",
+  "cn_name": "",
+  "country": "葡萄牙",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PORT KLANG (FERRY PORT)",
+  "code": "MYXPQ",
+  "cn_name": "",
+  "country": "马来西亚",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "HELSINKI",
+  "code": "FIHEL",
+  "cn_name": "",
+  "country": "芬兰",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MARESEILLE",
+  "code": "FRMAS",
+  "cn_name": "马赛",
+  "country": "法国",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PUERTO LIMON",
+  "code": "CRPLI",
+  "cn_name": "",
+  "country": "哥斯达黎加",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "LUZHOU",
+  "code": "CNLUZ",
+  "cn_name": "泸州",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SPARKS",
+  "code": "USSPM",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SAINT PETERSBURG",
+  "code": "RUSAI",
+  "cn_name": "圣彼得堡",
+  "country": "俄罗斯",
+  "region": "波罗的海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ATLANTA,GA",
+  "code": "USATL",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MONTEVIDEO",
+  "code": "UYMVD",
+  "cn_name": "",
+  "country": "乌拉圭",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "NAVEGANTES",
+  "code": "BRNVT",
+  "cn_name": "",
+  "country": "巴西",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "GRANGEMOUTH",
+  "code": "GBGRG",
+  "cn_name": "",
+  "country": "英国",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MUSCAT",
+  "code": "OMMCT",
+  "cn_name": "",
+  "country": "阿曼",
+  "region": "中东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "KANSAS CITY,KS",
+  "code": "USKCK",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "RANLO,NC",
+  "code": "USRAN",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BANDUNG",
+  "code": "IDBAN",
+  "cn_name": "万隆",
+  "country": "印尼",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MANILA",
+  "code": "PHMNL",
+  "cn_name": "",
+  "country": "菲律宾",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ST JOHN'S",
+  "code": "AGSJO",
+  "cn_name": "",
+  "country": "安提瓜和巴布达",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "LIVERPOOL",
+  "code": "GBLIV",
+  "cn_name": "",
+  "country": "英国",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PORT OF SPAIN",
+  "code": "TTPOS",
+  "cn_name": "",
+  "country": "特立尼达和多巴哥",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "NANTONG",
+  "code": "CNNTG",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ALTON",
+  "code": "USONB",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "RADES",
+  "code": "TNRAD",
+  "cn_name": "雷达斯",
+  "country": "突尼斯",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ZURICH",
+  "code": "CHZRH",
+  "cn_name": "",
+  "country": "瑞士",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MARDAS",
+  "code": "MARTK",
+  "cn_name": "",
+  "country": "土耳其",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MANZANILLO,PANAMA",
+  "code": "PAMIT",
+  "cn_name": "",
+  "country": "巴拿马",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SANTA CRUZ",
+  "code": "BOSAN",
+  "cn_name": "圣克鲁斯",
+  "country": "玻利维亚",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "NIIGATA",
+  "code": "JPNTA",
+  "cn_name": "NIIGATA",
+  "country": "日本",
+  "region": "日本偏港",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MAKASSAR",
+  "code": "IDMAK",
+  "cn_name": "孟加锡",
+  "country": "印尼",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BORDEAUX",
+  "code": "FRBOD",
+  "cn_name": "",
+  "country": "法国",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PRAGUE",
+  "code": "CZPUG",
+  "cn_name": "布拉格",
+  "country": "捷克",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "YUZHNYY",
+  "code": "UAYUZ",
+  "cn_name": "",
+  "country": "乌克兰",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SPARKS",
+  "code": "USSRM",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TORRANCE",
+  "code": "USTOA",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BREMERHAVEN",
+  "code": "DEBRV",
+  "cn_name": "",
+  "country": "德国",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ESSEN",
+  "code": "DEESN",
+  "cn_name": "",
+  "country": "德国",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TRIPOLI",
+  "code": "LYTIP",
+  "cn_name": "",
+  "country": "利比亚",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SAVANNAH,GA",
+  "code": "USSAV",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "WARREN",
+  "code": "USWAM",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SHIDAO",
+  "code": "CNSHD",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "YURA, WAKAYAMA",
+  "code": "JPYUR",
+  "cn_name": "",
+  "country": "日本",
+  "region": "日本偏港",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ABUDHABI",
+  "code": "AEAUH",
+  "cn_name": "",
+  "country": "阿联酋",
+  "region": "中东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "FRANKFURT",
+  "code": "DEFRA",
+  "cn_name": "",
+  "country": "德国",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "KLAIPEDA",
+  "code": "LTKLJ",
+  "cn_name": "",
+  "country": "立陶宛",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BELEM",
+  "code": "BRBEL",
+  "cn_name": "",
+  "country": "巴西",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MIDDLEFIELD",
+  "code": "USQMI",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美西",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CHONGQING",
+  "code": "CNCKG",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PITTSBURGH, PA",
+  "code": "USPIT",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ZHUHAI",
+  "code": "CNZUH",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SACRAMENTO,CA",
+  "code": "USSAC",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "EVYAPAN",
+  "code": "TREVY",
+  "cn_name": "",
+  "country": "土耳其",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "DUBLIN",
+  "code": "IEDUB",
+  "cn_name": "",
+  "country": "爱尔兰",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "WILMINGTON,NC",
+  "code": "USILM",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ASUNCION",
+  "code": "PYASU",
+  "cn_name": "",
+  "country": "巴拉圭",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "POCAHONTAS",
+  "code": "USPHH",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SALVADOR",
+  "code": "BRSAL",
+  "cn_name": "",
+  "country": "巴西",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BELIZE CITY",
+  "code": "BZBZE",
+  "cn_name": "",
+  "country": "伯利兹",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "WINNIPEG,CANADA",
+  "code": "CAWNP",
+  "cn_name": "",
+  "country": "加拿大",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PHNOM PENH",
+  "code": "KHPNH",
+  "cn_name": "",
+  "country": "柬埔寨",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BIZERTE",
+  "code": "TNBIZ",
+  "cn_name": "",
+  "country": "突尼斯",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "KINGSTON,CANADA",
+  "code": "CAKIN",
+  "cn_name": "",
+  "country": "加拿大",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "XINSHA",
+  "code": "CNXNA",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "GLASGOW",
+  "code": "GBGLW",
+  "cn_name": "",
+  "country": "英国",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MARIEVILLE",
+  "code": "CAMAR",
+  "cn_name": "",
+  "country": "加拿大",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SANTO TOMAS DE CASTILLA",
+  "code": "GTSTC",
+  "cn_name": "",
+  "country": "危地马拉",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ULSAN",
+  "code": "KRUSN",
+  "cn_name": "",
+  "country": "韩国",
+  "region": "韩国线",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "HARARE",
+  "code": "ZWHRE",
+  "cn_name": "",
+  "country": "津巴布韦",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CARTAGENA",
+  "code": "COCTG",
+  "cn_name": "",
+  "country": "哥伦比亚",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "WASILLA",
+  "code": "USWWA",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MONTGOMERY,AL",
+  "code": "USMGM",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MIZUSHIMA",
+  "code": "JPMIZ",
+  "cn_name": "水岛",
+  "country": "日本",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "FREMANTLE",
+  "code": "AUFRE",
+  "cn_name": "",
+  "country": "澳大利亚",
+  "region": "澳新",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MOMBASA",
+  "code": "KEMBA",
+  "cn_name": "",
+  "country": "肯尼亚",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MONTREAL,CANADA",
+  "code": "CAMTR",
+  "cn_name": "",
+  "country": "加拿大",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SPARTANBURG",
+  "code": "USSPA",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "FORT SMITH",
+  "code": "USFSM",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MACAU",
+  "code": "MOMAC",
+  "cn_name": "",
+  "country": "澳门",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "VOSTOCHNYY PORT",
+  "code": "RUVYP",
+  "cn_name": "东方港",
+  "country": "俄罗斯",
+  "region": "波罗的海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "HULL",
+  "code": "GBHUL",
+  "cn_name": "",
+  "country": "英国",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ACAJUTLA",
+  "code": "SVAQJ",
+  "cn_name": "",
+  "country": "萨尔瓦多",
+  "region": "中美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "AUCKLAND",
+  "code": "NZAUC",
+  "cn_name": "",
+  "country": "新西兰",
+  "region": "澳新",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ST. LOUIS,IL",
+  "code": "USSLX",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TAICHUNG",
+  "code": "TWTXG",
+  "cn_name": "",
+  "country": "台湾",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "JINGZHOU",
+  "code": "CNJNZ",
+  "cn_name": "荆州",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "DAKAR",
+  "code": "SNDAK",
+  "cn_name": "",
+  "country": "塞内加尔",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BUENAVENTURA",
+  "code": "COBUN",
+  "cn_name": "",
+  "country": "哥伦比亚",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "DOUALA",
+  "code": "CMDLA",
+  "cn_name": "",
+  "country": "喀麦隆",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "POMONA",
+  "code": "USPQC",
+  "cn_name": "波莫纳",
+  "country": "美国",
+  "region": "美西",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "LOBITO",
+  "code": "AOLOB",
+  "cn_name": "",
+  "country": "安哥拉",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ABU DHABI",
+  "code": "AEABD",
+  "cn_name": "阿布扎比",
+  "country": "阿联酋",
+  "region": "中东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BREMEN",
+  "code": "DEBRE",
+  "cn_name": "",
+  "country": "德国",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ARICA",
+  "code": "CLARI",
+  "cn_name": "",
+  "country": "智利",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "WINDSOR",
+  "code": "CAWND",
+  "cn_name": "",
+  "country": "加拿大",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CORINTO",
+  "code": "NICIO",
+  "cn_name": "",
+  "country": "尼加拉瓜",
+  "region": "中美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "NOUAKCHOTT",
+  "code": "MRNKC",
+  "cn_name": "",
+  "country": "毛里塔尼亚",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BROWNSVILLE",
+  "code": "USBRO",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BERBERA",
+  "code": "SOBER",
+  "cn_name": "",
+  "country": "索马里",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "AU PRINCE",
+  "code": "AUPCE",
+  "cn_name": "",
+  "country": "海地",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "LOS ANGELES,CA",
+  "code": "USLAX",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美西",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "GENERAL SANTOS",
+  "code": "PHGES",
+  "cn_name": "",
+  "country": "菲律宾",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SUAPE",
+  "code": "BRSUA",
+  "cn_name": "",
+  "country": "巴西",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MEMPHIS,TN",
+  "code": "USMEM",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CAMPDEN PARK",
+  "code": "VCCRP",
+  "cn_name": "",
+  "country": "圣文森特和格林纳丁斯",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ABIDJAN",
+  "code": "CIABI",
+  "cn_name": "",
+  "country": "科特迪瓦",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BLADENSBURG",
+  "code": "USBLA",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ROTTERDAM",
+  "code": "NLRTM",
+  "cn_name": "",
+  "country": "荷兰",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ZHANJIANG",
+  "code": "CNZHA",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MACON",
+  "code": "USMCN",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MERIDIAN",
+  "code": "USMZA",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CATAGENA",
+  "code": "CATAG",
+  "cn_name": "",
+  "country": "加拿大",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PENANG",
+  "code": "MYPEN",
+  "cn_name": "",
+  "country": "马来西亚",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "LARVIK",
+  "code": "NOLAR",
+  "cn_name": "",
+  "country": "挪威",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "DUESSELDORF",
+  "code": "GEDUS",
+  "cn_name": "",
+  "country": "格鲁吉亚",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TOKYO",
+  "code": "JPTOK",
+  "cn_name": "",
+  "country": "日本",
+  "region": "日本基本港",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SAKATA",
+  "code": "JPSKT",
+  "cn_name": "酒田",
+  "country": "日本",
+  "region": "日本基本港",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "VENICE",
+  "code": "ITJVN",
+  "cn_name": "",
+  "country": "意大利",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "YUEYANG",
+  "code": "CNYUY",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BELCAMP",
+  "code": "USBEJ",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美西",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BANGKOK",
+  "code": "THBKK",
+  "cn_name": "",
+  "country": "泰国",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TOWNSVILLE",
+  "code": "AUSTV",
+  "cn_name": "",
+  "country": "澳大利亚",
+  "region": "澳新",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "POCAHONTAS",
+  "code": "USPOH",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CONSTANTA",
+  "code": "ROCND",
+  "cn_name": "",
+  "country": "罗马尼亚",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SANTA MARTA",
+  "code": "COSMR",
+  "cn_name": "",
+  "country": "哥伦比亚",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MOMBASA",
+  "code": "KEMOM",
+  "cn_name": "蒙巴萨",
+  "country": "肯尼亚",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "HALDIA",
+  "code": "INHAL",
+  "cn_name": "",
+  "country": "印度",
+  "region": "印巴",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PONTIANAK",
+  "code": "IDPNK",
+  "cn_name": "",
+  "country": "印尼",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MINA SULTAN QABOOS, MUSCAT",
+  "code": "OMSTQ",
+  "cn_name": "",
+  "country": "阿曼",
+  "region": "中东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "LYON",
+  "code": "FRLIO",
+  "cn_name": "",
+  "country": "法国",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SEATTLE,WA",
+  "code": "USSEA",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美西",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "DORAL",
+  "code": "USDOR",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MINSK",
+  "code": "BYMIN",
+  "cn_name": "",
+  "country": "白俄罗斯",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ICD GARHI HARSARU",
+  "code": "INGHR",
+  "cn_name": "",
+  "country": "印度",
+  "region": "印巴",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "YANTAI",
+  "code": "CNYNT",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "RED DEER",
+  "code": "CAYQF",
+  "cn_name": "",
+  "country": "加拿大",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PRINCE RUPERT",
+  "code": "CAPRR",
+  "cn_name": "",
+  "country": "加拿大",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MISURATA",
+  "code": "LYMRA",
+  "cn_name": "",
+  "country": "利比亚",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ITAPOA",
+  "code": "BRIOA",
+  "cn_name": "伊塔帕",
+  "country": "巴西",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "FANG CHENG",
+  "code": "CNFAN",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PALMERSTON NORTH",
+  "code": "NZPMR",
+  "cn_name": "",
+  "country": "新西兰",
+  "region": "澳新",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SAN JOSE",
+  "code": "CRSJO",
+  "cn_name": "",
+  "country": "哥斯达黎加",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TAICHUNG",
+  "code": "TWTCH",
+  "cn_name": "",
+  "country": "台湾",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SHEKOU",
+  "code": "CNSHK",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ICD TUGHLAKABAD",
+  "code": "INTKD",
+  "cn_name": "",
+  "country": "印度",
+  "region": "印巴",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "HONIARA, GUADALCANAL IS",
+  "code": "SBHIR",
+  "cn_name": "",
+  "country": "所罗门群岛",
+  "region": "中美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "REYKJAVIK",
+  "code": "REILD",
+  "cn_name": "",
+  "country": "冰岛",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "KUANTAN",
+  "code": "MYQUA",
+  "cn_name": "",
+  "country": "马来西亚",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "AL ADABIYAH",
+  "code": "EGADA",
+  "cn_name": "",
+  "country": "埃及",
+  "region": "红海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "IMBITUBA",
+  "code": "BRIBB",
+  "cn_name": "",
+  "country": "巴西",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ROCKFALLS",
+  "code": "USROC",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TRIESTE",
+  "code": "ITTRS",
+  "cn_name": "",
+  "country": "意大利",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SHASHI",
+  "code": "CNSHS",
+  "cn_name": "沙市",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SINES",
+  "code": "PTSNS",
+  "cn_name": "锡尼什",
+  "country": "葡萄牙",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "VIZAG",
+  "code": "INVIZ",
+  "cn_name": "",
+  "country": "印度",
+  "region": "印巴",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SPARKS",
+  "code": "USSPK",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CINCINNATI,OH",
+  "code": "USCVG",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TAISHAN",
+  "code": "CNTSA",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BINTULU",
+  "code": "MYBTU",
+  "cn_name": "",
+  "country": "马来西亚",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BRANTFORD",
+  "code": "CABRN",
+  "cn_name": "",
+  "country": "加拿大",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "COTONOU",
+  "code": "BJCOT",
+  "cn_name": "",
+  "country": "贝宁",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PANJANG",
+  "code": "IDPNJ",
+  "cn_name": "",
+  "country": "马来西亚",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "LA PAZ",
+  "code": "BOLPB",
+  "cn_name": "",
+  "country": "玻利维亚",
+  "region": "中美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "WELLINGTON",
+  "code": "NZWEL",
+  "cn_name": "",
+  "country": "新西兰",
+  "region": "澳新",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "KAMPALA",
+  "code": "UGKAM",
+  "cn_name": "坎帕拉",
+  "country": "乌干达",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BEIJIAO",
+  "code": "CNYQS",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SOFIA",
+  "code": "BGSOF",
+  "cn_name": "",
+  "country": "保加利亚",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SANTIAGO DE CUBA",
+  "code": "CUSAN",
+  "cn_name": "",
+  "country": "古巴",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CASABLANCA",
+  "code": "MACAS",
+  "cn_name": "",
+  "country": "摩洛哥",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "NACALA",
+  "code": "MZMNC",
+  "cn_name": "",
+  "country": "莫桑比克",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "JOLIET",
+  "code": "USJOT",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "WILSON",
+  "code": "USWSO",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SKIKDA",
+  "code": "DZSKI",
+  "cn_name": "",
+  "country": "阿尔及利亚",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TIANJIN",
+  "code": "CNTSN",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "QUERETARO",
+  "code": "MXQRO",
+  "cn_name": "",
+  "country": "墨西哥",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "RONGQI",
+  "code": "CNROQ",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ZHENJIANG",
+  "code": "CNZHE",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "FELIXSTOWE",
+  "code": "GBFXT",
+  "cn_name": "",
+  "country": "英国",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "RAUMA",
+  "code": "FIRAU",
+  "cn_name": "",
+  "country": "芬兰",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "VIENNA",
+  "code": "ATVIE",
+  "cn_name": "",
+  "country": "奥地利",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CLACKAMAS",
+  "code": "USCQX",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SURABAYA",
+  "code": "IDSUB",
+  "cn_name": "",
+  "country": "印尼",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PORT OF SFAX",
+  "code": "PDSFX",
+  "cn_name": "",
+  "country": "突尼斯",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "QUI NHON",
+  "code": "VNQU",
+  "cn_name": "归仁",
+  "country": "越南",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BEIHAI",
+  "code": "CNBHY",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PHILIPSBURG",
+  "code": "SXPHI",
+  "cn_name": "",
+  "country": "荷属圣马丁",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "WAKAYAMA",
+  "code": "JPWAK",
+  "cn_name": "",
+  "country": "日本",
+  "region": "日本偏港",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "DUBAI",
+  "code": "AEDXB",
+  "cn_name": "",
+  "country": "阿联酋",
+  "region": "中东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "OAKLAND,CA",
+  "code": "USOAK",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美西",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BAHRAIN",
+  "code": "BHBAH",
+  "cn_name": "",
+  "country": "巴林",
+  "region": "中东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "LOUISVILLE,KY",
+  "code": "USLUI",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MADRAS",
+  "code": "INMAD",
+  "cn_name": "马德拉斯",
+  "country": "印度",
+  "region": "印巴",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BATON ROUGE, LA",
+  "code": "USBTR",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PORT SUDAN",
+  "code": "SDPSD",
+  "cn_name": "",
+  "country": "苏丹",
+  "region": "红海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ODESSA",
+  "code": "UAODS",
+  "cn_name": "",
+  "country": "乌克兰",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ONAHAMA",
+  "code": "JPONA",
+  "cn_name": "",
+  "country": "日本",
+  "region": "日本偏港",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "FOS",
+  "code": "FRFOS",
+  "cn_name": "",
+  "country": "法国",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "OUAGADOUGOU",
+  "code": "BFOUA",
+  "cn_name": "",
+  "country": "布基纳法索",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "KANAZAWA",
+  "code": "JPKNA",
+  "cn_name": "金泽",
+  "country": "日本",
+  "region": "日本偏港",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "FOSHAN",
+  "code": "CNFOS",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BOWLING GREEN,OH",
+  "code": "USBWO",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ARICA/ENAPU",
+  "code": "CL073",
+  "cn_name": "",
+  "country": "智利",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "KRISTIANSAND",
+  "code": "NOKRS",
+  "cn_name": "",
+  "country": "挪威",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PROGRESO",
+  "code": "MXPGO",
+  "cn_name": "",
+  "country": "墨西哥",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ODESSA,TX",
+  "code": "USODS",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "AUSTIN",
+  "code": "USAUS",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美西",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "DACHAN BAY",
+  "code": "CNJDB",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SAN FRANCISCO,CA",
+  "code": "USSFO",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CHANGZHOU",
+  "code": "CHZCH",
+  "cn_name": "常州",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "GOTHENBURG",
+  "code": "SEGOT",
+  "cn_name": "",
+  "country": "瑞典",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "HAYDARPASA",
+  "code": "TRHAY",
+  "cn_name": "",
+  "country": "土耳其",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "NAGOYA",
+  "code": "JPNAG",
+  "cn_name": "",
+  "country": "日本",
+  "region": "日本基本港",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MACON",
+  "code": "USMO8",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CALCUTTA",
+  "code": "INCCN",
+  "cn_name": "",
+  "country": "印度",
+  "region": "印巴",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "FRESNO,CA",
+  "code": "USFAT",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TEMPLE",
+  "code": "USTPL",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SUNMAN",
+  "code": "USSM3",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TAICANG",
+  "code": "CNTCG",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SHIRAHAMA, WAKAYAMA",
+  "code": "JPSHM",
+  "cn_name": "",
+  "country": "日本",
+  "region": "日本偏港",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CAUCEDO",
+  "code": "DOCAU",
+  "cn_name": "",
+  "country": "多米尼加",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MANCHESTER",
+  "code": "GBMNC",
+  "cn_name": "",
+  "country": "英国",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ROSEAU",
+  "code": "DMRSU",
+  "cn_name": "",
+  "country": "多米尼加",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BUSAN",
+  "code": "KRPUS",
+  "cn_name": "",
+  "country": "韩国",
+  "region": "韩国线",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ORANJESTAD",
+  "code": "AWORJ",
+  "cn_name": "",
+  "country": "阿鲁巴",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "KORSAKOV",
+  "code": "RUKOR",
+  "cn_name": "",
+  "country": "俄罗斯",
+  "region": "波罗的海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "LYTTELTON",
+  "code": "NZLYT",
+  "cn_name": "",
+  "country": "新西兰",
+  "region": "澳新",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MUNCHEM",
+  "code": "DEMUM",
+  "cn_name": "",
+  "country": "德国",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "HALIFAX,NS",
+  "code": "CAHAL",
+  "cn_name": "",
+  "country": "加拿大",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "GDYNIA",
+  "code": "PLGDY",
+  "cn_name": "",
+  "country": "波兰",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MONROVIA",
+  "code": "LRMLW",
+  "cn_name": "",
+  "country": "利比里亚",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "GREENSBURG",
+  "code": "USGRS",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TURLOCK",
+  "code": "ULTLK",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ZEEBRUGGE",
+  "code": "BEZEE",
+  "cn_name": "",
+  "country": "比利时",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "LONGONI",
+  "code": "YTLON",
+  "cn_name": "隆戈尼",
+  "country": "黑山",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "AVCILAR",
+  "code": "TRAVC",
+  "cn_name": "",
+  "country": "土耳其",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TAIZHOU",
+  "code": "CNTIZ",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "YINGKOU",
+  "code": "CNYIN",
+  "cn_name": "营口",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "XINHUI",
+  "code": "CNXIN",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MASERU",
+  "code": "LSMSU",
+  "cn_name": "",
+  "country": "莱索托",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "KATSUURA, WAKAYAMA",
+  "code": "JPKAT",
+  "cn_name": "",
+  "country": "日本",
+  "region": "日本偏港",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "VASTERAS",
+  "code": "SEVST",
+  "cn_name": "",
+  "country": "瑞典",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BALBOA, PANAMA",
+  "code": "PABLB",
+  "cn_name": "",
+  "country": "巴拿马",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "WESTPORT/PORT KLANG",
+  "code": "MYWSP",
+  "cn_name": "",
+  "country": "马来西亚",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BUDAPEST",
+  "code": "HUBUD",
+  "cn_name": "",
+  "country": "匈牙利",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ETIWANDA",
+  "code": "USEFS",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "FONTANA,CA",
+  "code": "USFJO",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MISSISSAUGA",
+  "code": "CAMIS",
+  "cn_name": "",
+  "country": "加拿大",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CHOLOMA",
+  "code": "HNCHO",
+  "cn_name": "",
+  "country": "洪都拉斯",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "DHAKA",
+  "code": "BDDAC",
+  "cn_name": "",
+  "country": "孟加拉",
+  "region": "印巴",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ALTON",
+  "code": "USKLQ",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BATAM",
+  "code": "IDBAT",
+  "cn_name": "巴淡岛",
+  "country": "印尼",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "STAUNTON,VA",
+  "code": "USSHD",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "FORT WORTH",
+  "code": "USFWT",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "GEMLIK",
+  "code": "TRGEM",
+  "cn_name": "",
+  "country": "土耳其",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "JEBEL ALI",
+  "code": "AEJEA",
+  "cn_name": "杰贝阿里",
+  "country": "阿联酋",
+  "region": "中东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SELBY",
+  "code": "BGSLB",
+  "cn_name": "塞尔比",
+  "country": "英国",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "QINGDAO",
+  "code": "CNTAO",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MADRID",
+  "code": "ESMAD",
+  "cn_name": "马德里",
+  "country": "西班牙",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "POTI",
+  "code": "GEPTI",
+  "cn_name": "",
+  "country": "格鲁吉亚",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CONLEY",
+  "code": "USCZU",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美西",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MEJILLONES",
+  "code": "CLMJS",
+  "cn_name": "",
+  "country": "智利",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PUEBLA",
+  "code": "MXPUB",
+  "cn_name": "",
+  "country": "墨西哥",
+  "region": "中美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "GAMBA",
+  "code": "GAGBA",
+  "cn_name": "",
+  "country": "加蓬",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SOHAR",
+  "code": "OMSOH",
+  "cn_name": "",
+  "country": "阿曼",
+  "region": "中东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SIHANOUKVILLE",
+  "code": "KHKOS",
+  "cn_name": "",
+  "country": "柬埔寨",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PIPAVAV",
+  "code": "INPIP",
+  "cn_name": "",
+  "country": "印度",
+  "region": "印巴",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "KUALA SEGAMA",
+  "code": "MYKSG",
+  "cn_name": "",
+  "country": "马来西亚",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SAINT GEORGE'S",
+  "code": "GDSTG",
+  "cn_name": "",
+  "country": "格林纳达",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PLANO",
+  "code": "USPLZ",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "LA GUAIRA",
+  "code": "VELAG",
+  "cn_name": "",
+  "country": "委内瑞拉",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MACON",
+  "code": "USMAC",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CHARLOTTE AMALIE",
+  "code": "VICHA",
+  "cn_name": "",
+  "country": "美属维尔京群岛",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ALAJUELA",
+  "code": "CRAJU",
+  "cn_name": "",
+  "country": "哥斯达黎加",
+  "region": "中美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "OKAWA, WAKAYAMA",
+  "code": "JPOKW",
+  "cn_name": "",
+  "country": "日本",
+  "region": "日本偏港",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SHUNDE",
+  "code": "CNSUD",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "GEORGETOWN,CAYMAN ISLANDS",
+  "code": "KYGEC",
+  "cn_name": "",
+  "country": "开曼群岛",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "HITACHINAKA",
+  "code": "JPHIC",
+  "cn_name": "",
+  "country": "日本",
+  "region": "日本偏港",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "YANGPU",
+  "code": "CNYGP",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ITAJAI",
+  "code": "BRIJI",
+  "cn_name": "",
+  "country": "巴西",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CAGAYAN",
+  "code": "PHCDO",
+  "cn_name": "",
+  "country": "菲律宾",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CONWAY",
+  "code": "USADP",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "HONG KONG",
+  "code": "HKHKG",
+  "cn_name": "",
+  "country": "香港",
+  "region": "中国港口",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "GRANDVIEW WA",
+  "code": "USGRW",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BAR",
+  "code": "MEBAR",
+  "cn_name": "",
+  "country": "黑山",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "FALL RIVER",
+  "code": "USFAV",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美西",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SANTIAGO",
+  "code": "SANCL",
+  "cn_name": "",
+  "country": "智利",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TANJUNG PELEPAS",
+  "code": "MYTPP",
+  "cn_name": "",
+  "country": "马来西亚",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "KUNSAN",
+  "code": "KUNSA",
+  "cn_name": "群山",
+  "country": "韩国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "KUWAIT",
+  "code": "KWKWI",
+  "cn_name": "",
+  "country": "科威特",
+  "region": "中东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MATARANI",
+  "code": "PEMRI",
+  "cn_name": "",
+  "country": "秘鲁",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TEGUCIGALPA",
+  "code": "HNTGU",
+  "cn_name": "",
+  "country": "洪都拉斯",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "KENNER, LA",
+  "code": "USKNR",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BRIDGETOWN",
+  "code": "BBBTN",
+  "cn_name": "",
+  "country": "巴巴多斯",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "AD DAMMAM",
+  "code": "SADMM",
+  "cn_name": "",
+  "country": "沙特阿拉伯",
+  "region": "中东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CHLEBY",
+  "code": "CZCHL",
+  "cn_name": "",
+  "country": "捷克",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CALGARY",
+  "code": "CACAL",
+  "cn_name": "",
+  "country": "加拿大",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PORT MADISON",
+  "code": "USPDI",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "KUMPORT",
+  "code": "TRKMX",
+  "cn_name": "",
+  "country": "土耳其",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SALALAH",
+  "code": "OMSAL",
+  "cn_name": "塞拉莱",
+  "country": "阿曼",
+  "region": "中东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SHERMAN",
+  "code": "USSZM",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TRANOVICE",
+  "code": "CZTRA",
+  "cn_name": "",
+  "country": "捷克",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "UJG PANDANG",
+  "code": "IDUJG",
+  "cn_name": "乌戎潘当",
+  "country": "印尼",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "JIUJIANG",
+  "code": "CNJIU",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "LE HAVRE",
+  "code": "FRLEH",
+  "cn_name": "",
+  "country": "法国",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "STOCKTON",
+  "code": "USSTO",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BARBARIGA",
+  "code": "ITBBG",
+  "cn_name": "",
+  "country": "意大利",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TRACY",
+  "code": "USTRC",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "HO CHI MINH (CAT LAI)",
+  "code": "VNCLI",
+  "cn_name": "",
+  "country": "越南",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "HAVANA",
+  "code": "CUHAV",
+  "cn_name": "",
+  "country": "古巴",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ICD DADRI",
+  "code": "IND4D",
+  "cn_name": "ICD DADRI",
+  "country": "印度",
+  "region": "印巴",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "POZNAN, POLAND",
+  "code": "PLPOZ",
+  "cn_name": "",
+  "country": "波兰",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SHARJAH",
+  "code": "AESHJ",
+  "cn_name": "",
+  "country": "阿联酋",
+  "region": "中东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TOLUCA",
+  "code": "MXTLC",
+  "cn_name": "",
+  "country": "墨西哥",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SIHANOUKVILLE",
+  "code": "CASIH",
+  "cn_name": "",
+  "country": "柬埔寨",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SHERMAN-DENISON",
+  "code": "USPNX",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "LAZARO CARDENAS",
+  "code": "MXLZC",
+  "cn_name": "",
+  "country": "墨西哥",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "COQUITLAM",
+  "code": "CAPTC",
+  "cn_name": "克库特兰港",
+  "country": "加拿大",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CONSHOHOCKEN",
+  "code": "USCSH",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "YAKIMA",
+  "code": "USYKM",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "FREDERICIA",
+  "code": "DKFRC",
+  "cn_name": "",
+  "country": "丹麦",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SANSHAN",
+  "code": "CNSSH",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "AUBURN,WA",
+  "code": "USAUJ",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "LIBREVILLE",
+  "code": "GALIB",
+  "cn_name": "",
+  "country": "加蓬",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CAGLIARI",
+  "code": "ITCAG",
+  "cn_name": "",
+  "country": "意大利",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "REGINA",
+  "code": "CAREG",
+  "cn_name": "",
+  "country": "加拿大",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "GEORGETOWN,GUYANA",
+  "code": "GYGEO",
+  "cn_name": "",
+  "country": "圭亚那",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ADELAIDE",
+  "code": "AUDAL",
+  "cn_name": "",
+  "country": "澳大利亚",
+  "region": "澳新",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "RIO HAINA",
+  "code": "DOHAI",
+  "cn_name": "",
+  "country": "多米尼加",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MARSEILLE-EN-BEAUVAISIS",
+  "code": "FRMBV",
+  "cn_name": "",
+  "country": "法国",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CHITTAGONG",
+  "code": "BDCGP",
+  "cn_name": "",
+  "country": "孟加拉",
+  "region": "印巴",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "NORTHBRIDGE",
+  "code": "USNTG",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "GDANSK",
+  "code": "PLGDA",
+  "cn_name": "",
+  "country": "波兰",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MERIDIAN",
+  "code": "USMEI",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "COLLINGWOOD",
+  "code": "CACOL",
+  "cn_name": "",
+  "country": "加拿大",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ST. PETERSBURG",
+  "code": "RULED",
+  "cn_name": "",
+  "country": "俄罗斯",
+  "region": "波罗的海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CAPE TOWN",
+  "code": "ZACPT",
+  "cn_name": "",
+  "country": "南非",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PUNTA ARENAS",
+  "code": "CLPUQ",
+  "cn_name": "",
+  "country": "智利",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MATADI",
+  "code": "CDMAT",
+  "cn_name": "",
+  "country": "刚果（金）",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TAURANGA",
+  "code": "NZTAU",
+  "cn_name": "",
+  "country": "新西兰",
+  "region": "澳新",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BURNIE",
+  "code": "AUBWT",
+  "cn_name": "",
+  "country": "澳大利亚",
+  "region": "澳新",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BARRANQUILLA",
+  "code": "COBAQ",
+  "cn_name": "",
+  "country": "哥伦比亚",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SYDNEY",
+  "code": "AUSYD",
+  "cn_name": "",
+  "country": "澳大利亚",
+  "region": "澳新",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "HUANGSHI",
+  "code": "CNHSI",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "COLUMBUS,OH",
+  "code": "USCMH",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "KWANGYANG",
+  "code": "KRKWA",
+  "cn_name": "",
+  "country": "韩国",
+  "region": "韩国线",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "THAMESPORT",
+  "code": "GBTMS",
+  "cn_name": "",
+  "country": "英国",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ALGER",
+  "code": "DZALG",
+  "cn_name": "",
+  "country": "阿尔及利亚",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MILAN",
+  "code": "ITMIL",
+  "cn_name": "米兰",
+  "country": "意大利",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "KHORRAMSHAHR",
+  "code": "IRKHO",
+  "cn_name": "",
+  "country": "伊朗",
+  "region": "中东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MONTEGO BAY",
+  "code": "JMMBJ",
+  "cn_name": "",
+  "country": "牙买加",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MARACAIBO",
+  "code": "VEMAR",
+  "cn_name": "",
+  "country": "委内瑞拉",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BARRIE",
+  "code": "CABAR",
+  "cn_name": "",
+  "country": "加拿大",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ISTANBUL",
+  "code": "TRIST",
+  "cn_name": "",
+  "country": "土耳其",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "IMABARI",
+  "code": "JPIMA",
+  "cn_name": "",
+  "country": "日本",
+  "region": "日本偏港",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "KOLN",
+  "code": "GEKON",
+  "cn_name": "",
+  "country": "格鲁吉亚",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ROTHENBURG",
+  "code": "DERTG",
+  "cn_name": "",
+  "country": "德国",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "KISH ISLAND",
+  "code": "IRKIS",
+  "cn_name": "",
+  "country": "伊朗",
+  "region": "中东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "COVENTRY",
+  "code": "GBCVT",
+  "cn_name": "",
+  "country": "英国",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ALOTAU",
+  "code": "PGALO",
+  "cn_name": "",
+  "country": "巴布亚新几内亚",
+  "region": "澳新",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "KOCHI",
+  "code": "JPKOC",
+  "cn_name": "高知",
+  "country": "日本",
+  "region": "日本偏港",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "COLON CONTAINER TERMINAL",
+  "code": "PACCT",
+  "cn_name": "",
+  "country": "巴拿马",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BURGAS",
+  "code": "BGBOJ",
+  "cn_name": "",
+  "country": "保加利亚",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "JICIN",
+  "code": "CZJIC",
+  "cn_name": "",
+  "country": "捷克",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "POHANG",
+  "code": "SKPOH",
+  "cn_name": "",
+  "country": "韩国",
+  "region": "欧洲内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ALTON",
+  "code": "USALN",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "KOTA KINABALU",
+  "code": "MYBKI",
+  "cn_name": "",
+  "country": "马来西亚",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "VALPARAISO",
+  "code": "CLVAL",
+  "cn_name": "",
+  "country": "智利",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "AUSTIN",
+  "code": "USAUM",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美西",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "GHENT",
+  "code": "BEGNE",
+  "cn_name": "",
+  "country": "比利时",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SEMCICE",
+  "code": "CZSEM",
+  "cn_name": "",
+  "country": "捷克",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "EAST LONDON",
+  "code": "ZAELN",
+  "cn_name": "东伦敦",
+  "country": "南非",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "DA CHAN BAY",
+  "code": "CNDCB",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "LAUTOKA",
+  "code": "FJLTK",
+  "cn_name": "劳托卡",
+  "country": "斐济群岛",
+  "region": "澳新",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CURACAO",
+  "code": "CWCUR",
+  "cn_name": "",
+  "country": "库拉索",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CHICAGO,IL",
+  "code": "USCHI",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "POSNAN",
+  "code": "PLPZN",
+  "cn_name": "",
+  "country": "波兰",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PANAMA CITY",
+  "code": "PAPTY",
+  "cn_name": "",
+  "country": "巴拿马",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "IKEDA, WAKAYAMA",
+  "code": "JPIKD",
+  "cn_name": "",
+  "country": "日本",
+  "region": "日本偏港",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "AARHUS",
+  "code": "DKAAR",
+  "cn_name": "",
+  "country": "丹麦",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "LAE",
+  "code": "PGLAE",
+  "cn_name": "",
+  "country": "巴布亚新几内亚",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PORT OF NGQURA",
+  "code": "ZANGQ",
+  "cn_name": "",
+  "country": "南非",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ILLICHEVSK",
+  "code": "UAILK",
+  "cn_name": "",
+  "country": "乌克兰",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SENDAI",
+  "code": "JPSEN",
+  "cn_name": "仙台",
+  "country": "日本",
+  "region": "日本偏港",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "GAOMING",
+  "code": "CNGOM",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "GUANTA",
+  "code": "VEGUT",
+  "cn_name": "",
+  "country": "委内瑞拉",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SUBIC BAY",
+  "code": "PHSUB",
+  "cn_name": "",
+  "country": "菲律宾",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "HANNOVER",
+  "code": "DEHNV",
+  "cn_name": "",
+  "country": "德国",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "NIEDERNDODELEBEN",
+  "code": "DENEO",
+  "cn_name": "",
+  "country": "德国",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ILO",
+  "code": "PEILQ",
+  "cn_name": "",
+  "country": "秘鲁",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MERSIN",
+  "code": "TRMER",
+  "cn_name": "",
+  "country": "土耳其",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "HAMILTON",
+  "code": "BMBDA",
+  "cn_name": "",
+  "country": "百慕大",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BOLINGBROOK,IL",
+  "code": "USBNK",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "DURRES",
+  "code": "ALDRZ",
+  "cn_name": "",
+  "country": "阿尔巴尼亚",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "EVYAP",
+  "code": "TRJVY",
+  "cn_name": "",
+  "country": "土耳其",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PORT ELIZABETH",
+  "code": "ZAPEL",
+  "cn_name": "",
+  "country": "南非",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CESKA SKALICE",
+  "code": "CZCSK",
+  "cn_name": "",
+  "country": "捷克",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TACOMA,WA",
+  "code": "USTIW",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美西",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ICD KANPUR",
+  "code": "INKNU",
+  "cn_name": "",
+  "country": "印度",
+  "region": "印巴",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "COLOMBO",
+  "code": "LKCMB",
+  "cn_name": "",
+  "country": "斯里兰卡",
+  "region": "印巴",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "HAYWARD",
+  "code": "USHYR",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "POINT LISAS",
+  "code": "TTPTS",
+  "cn_name": "",
+  "country": "特立尼达和多巴哥",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TABERNACLE",
+  "code": "USTBQ",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美西",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PRAHA",
+  "code": "CRPRA",
+  "cn_name": "",
+  "country": "哥斯达黎加",
+  "region": "中美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SONGKHLA",
+  "code": "THSGZ",
+  "cn_name": "",
+  "country": "泰国",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "KINGSTOWN",
+  "code": "VCKTN",
+  "cn_name": "",
+  "country": "圣文森特和格林纳丁斯",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SASKATOON",
+  "code": "CASAK",
+  "cn_name": "",
+  "country": "加拿大",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BERLIN",
+  "code": "DEBLN",
+  "cn_name": "",
+  "country": "德国",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BRISLACH",
+  "code": "CHLBR",
+  "cn_name": "",
+  "country": "瑞士",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "NEW PLYMOUTH",
+  "code": "NZNPL",
+  "cn_name": "",
+  "country": "新西兰",
+  "region": "澳新",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BANDAR ABBAS",
+  "code": "IRBND",
+  "cn_name": "",
+  "country": "伊朗",
+  "region": "中东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ICD AHMEDABAD",
+  "code": "INAMD",
+  "cn_name": "",
+  "country": "印度",
+  "region": "印巴",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "RIO DE JANEIRO",
+  "code": "BRRIO",
+  "cn_name": "",
+  "country": "巴西",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "OLNEY,TL",
+  "code": "USOLY",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CHIWAN",
+  "code": "CNCWN",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "LA CORUNA",
+  "code": "ESLCG",
+  "cn_name": "",
+  "country": "西班牙",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "OHSHIMA, WAKAYAMA",
+  "code": "JPOSH",
+  "cn_name": "",
+  "country": "日本",
+  "region": "日本偏港",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "DUNEDIN",
+  "code": "NZDUN",
+  "cn_name": "",
+  "country": "新西兰",
+  "region": "澳新",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BUCHAREST",
+  "code": "ROBBU",
+  "cn_name": "",
+  "country": "罗马尼亚",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SOKHNA",
+  "code": "EGASU",
+  "cn_name": "",
+  "country": "埃及",
+  "region": "红海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "WUZHOU",
+  "code": "CNWUZ",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MANTA",
+  "code": "ECMTA",
+  "cn_name": "",
+  "country": "厄瓜多尔",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "RAVENNA PORT",
+  "code": "ITRAV",
+  "cn_name": "",
+  "country": "意大利",
+  "region": "地中海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SHERMAN",
+  "code": "USXMP",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BUSHER",
+  "code": "IRBUS",
+  "cn_name": "",
+  "country": "伊朗",
+  "region": "中东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "HYDERABAD",
+  "code": "INHYD",
+  "cn_name": "HYDERABAD",
+  "country": "印度",
+  "region": "印巴",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "WANGANUI",
+  "code": "NZWAN",
+  "cn_name": "",
+  "country": "新西兰",
+  "region": "澳新",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SURREY,BC",
+  "code": "CASUY",
+  "cn_name": "",
+  "country": "加拿大",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "DAR-ES-SALAAM",
+  "code": "TZDRS",
+  "cn_name": "达累斯萨拉姆",
+  "country": "坦桑尼亚",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "DEKHILA",
+  "code": "EGDEK",
+  "cn_name": "",
+  "country": "埃及",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MODJO DRY PORT",
+  "code": "ETMOJ",
+  "cn_name": "",
+  "country": "埃塞俄比亚",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "COEGA",
+  "code": "ZAZBA",
+  "cn_name": "",
+  "country": "南非",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "GUAYAQUIL",
+  "code": "ECGYE",
+  "cn_name": "",
+  "country": "厄瓜多尔",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SIBU",
+  "code": "MYSBW",
+  "cn_name": "",
+  "country": "马来西亚",
+  "region": "东南亚",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TAOYUAN",
+  "code": "TWTYN",
+  "cn_name": "",
+  "country": "台湾",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "POCAHONTAS",
+  "code": "USPH2",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TINCAN",
+  "code": "NGTIN",
+  "cn_name": "",
+  "country": "尼日利亚",
+  "region": "非洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SAN ANTONIO",
+  "code": "CLSAI",
+  "cn_name": "",
+  "country": "智利",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SHANTOU",
+  "code": "CNSWA",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PUERTO CALDERA",
+  "code": "CRPCA",
+  "cn_name": "",
+  "country": "哥斯达黎加",
+  "region": "中美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "MERCED",
+  "code": "USMCE",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SOUTH BEND, IN",
+  "code": "USSBN",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SHERMAN",
+  "code": "USSHP",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ST. PAUL, MN",
+  "code": "USSTP",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "LIMA",
+  "code": "PELIM",
+  "cn_name": "",
+  "country": "秘鲁",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "BRUSSELS",
+  "code": "BEBRU",
+  "cn_name": "",
+  "country": "比利时",
+  "region": "欧洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "WHANGAREI",
+  "code": "NZWHA",
+  "cn_name": "",
+  "country": "新西兰",
+  "region": "澳新",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ORLANDO,FL",
+  "code": "USORL",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SEPETIBA",
+  "code": "BRSEP",
+  "cn_name": "",
+  "country": "巴西",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "XINFENG",
+  "code": "CNXAB",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "TORONTO",
+  "code": "CATOR",
+  "cn_name": "",
+  "country": "加拿大",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "CALLAO",
+  "code": "PECLL",
+  "cn_name": "",
+  "country": "秘鲁",
+  "region": "南美洲",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PUERTO CABELLO",
+  "code": "VEPBL",
+  "cn_name": "",
+  "country": "委内瑞拉",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SALT LAKE CITY",
+  "code": "USSLC",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美国内陆",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "FARIDABAD",
+  "code": "INFBD",
+  "cn_name": "",
+  "country": "印度",
+  "region": "印巴",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PIEDMONT",
+  "code": "USPMT",
+  "cn_name": "",
+  "country": "美国",
+  "region": "美东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "INCHON",
+  "code": "KRINC",
+  "cn_name": "仁川",
+  "country": "韩国",
+  "region": "亚洲",
+  "base_port": "否",
+  "switch_code": "KRINC",
+  "iso_code": "KRINC"
+ },
+ {
+  "en_name": "ST.PETERSBURG",
+  "code": "RUPET",
+  "cn_name": "",
+  "country": "俄罗斯",
+  "region": "波罗的海",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "PORT AU PRINCE",
+  "code": "HTPAP",
+  "cn_name": "",
+  "country": "海地",
+  "region": "加勒比",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "SHUWAIKH",
+  "code": "KWSWK",
+  "cn_name": "",
+  "country": "科威特",
+  "region": "中东",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ },
+ {
+  "en_name": "ZHANGJIAGANG",
+  "code": "CNZJG",
+  "cn_name": "",
+  "country": "中国",
+  "region": "",
+  "base_port": "否",
+  "switch_code": "",
+  "iso_code": ""
+ }
+]
